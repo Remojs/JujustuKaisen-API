@@ -1,7 +1,7 @@
 
     ,
-    "": {
-      "id": ,
+    "6": {
+      "id": 6,
       "name": "",
       "alias": [],
       "speciesId": ,
@@ -11,7 +11,7 @@
       "gender": ,
       "occupationId": [],
       "affiliationId": [],
-      "animeDebut": "Ep",
+      "animeDebut": "null",
       "mangaDebut": "Ch",
       "cursedTechniquesIds": [],
       "gradeId": ,
@@ -19,6 +19,6 @@
       "battlesId": [],
       "cursedToolId": [],
       "status": "",
-      "relatives": []
+      "relatives": null
     }
 
