@@ -1,14 +1,14 @@
 
     ,
-    "6": {
-      "id": 6,
+    "8": {
+      "id": 8,
       "name": "",
       "alias": [],
-      "speciesId": ,
-      "birthday": "",
+      "speciesId": 1,
+      "birthday": "Unknown",
       "height": " cm",
       "age": "",
-      "gender": ,
+      "gender": 1,
       "occupationId": [],
       "affiliationId": [],
       "animeDebut": "null",
@@ -18,7 +18,7 @@
       "domainExpansionId": null,
       "battlesId": [],
       "cursedToolId": [],
-      "status": "",
+      "status": "2",
       "relatives": null
     }
 
