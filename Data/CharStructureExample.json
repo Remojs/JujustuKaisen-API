@@ -1,24 +1,24 @@
 
     ,
-    "8": {
-      "id": 8,
+    "10": {
+      "id": 10,
       "name": "",
-      "alias": [],
+      "alias": null,
       "speciesId": 1,
       "birthday": "Unknown",
       "height": " cm",
       "age": "",
       "gender": 1,
-      "occupationId": [],
-      "affiliationId": [],
-      "animeDebut": "null",
+      "occupationId": [14],
+      "affiliationId": null,
+      "animeDebut": "Ep",
       "mangaDebut": "Ch",
-      "cursedTechniquesIds": [],
-      "gradeId": ,
+      "cursedTechniquesIds": null,
+      "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [],
-      "cursedToolId": [],
-      "status": "2",
+      "battlesId": null,
+      "cursedToolId": null,
+      "status": "1",
       "relatives": null
     }
 
