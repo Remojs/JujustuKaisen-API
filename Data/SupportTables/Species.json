@@ -1,0 +1,13 @@
+{
+  "species": {
+    "1": {"id": 1,"specie_name": "Human"},
+    "2": {"id": 2,"specie_name": "Cursed Spirit"},
+    "3": {"id": 3,"specie_name": "Shikigami"},
+    "4": {"id": 4,"specie_name": "Cursed Womb"},
+    "5": {"id": 5,"specie_name": "Cursed Corpse"},
+    "6": {"id": 6,"specie_name": "Hybrid (Human/Cursed Spirit)"},
+    "7": {"id": 7,"specie_name": "Incarnate Body"},
+    "8": {"id": 8,"specie_name": "Vengeful Spirit"},
+    "9": {"id": 9,"specie_name": "Immortal"}
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "grade": {
+        "1": {"id": 1, "grade": "Grade 4"},
+        "2": {"id": 2, "grade": "Grade 3"},
+        "3": {"id": 3, "grade": "Semi-Grade 2"},
+        "4": {"id": 4, "grade": "Grade 2"},
+        "5": {"id": 5, "grade": "Semi-Grade 1"},
+        "6": {"id": 6, "grade": "Grade 1"},
+        "7": {"id": 7, "grade": "Semi-Special Grade"},
+        "8": {"id": 8, "grade": "Special Grade"}
+    }
+}
