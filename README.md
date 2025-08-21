@@ -1,11 +1,11 @@
 API DE Jujutsu kaisen realizada en laravel con:
 
-+150 Personajes
-+150 Tecnicas Malditas
-+20 Afiliaciones
-+20 Ocupaciones
-+15 Expansiones de Dominio
-+100 Batallas
-+50 Armas/Herramientas Malditas
++240 Personajes, maldiciones y shikigamis </br>
++150 Tecnicas Malditas </br>
++20 Afiliaciones </br>
++20 Ocupaciones </br>
++15 Expansiones de Dominio</br> 
++100 Batallas</br>
++50 Armas/Herramientas Malditas</br>
 
 Entre otras informaciones del universo JJK
