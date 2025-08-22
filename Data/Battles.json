@@ -6,7 +6,8 @@
       "result": "Gojo and Geto are victorious. Bayer & Kokun are defeated",
       "arc": "Gojo’s Past Arc",
       "date": "August 2006",
-      "location": "Tokyo"
+      "location": "Tokyo",
+      "combatants": [4, 14, 111, 112]
     },
     "2": {
       "id": 2,
@@ -14,7 +15,8 @@
       "result": "Geto is victorious. Shikigami Curse User is defeated",
       "arc": "Gojo’s Past Arc",
       "date": "August 2006",
-      "location": "Renchoku Girls' Junior High"
+      "location": "Renchoku Girls' Junior High",
+      "combatants": [14, 184]
     },
     "3": {
       "id": 3,
@@ -22,7 +24,8 @@
       "result": "The curse user escapes with Riko Amanai.",
       "arc": "Gojo’s Past Arc",
       "date": "August 2006",
-      "location": "Renchoku Girls' Junior High"
+      "location": "Renchoku Girls' Junior High",
+      "combatants": [72, 185]
     },
     "4": {
       "id": 4,
@@ -30,7 +33,8 @@
       "result": "Gojo is victorious. Twin Curse User is defeated",
       "arc": "Gojo’s Past Arc",
       "date": "August 2006",
-      "location": "Tokyo"
+      "location": "Tokyo",
+      "combatants": [4, 185]
     },
     "5": {
       "id": 5,
@@ -38,7 +42,8 @@
       "result": "Toji is victorious. Gojo is defeated",
       "arc": "Gojo’s Past Arc",
       "date": "August 2006",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [4, 28]
     },
     "6": {
       "id": 6,
@@ -46,7 +51,8 @@
       "result": "Toji is victorious. Geto is defeated",
       "arc": "Gojo’s Past Arc",
       "date": "August 2006",
-      "location": "Tombs of the Star Corridor"
+      "location": "Tombs of the Star Corridor",
+      "combatants": [14, 28]
     },
     "7": {
       "id": 7,
@@ -54,7 +60,8 @@
       "result": "Gojo is victorious. Toji is killed",
       "arc": "Gojo’s Past Arc",
       "date": "August 2006",
-      "location": "House of the Children of the Star"
+      "location": "House of the Children of the Star",
+      "combatants": [4, 28]
     },
     "8": {
       "id": 8,
@@ -62,7 +69,8 @@
       "result": "Yuta is victorious. Maki is rescued. Elementary School Cursed Spirits are exorcised.",
       "arc": "Cursed Child Arc",
       "date": "November 2016",
-      "location": "Elementary School"
+      "location": "Elementary School",
+      "combatants": [5, 6, 100, 159, 160]
     },
     "9": {
       "id": 9,
@@ -70,7 +78,8 @@
       "result": "Yuta and Toge are victorious. Hapina Shopping Center Cursed Spirits are exorcised.",
       "arc": "Cursed Child Arc",
       "date": "February 2017",
-      "location": "Hapina Shopping Center"
+      "location": "Hapina Shopping Center",
+      "combatants": [5, 7, 130, 170]
     },
     "10": {
       "id": 10,
@@ -78,7 +87,8 @@
       "result": "Gojo is victorious. Miguel is defeated",
       "arc": "Cursed Child Arc",
       "date": "December 24, 2017",
-      "location": "Shinjuku / Kyoto"
+      "location": "Shinjuku / Kyoto",
+      "combatants": [4, 46]
     },
     "11": {
       "id": 11,
@@ -86,7 +96,8 @@
       "result": "All cursed spirits are exorcised by jujutsu sorcerers in both Shinjuku and Kyoto.",
       "arc": "Cursed Child Arc",
       "date": "December 24, 2017",
-      "location": "Shinjuku / Kyoto"
+      "location": "Shinjuku / Kyoto",
+      "combatants": [4, 9, 11, 15, 17, 30, 31, 32, 33, 34, 35, 37, 38, 46, 47, 48, 49, 88, 108, 109, 157, 158, 161, 162, 163, 164, 165, 166, 167, 181, 182, 183]
     },
     "12": {
       "id": 12,
@@ -94,7 +105,8 @@
       "result": "Geto is victorious. Toge, Panda and Maki are defeated",
       "arc": "Cursed Child Arc",
       "date": "December 24, 2017",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [6, 7, 8, 14, 153, 154]
     },
     "13": {
       "id": 13,
@@ -102,7 +114,8 @@
       "result": "Yuta is victorious. Toge, Panda and Maki is rescued. Geto is defeated and then executed",
       "arc": "Cursed Child Arc",
       "date": "December 24, 2017",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [5, 14, 100, 137, 171]
     },
     "14": {
       "id": 14,
@@ -110,7 +123,8 @@
       "result": "Yuji (with Sukuna's Finger) and Megumi are victorious. School Cursed Spirits are exorcised.",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Sugisawa Municipal High School"
+      "location": "Sugisawa Municipal High School",
+      "combatants": [1, 2, 140, 172, 205, 206]
     },
     "15": {
       "id": 15,
@@ -118,7 +132,8 @@
       "result": "Gojo is victorious. Sukuna is defeated. Yuji regains control.",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Sugisawa Municipal High School"
+      "location": "Sugisawa Municipal High School",
+      "combatants": [1, 4, 20]
     },
     "16": {
       "id": 16,
@@ -126,7 +141,8 @@
       "result": "Yuji's execution is delayed and he's accepted into Tokyo Jujutsu High.",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Tokyo Jujutsu High School"
+      "location": "Tokyo Jujutsu High School",
+      "combatants": [1, 4]
     },
     "17": {
       "id": 17,
@@ -134,7 +150,8 @@
       "result": "Yuji and Nobara are victorious. Rappongi Cursed Spirits are exorcised",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Roppongi, Tokyo"
+      "location": "Roppongi, Tokyo",
+      "combatants": [1, 3, 129, 173, 174]
     },
     "18": {
       "id": 18,
@@ -142,7 +159,8 @@
       "result": "The team is unable to confirm any survivors. A special grade cursed spirit is born.",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Eishu Juvenile Detention Center"
+      "location": "Eishu Juvenile Detention Center",
+      "combatants": [1, 2, 3]
     },
     "19": {
       "id": 19,
@@ -150,7 +168,8 @@
       "result": "Nobara is captured. Megumi exorcises the curse. Nobara is rescued.",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Eishu Juvenile Detention Center"
+      "location": "Eishu Juvenile Detention Center",
+      "combatants": [2, 3, 101, 175, 210]
     },
     "20": {
       "id": 20,
@@ -158,7 +177,8 @@
       "result": "Eishu Detention Center Finger Bearer is Victorious. Yuji is defeated. Sukuna takes control",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Eishu Juvenile Detention Center"
+      "location": "Eishu Juvenile Detention Center",
+      "combatants": [1, 101]
     },
     "21": {
       "id": 21,
@@ -166,7 +186,8 @@
       "result": "Sukuna is victorious. Eishu Detention Center Finger Bearer is exorcised",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Eishu Juvenile Detention Center"
+      "location": "Eishu Juvenile Detention Center",
+      "combatants": [20, 101]
     },
     "22": {
       "id": 22,
@@ -174,7 +195,8 @@
       "result": "Yuji regains control.",
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
-      "location": "Eishu Juvenile Detention Center"
+      "location": "Eishu Juvenile Detention Center",
+      "combatants": [2, 20, 208, 209]
     },
     "23": {
       "id": 23,
@@ -182,7 +204,8 @@
       "result": "Gojo is victorious. Jogo is defeated, but is rescued by Hanami.",
       "arc": "Fearsome Womb Arc",
       "date": "August 2018",
-      "location": "Unspecified Road"
+      "location": "Unspecified Road",
+      "combatants": [1, 4, 23, 24]
     },
     "24": {
       "id": 24,
@@ -190,7 +213,8 @@
       "result": "Panda and Toge Inumaki interrupt the battle.",
       "arc": "Fearsome Womb Arc",
       "date": "August 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [2, 7, 8, 30]
     },
     "25": {
       "id": 25,
@@ -198,7 +222,8 @@
       "result": "Maki interrupts the battle.",
       "arc": "Fearsome Womb Arc",
       "date": "August 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [3, 6, 31]
     },
     "26": {
       "id": 26,
@@ -206,7 +231,8 @@
       "result": "Yuji and Nanami are victorious. Transfigured humans from Kinema Cinema are killed",
       "arc": "Mahito Arc",
       "date": "September 2018",
-      "location": "Kinema Cinema"
+      "location": "Kinema Cinema",
+      "combatants": [1, 15, 189, 190]
     },
     "27": {
       "id": 27,
@@ -214,7 +240,8 @@
       "result": "Nanami and Mahito withdraws",
       "arc": "Mahito Arc",
       "date": "September 2018",
-      "location": "Sewers (Kawasaki City)"
+      "location": "Sewers (Kawasaki City)",
+      "combatants": [15, 22]
     },
     "28": {
       "id": 28,
@@ -222,7 +249,8 @@
       "result": "Yuji is victorious. He tries to convince Junpei.",
       "arc": "Mahito Arc",
       "date": "September 2018",
-      "location": "Satozakura High School"
+      "location": "Satozakura High School",
+      "combatants": [1, 107, 198]
     },
     "29": {
       "id": 29,
@@ -230,7 +258,8 @@
       "result": "Junpei is Killed. Nanami joins the fight",
       "arc": "Mahito Arc",
       "date": "September 2018",
-      "location": "Satozakura High School"
+      "location": "Satozakura High School",
+      "combatants": [1, 22, 107]
     },
     "30": {
       "id": 30,
@@ -238,7 +267,8 @@
       "result": "Yuji and Nanami is Victorious. Mahito withdraws.",
       "arc": "Mahito Arc",
       "date": "September 2018",
-      "location": "Satozakura High School"
+      "location": "Satozakura High School",
+      "combatants": [1, 15, 22]
     },
     "31": {
       "id": 31,
@@ -246,7 +276,8 @@
       "result": "The competition is interrupted by Mahito's faction of curses and curse users. Tokyo High wins.",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [1, 2, 3, 4, 6, 7, 8, 22, 23, 30, 31, 32, 33, 34, 35, 36, 38, 45, 92]
     },
     "32": {
       "id": 32,
@@ -254,7 +285,8 @@
       "result": "Todo and Yuji tie. They are interrupted by Hanami.",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [1, 23, 30]
     },
     "33": {
       "id": 33,
@@ -262,7 +294,8 @@
       "result": "Panda is victorious. Mechamaru is defeated",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [8, 35, 36]
     },
     "34": {
       "id": 34,
@@ -270,7 +303,8 @@
       "result": "Maki is victorious. Miwa is defeated",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [6, 34]
     },
     "35": {
       "id": 35,
@@ -278,7 +312,8 @@
       "result": "Nobara is victorious. Momo is rescued by Mai bullet",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [3, 31, 33]
     },
     "36": {
       "id": 36,
@@ -286,7 +321,8 @@
       "result": "Maki is victorious. Mai is defeated",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [6, 31]
     },
     "37": {
       "id": 37,
@@ -294,7 +330,8 @@
       "result": "Hanami interrupts in the middle of the battle.",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [2, 32]
     },
     "38": {
       "id": 38,
@@ -302,7 +339,8 @@
       "result": "Toge and Kamo withdraws. Maki join the battle",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [2, 6, 7, 23, 32]
     },
     "39": {
       "id": 39,
@@ -310,7 +348,8 @@
       "result": "Maki is Rescued. Megumi withdraws. Todo and Yuji joins the battle",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [1, 2, 6, 23, 30]
     },
     "40": {
       "id": 40,
@@ -318,7 +357,8 @@
       "result": "Yuji and Todo is victorious. Hanami is defeated by Satoru Gojo's Purple and withdraws",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [1, 4, 23, 30]
     }
     ,
     "41": {
@@ -327,7 +367,8 @@
       "result": "Gojo interrupts the battle and defeat Juzo",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [4, 38, 92]
     },
     "42": {
       "id": 42,
@@ -335,7 +376,8 @@
       "result": "Tokyo High wins 2-0.",
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
-      "location": "Tokyo Jujutsu High"
+      "location": "Tokyo Jujutsu High",
+      "combatants": [1, 2, 3, 6, 7, 8, 30, 31, 32, 33, 34, 37]
     },
     "43": {
       "id": 43,
@@ -343,7 +385,8 @@
       "result": "Megumi is victorious. Yasohachi Bridge Curse is exorcised",
       "arc": "Death Painting Arc",
       "date": "September 2018",
-      "location": "Yasohachi Bridge"
+      "location": "Yasohachi Bridge",
+      "combatants": [2, 132]
     },
     "44": {
       "id": 44,
@@ -351,7 +394,8 @@
       "result": "Megumi is victorious. Yasohachi Bridge Finger Bearer is exorcised",
       "arc": "Death Painting Arc",
       "date": "September 2018",
-      "location": "Yasohachi Bridge"
+      "location": "Yasohachi Bridge",
+      "combatants": [2, 101]
     },
     "45": {
       "id": 45,
@@ -359,7 +403,8 @@
       "result": "Yuji and Nobara are victorious. Eso and Kechizu are killed",
       "arc": "Death Painting Arc",
       "date": "September 2018",
-      "location": "Yasohachi Bridge"
+      "location": "Yasohachi Bridge",
+      "combatants": [1, 3, 86, 87]
     },
     "46": {
       "id": 46,
@@ -367,7 +412,8 @@
       "result": "Mahito is victorious. Kokichi is killed",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Metropolitan Expressway RT. 3 Shibuya Line"
+      "location": "Metropolitan Expressway RT. 3 Shibuya Line",
+      "combatants": 
     },
     "47": {
       "id": 47,
@@ -375,7 +421,8 @@
       "result": "Jogo, Choso and Mahito are victorious. Hanami is killed. Satoru Gojo is sealed",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Fukutoshin Line Platform"
+      "location": "Fukutoshin Line Platform",
+      "combatants": 
     },
     "48": {
       "id": 48,
@@ -383,7 +430,8 @@
       "result": "Yuji is victorious. Ko-Guy is exorcised.",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Meiji-Jingumae Station B2F"
+      "location": "Meiji-Jingumae Station B2F",
+      "combatants": 
     },
     "49": {
       "id": 49,
@@ -391,7 +439,8 @@
       "result": "Toji is victorious. Ino is defeated and rescued by megumi. Ogami is killed",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Shibuya Tower"
+      "location": "Shibuya Tower",
+      "combatants": 
     },
     "50": {
       "id": 50,
@@ -399,7 +448,8 @@
       "result": "Yuji and Megumi are victorious. Awasaka is defeated",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Metropolitan Expressway RT. 3 Shibuya Line"
+      "location": "Metropolitan Expressway RT. 3 Shibuya Line",
+      "combatants": 
     },
     "51": {
       "id": 51,
@@ -407,7 +457,8 @@
       "result": "Mei Mei is victorious. Niji ebina is killed",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Fukutoshin Line Platform Between Harujuku & Dogenzaka"
+      "location": "Fukutoshin Line Platform Between Harujuku & Dogenzaka",
+      "combatants": 
     },
     "52": {
       "id": 52,
@@ -415,7 +466,8 @@
       "result": "Nanami is victorious. Nobara is rescued. Shigemo is defeated",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Shoto Bunkamura Street Bunkamura Station"
+      "location": "Shoto Bunkamura Street Bunkamura Station",
+      "combatants": 
     },
     "53": {
       "id": 53,
@@ -423,7 +475,8 @@
       "result": "Mei Mei is victorious. Smallpox Deity is exorcised",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Metropolitan Expressway RT. 3 Shibuya Line"
+      "location": "Metropolitan Expressway RT. 3 Shibuya Line",
+      "combatants": 
     },
     "54": {
       "id": 54,
@@ -431,7 +484,8 @@
       "result": "Choso is victorious. Yuji is defeated and spared by Choso",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Shibuya Station"
+      "location": "Shibuya Station",
+      "combatants": 
     },
     "55": {
       "id": 55,
@@ -439,7 +493,8 @@
       "result": "Dagon has the upper hand. Naobito loses an arm. Megumi, Maki, and Nanami are injured. Toji joins the battle",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Shibuya Station"
+      "location": "Shibuya Station",
+      "combatants": 
     },
     "56": {
       "id": 56,
@@ -447,7 +502,8 @@
       "result": "Toji is victorious. Dagon is exorcised. Jogo intervenes and burns Maki, Naobito, and Nanami.",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Shibuya Station"
+      "location": "Shibuya Station",
+      "combatants": 
     },
     "57": {
       "id": 57,
@@ -455,7 +511,8 @@
       "result": "Toji has the upper hand, but when he regains consciousness, he commits suicide",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Outside of Shibuya Station"
+      "location": "Outside of Shibuya Station",
+      "combatants": 
     },
     "58": {
       "id": 58,
@@ -463,7 +520,8 @@
       "result": "Sukuna is victorious. Jogo is incinerated",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Outside of Shibuya Station"
+      "location": "Outside of Shibuya Station",
+      "combatants": 
     },
     "59": {
       "id": 59,
@@ -471,7 +529,8 @@
       "result": "Sukuna is victorious. Mahoraga is defeated. Megumi is rescued. Shigemo is killed",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Outside of Shibuya Station"
+      "location": "Outside of Shibuya Station",
+      "combatants": 
     },
     "60": {
       "id": 60,
@@ -479,7 +538,8 @@
       "result": "Mahito is victorious. Nobara is injured. Yuji is defeated. Todo joins the battle",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Shibuya Station Dogenzaka Alley"
+      "location": "Shibuya Station Dogenzaka Alley",
+      "combatants": 
     }
     ,
     "61": {
@@ -488,7 +548,8 @@
       "result": "Yuji is victorious. Mahito is defeated and then absorbed by Kenjaku. Todo loses an arm",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Shibuya Station"
+      "location": "Shibuya Station",
+      "combatants": 
     },
     "62": {
       "id": 62,
@@ -496,7 +557,8 @@
       "result": "Kenjaku and Uraume withdraws. Choso and Yuji was injured. Yuki Tsukumo and Kyoto Jujutsu High joins the battle",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Shibuya Police Station"
+      "location": "Shibuya Police Station",
+      "combatants": 
     },
     "63": {
       "id": 63,
@@ -504,7 +566,8 @@
       "result": "Yuta is victorious. Anglerfish Curse is exorcised",
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
-      "location": "Shibuya"
+      "location": "Shibuya",
+      "combatants": 
     },
     "64": {
       "id": 64,
@@ -512,7 +575,8 @@
       "result": "Yuji and Choso are victorious. Cursed spirits are exorcised. Naoya and Yuta joins the battle",
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
-      "location": "Shibuya"
+      "location": "Shibuya",
+      "combatants": 
     },
     "65": {
       "id": 65,
@@ -520,7 +584,8 @@
       "result": "Yuta is victorious. Yuji is defeated",
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
-      "location": "Shibuya"
+      "location": "Shibuya",
+      "combatants": 
     },
     "66": {
       "id": 66,
@@ -528,7 +593,8 @@
       "result": "Choso is victorious, but Yuta knocks him out. Naoya is defeated.",
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
-      "location": "Shibuya"
+      "location": "Shibuya",
+      "combatants": 
     },
     "67": {
       "id": 67,
@@ -536,7 +602,8 @@
       "result": "Yuji is victorious. Panda is \"defeated\"",
       "arc": "Perfect Preparation Arc",
       "date": "November 10, 2018",
-      "location": "Gachinko Fight Club"
+      "location": "Gachinko Fight Club",
+      "combatants": 
     },
     "68": {
       "id": 68,
@@ -544,7 +611,8 @@
       "result": "Megumi and panda are victorious. Kirara is defeated",
       "arc": "Perfect Preparation Arc",
       "date": "November 11, 2018",
-      "location": "Gachinko Fight Club"
+      "location": "Gachinko Fight Club",
+      "combatants": 
     },
     "69": {
       "id": 69,
@@ -552,7 +620,8 @@
       "result": "Hakari is victorious and recognizes Yuji's \"fever\" and decides to cut a deal.",
       "arc": "Perfect Preparation Arc",
       "date": "November 11, 2018",
-      "location": "Gachinko Fight Club"
+      "location": "Gachinko Fight Club",
+      "combatants": 
     },
     "70": {
       "id": 70,
@@ -560,7 +629,8 @@
       "result": "Maki and Mai are defeated by Ogi. Maki has an awakening and kills Ogi. Mai dies",
       "arc": "Perfect Preparation Arc",
       "date": "November 12, 2018",
-      "location": "The Zenin Clan Household"
+      "location": "The Zenin Clan Household",
+      "combatants": 
     },
     "71": {
       "id": 71,
@@ -568,7 +638,8 @@
       "result": "Maki is victorious. entire Kukuru Unit are killed",
       "arc": "Perfect Preparation Arc",
       "date": "November 12, 2018",
-      "location": "The Zenin Clan Household"
+      "location": "The Zenin Clan Household",
+      "combatants": 
     },
     "72": {
       "id": 72,
@@ -576,7 +647,8 @@
       "result": "Maki is victorious. Jinichi, Ranta, Chojuro, and Nobuaki are killed.",
       "arc": "Perfect Preparation Arc",
       "date": "November 12, 2018",
-      "location": "The Zenin Clan Household"
+      "location": "The Zenin Clan Household",
+      "combatants": 
     },
     "73": {
       "id": 73,
@@ -584,7 +656,8 @@
       "result": "Maki is victorious. Naoya is defeated ans then killed by Mai's Mother",
       "arc": "Perfect Preparation Arc",
       "date": "November 12, 2018",
-      "location": "The Zenin Clan Household"
+      "location": "The Zenin Clan Household",
+      "combatants": 
     },
     "74": {
       "id": 74,
@@ -592,7 +665,8 @@
       "result": "Yuji is victorious. Haba and Hanyu are defeated",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 1 Colony"
+      "location": "Tokyo No. 1 Colony",
+      "combatants": 
     },
     "75": {
       "id": 75,
@@ -600,7 +674,8 @@
       "result": "Yuji is victorious. Higuruma allows himself to be defeated instead of executing an innocent man",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 1 Colony"
+      "location": "Tokyo No. 1 Colony",
+      "combatants": 
     },
     "76": {
       "id": 76,
@@ -608,7 +683,8 @@
       "result": "Takaba interrupts the battle. No winner",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 1 Colony"
+      "location": "Tokyo No. 1 Colony",
+      "combatants": 
     },
     "77": {
       "id": 77,
@@ -616,7 +692,8 @@
       "result": "Hazenoki withdraws.",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 1 Colony"
+      "location": "Tokyo No. 1 Colony",
+      "combatants": 
     },
     "78": {
       "id": 78,
@@ -624,7 +701,8 @@
       "result": "Megumi is victorious. Reggie dies.",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 1 Colony"
+      "location": "Tokyo No. 1 Colony",
+      "combatants": 
     },
     "79": {
       "id": 79,
@@ -632,7 +710,8 @@
       "result": "Yuta is victorious. Kurourushi is exorcised",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Sendai Colony"
+      "location": "Sendai Colony",
+      "combatants": 
     },
     "80": {
       "id": 80,
@@ -640,7 +719,8 @@
       "result": "Yuta is victorious. Ryu and Takako are defeated",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Sendai Colony"
+      "location": "Sendai Colony",
+      "combatants": 
     }
     ,
     "81": {
@@ -649,7 +729,8 @@
       "result": "Hakari is victorious. Charles is defeated",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 2 Colony"
+      "location": "Tokyo No. 2 Colony",
+      "combatants": 
     },
     "82": {
       "id": 82,
@@ -657,7 +738,8 @@
       "result": "Kashimo is victorious. Panda is defeated",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 2 Colony"
+      "location": "Tokyo No. 2 Colony",
+      "combatants": 
     },
     "83": {
       "id": 83,
@@ -665,7 +747,8 @@
       "result": "Truce; no winner.",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 2 Colony"
+      "location": "Tokyo No. 2 Colony",
+      "combatants": 
     },
     "84": {
       "id": 84,
@@ -673,7 +756,8 @@
       "result": "Interrupted battle. Daido and Miyo joins the battle",
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
-      "location": "Sakurajima Colony"
+      "location": "Sakurajima Colony",
+      "combatants": 
     },
     "85": {
       "id": 85,
@@ -681,7 +765,8 @@
       "result": "Maki are victorious. Cursed Naoya is exorcised",
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
-      "location": "Sakurajima Colony"
+      "location": "Sakurajima Colony",
+      "combatants": 
     },
     "86": {
       "id": 86,
@@ -689,7 +774,8 @@
       "result": "Kenjaku is victorious. Yuki is killed",
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
-      "location": "Tombs of the Star"
+      "location": "Tombs of the Star",
+      "combatants": 
     },
     "87": {
       "id": 87,
@@ -697,7 +783,8 @@
       "result": "Kenjaku withdraws",
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
-      "location": "Tombs of the Star"
+      "location": "Tombs of the Star",
+      "combatants": 
     },
     "88": {
       "id": 88,
@@ -705,7 +792,8 @@
       "result": "Sukuna is victorious. Hana fatally wounded.",
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
-      "location": "Tokyo No. 1 Colony"
+      "location": "Tokyo No. 1 Colony",
+      "combatants": 
     },
     "89": {
       "id": 89,
@@ -713,7 +801,8 @@
       "result": "Sukuna is victorious. Ryu is killed",
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
-      "location": "Sendai Colony"
+      "location": "Sendai Colony",
+      "combatants": 
     },
     "90": {
       "id": 90,
@@ -721,7 +810,8 @@
       "result": "Sukuna is victorious. Yorozu is killed",
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
-      "location": "Sendai Colony"
+      "location": "Sendai Colony",
+      "combatants": 
     },
     "91": {
       "id": 91,
@@ -729,7 +819,8 @@
       "result": "Sukuna is victorious. Agito and Mahoraha are defeated. Gojo is killed",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "92": {
       "id": 92,
@@ -737,7 +828,8 @@
       "result": "Kenjaku is victorious. Hazenoki is killed",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Lake Gosho Colony"
+      "location": "Lake Gosho Colony",
+      "combatants": 
     },
     "93": {
       "id": 93,
@@ -745,7 +837,8 @@
       "result": "Kenjaku is victorious. Takaba is defeated",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Lake Gosho Colony"
+      "location": "Lake Gosho Colony",
+      "combatants": 
     },
     "94": {
       "id": 94,
@@ -753,7 +846,8 @@
       "result": "Yuuta is victorious. Kenjaku is killed",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Lake Gosho Colony"
+      "location": "Lake Gosho Colony",
+      "combatants": 
     },
     "95": {
       "id": 95,
@@ -761,7 +855,8 @@
       "result": "Stalemate; no winner and retreat.",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "96": {
       "id": 96,
@@ -769,7 +864,8 @@
       "result": "Sukuna defeats Kashimo.",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "97": {
       "id": 97,
@@ -777,7 +873,8 @@
       "result": "Sukuna defeat Choso and defeats Higuruma",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "98": {
       "id": 98,
@@ -785,7 +882,8 @@
       "result": "Sukuna defeats Yuuta and Yuji",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "99": {
       "id": 99,
@@ -793,7 +891,8 @@
       "result": "Sukuna defeats Ino and Kusakabe",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "100": {
       "id": 100,
@@ -801,7 +900,8 @@
       "result": "Sukuna defeats Larue",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "101": {
       "id": 101,
@@ -809,7 +909,8 @@
       "result": "Sukuna defeats Maki and kills Choso",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "102": {
       "id": 102,
@@ -817,7 +918,8 @@
       "result": "Sukuna receives several black flashes from Yuji.",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "103": {
       "id": 103,
@@ -825,7 +927,8 @@
       "result": "Sukuna receives an Unlimited Void and a Hollow Purple, which cancels his dominance and partially damages him.",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "104": {
       "id": 104,
@@ -833,7 +936,8 @@
       "result": "Sukuna defeats Hana and Todo, but Yuji defeats him and frees Megumi.",
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
-      "location": "Shinjuku"
+      "location": "Shinjuku",
+      "combatants": 
     },
     "105": {
       "id": 105,
@@ -841,7 +945,8 @@
       "result": "The curse user is defeated and captured.",
       "arc": "Final Chapter",
       "date": "Unknown",
-      "location": "Tokyo"
+      "location": "Tokyo",
+      "combatants": 
     },
     "106": {
       "id": 106,
@@ -849,7 +954,8 @@
       "result": "Mei Mei withdraws",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Metropolitan Expressway RT. 3 Shibuya Line"
+      "location": "Metropolitan Expressway RT. 3 Shibuya Line",
+      "combatants": 
     },
     "107": {
       "id": 107,
@@ -857,7 +963,8 @@
       "result": "Gakuganji is victorious. Masamichi is killed",
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
-      "location": "Tokyo"
+      "location": "Tokyo",
+      "combatants": 
     },
     "108": {
       "id": 108,
@@ -865,7 +972,8 @@
       "result": "Higuruma is victorious. Haba is defeated",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
-      "location": "Tokyo No. 1 Colony"
+      "location": "Tokyo No. 1 Colony",
+      "combatants": 
     },
     "109": {
       "id": 109,
@@ -873,7 +981,8 @@
       "result": "Yuta is victorious. Dhruv is Killed",
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
-      "location": "Sendai Colony"
+      "location": "Sendai Colony",
+      "combatants": 
     }
   }
 }

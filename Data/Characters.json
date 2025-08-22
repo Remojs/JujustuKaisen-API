@@ -226,7 +226,7 @@
       "cursedTechniquesIds": [105, 106],
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 1,
       "relatives": null
@@ -646,7 +646,7 @@
       "cursedTechniquesIds": [2],
       "gradeId": 2,
       "domainExpansionId": null,
-      "battlesId": [25, 31, 36, 42, 62],
+      "battlesId": [11, 25, 31, 36, 42, 62],
       "cursedToolId": [],
       "status": 2,
       "relatives": [ "Ogi Zenin (Father)", "Unnamed Mother", "Maki Zenin (Older Twin Sister)", "Naobito Zenin (Uncle)", "Naoya Zenin (Cousin)", "Unnamed Uncle", "Jinichi Zenin (Cousin)", "Toji Fushiguro (Cousin)", "Megumi Fushiguro (Second Nephew)"]
@@ -730,7 +730,7 @@
       "cursedTechniquesIds": [12, 73],
       "gradeId": 5,
       "domainExpansionId": null,
-      "battlesId": [33, 46],
+      "battlesId": [11, 33, 46],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -751,7 +751,7 @@
       "cursedTechniquesIds": [68, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131],
       "gradeId": 5,
       "domainExpansionId": null,
-      "battlesId": [33, 46],
+      "battlesId": [11, 33, 46],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -772,7 +772,7 @@
       "cursedTechniquesIds": [74, 106],
       "gradeId": 5,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 1,
       "relatives": null
@@ -793,7 +793,7 @@
       "cursedTechniquesIds": [38],
       "gradeId": 6,
       "domainExpansionId": null,
-      "battlesId": [41],
+      "battlesId": [11, 41],
       "cursedToolId": [22],
       "status": 1,
       "relatives": null
@@ -3210,7 +3210,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [12],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3231,7 +3231,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [12],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3294,7 +3294,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3315,7 +3315,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3336,7 +3336,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [9],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3357,7 +3357,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [9],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3378,7 +3378,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3399,7 +3399,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3420,7 +3420,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3441,7 +3441,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3462,7 +3462,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3483,7 +3483,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3504,7 +3504,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [11],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3567,7 +3567,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [9],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3588,7 +3588,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [13],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3609,7 +3609,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [14],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3630,7 +3630,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [17],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3651,7 +3651,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [17],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -4302,7 +4302,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [14],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4323,7 +4323,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [14],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
