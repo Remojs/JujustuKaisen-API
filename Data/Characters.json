@@ -37,7 +37,7 @@
       "cursedTechniquesIds": [59, 71, 82, 83, 84, 85, 86, 87, 88, 89, 90],
       "gradeId": 4,
       "domainExpansionId": 5,
-      "battlesId": [15, 18, 22, 24, 31, 37, 38, 39, 42, 43, 44, 50, 55, 57, 69, 76, 78, 105],
+      "battlesId": [15, 18, 22, 24, 31, 37, 38, 39, 42, 43, 44, 49, 50, 55, 56, 57, 69, 76, 78, 105],
       "cursedToolId": [4, 5, 9],
       "status": 1,
       "relatives": ["Tsumiki Fushiguro (Step-Sister)", "Toji Fushiguro (Father)", "Jinichi Zenin (Uncle)", "Maki Zenin (Second Aunt)", "Mai Zenin (Second Aunt)", "Naoya Zenin (Second Uncle)", "Ogi Zenin (Grand Uncle)", "Naobito Zenin (Grand Uncle)"]
@@ -100,7 +100,7 @@
       "cursedTechniquesIds": [78, 97, 32, 33, 50, 41, 43, 98, 99, 100, 95, 71],
       "gradeId": 8,
       "domainExpansionId": 12,
-      "battlesId": [8, 9, 13, 63, 65, 79, 80, 94, 98],
+      "battlesId": [8, 9, 13, 63, 64, 65, 66, 79, 80, 94, 98],
       "cursedToolId": [12, 33],
       "status": 1,
       "relatives": ["Satoru Gojo (Distant Relative)", "Michizane Sugawara (Ancestor)"]
@@ -121,7 +121,7 @@
       "cursedTechniquesIds": [73],
       "gradeId": 4,
       "domainExpansionId": null,
-      "battlesId": [8, 12, 31, 34, 36, 39, 42, 55, 70, 71, 72, 73, 84, 85, 88, 99, 100, 101],
+      "battlesId": [8, 12, 31, 34, 36, 39, 42, 55, 56, 70, 71, 72, 73, 84, 85, 88, 99, 100, 101],
       "cursedToolId": [7, 8, 9, 34, 35, 36],
     "status": 1,
     "relatives": ["Ogi Zenin (Father)","Unnamed Mother","Mai Zenin (Younger Twin Sister)","Naobito Zenin (Uncle)","Naoya Zenin (Cousin)","Unnamed Uncle","Jinichi Zenin (Cousin)","Toji Fushiguro (Cousin)","Megumi Fushiguro (Second Nephew)"]
@@ -268,7 +268,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [52],
       "cursedToolId": null,
       "status": 1,
       "relatives": ["Arata Nitta (Younger brother)"]
@@ -310,7 +310,7 @@
       "cursedTechniquesIds": [16, 31, 78],
       "gradeId": 6,
       "domainExpansionId": null,
-      "battlesId": [11, 26, 27, 30, 52, 55],
+      "battlesId": [11, 26, 27, 30, 52, 55, 56],
       "cursedToolId": [21],
       "status": 2,
       "relatives": null
@@ -436,7 +436,7 @@
       "cursedTechniquesIds": [11, 14, 33, 71, 76, 107],
       "gradeId": 8,
       "domainExpansionId": 10,
-      "battlesId": [62, 86, 87, 92, 93, 94],
+      "battlesId": [47, 53, 62, 86, 87, 92, 93, 94],
       "cursedToolId": [37],
       "status": 2,
       "relatives": null
@@ -499,7 +499,7 @@
       "cursedTechniquesIds": [9, 67, 111, 112],
       "gradeId": 8,
       "domainExpansionId": 3,
-      "battlesId": [23, 47, 58],
+      "battlesId": [23, 47, 56, 58],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -583,7 +583,7 @@
       "cursedTechniquesIds": [73],
       "gradeId": 8,
       "domainExpansionId": null,
-      "battlesId": [5, 6, 7, 56, 57],
+      "battlesId": [5, 6, 7, 49, 55, 56, 57],
       "cursedToolId": [1, 2, 9, 35, 38],
       "status": 2,
       "relatives": [ "Megumi Fushiguro (Son)", "Megumi's Mother (Lover/Wife)", "Tsumiki's Mother (Second Wife)", "Tsumiki Fushiguro (Step-Daughter)", "Zenin Clan", "Jinichi Zenin (Older Brother)", "Naobito Zenin (Uncle)", "Naoya Zenin (Cousin)", "Ogi Zenin (Uncle)", "Maki Zenin (Cousin)", "Mai Zenin (Cousin)"]
@@ -604,7 +604,7 @@
       "cursedTechniquesIds": [6, 115, 116, 117, 118],
       "gradeId": 8,
       "domainExpansionId": null,
-      "battlesId": [86],
+      "battlesId": [87],
       "cursedToolId": null,
       "status": 3,
       "relatives": null
@@ -625,7 +625,7 @@
       "cursedTechniquesIds": [1, 68, 78],
       "gradeId": 6,
       "domainExpansionId": null,
-      "battlesId": [11, 24, 31, 32, 40, 42, 61, 102, 103, 104],
+      "battlesId": [11, 24, 31, 32, 40, 42, 60, 61, 102, 103, 104],
       "cursedToolId": [9],
       "status": 1,
       "relatives": null
@@ -646,7 +646,7 @@
       "cursedTechniquesIds": [2],
       "gradeId": 2,
       "domainExpansionId": null,
-      "battlesId": [11, 25, 31, 36, 42, 62],
+      "battlesId": [11, 25, 31, 36, 42, 62, 70],
       "cursedToolId": [],
       "status": 2,
       "relatives": [ "Ogi Zenin (Father)", "Unnamed Mother", "Maki Zenin (Older Twin Sister)", "Naobito Zenin (Uncle)", "Naoya Zenin (Cousin)", "Unnamed Uncle", "Jinichi Zenin (Cousin)", "Toji Fushiguro (Cousin)", "Megumi Fushiguro (Second Nephew)"]
@@ -772,7 +772,7 @@
       "cursedTechniquesIds": [74, 106],
       "gradeId": 5,
       "domainExpansionId": null,
-      "battlesId": [11, 42],
+      "battlesId": [11, 42, 62],
       "cursedToolId": null,
       "status": 1,
       "relatives": null
@@ -814,7 +814,7 @@
       "cursedTechniquesIds": [132],
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [60],
       "cursedToolId": null,
       "status": 1,
       "relatives": ["Akari Nitta (Older Sister)"]
@@ -835,7 +835,7 @@
       "cursedTechniquesIds": [75],
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [53, 91, 97],
+      "battlesId": [51, 53, 91, 97],
       "cursedToolId": null,
       "status": 1,
       "relatives": ["Mei Mei (Older Sister)"]
@@ -877,7 +877,7 @@
       "cursedTechniquesIds": [60, 81],
       "gradeId": 7,
       "domainExpansionId": null,
-      "battlesId": [55],
+      "battlesId": [55, 56],
       "cursedToolId": null,
       "status": 2,
       "relatives": [ "Ogi Zenin (Younger Brother)", "Naoya Zenin (Son)", "Jinichi Zenin (Nephew)", "Toji Fushiguro (Nephew)", "Mai Zenin (Niece)", "Maki Zenin (Niece)", "Megumi Fushiguro (Grandnephew)"]
@@ -898,7 +898,7 @@
       "cursedTechniquesIds": [60],
       "gradeId": 7,
       "domainExpansionId": null,
-      "battlesId": [66, 73],
+      "battlesId": [64, 66, 73],
       "cursedToolId": [30],
       "status": 2,
       "relatives": [ "Naobito Zenin (Father)", "Unnamed Older Brothers", "Ogi Zenin (Uncle)", "Maki Zenin (Cousin)", "Mai Zenin (Cousin)", "Unnamed Uncle", "Jinichi Zenin (Cousin)", "Toji Fushiguro (Cousin)", "Megumi Fushiguro (Second Nephew)"]
@@ -1381,7 +1381,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [85],
+      "battlesId": [84, 85],
       "cursedToolId": [35],
       "status": 1,
       "relatives": null
@@ -1402,7 +1402,7 @@
       "cursedTechniquesIds": [68],
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [85],
+      "battlesId": [84, 85],
       "cursedToolId": null,
       "status": 1,
       "relatives": null
@@ -1696,7 +1696,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [72],
+      "battlesId": [71, 72],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -2076,7 +2076,7 @@
       "cursedTechniquesIds": [156, 157],
       "gradeId": 8,
       "domainExpansionId": null,
-      "battlesId": [59, 91],
+      "battlesId": [59, 90, 91],
       "cursedToolId": [42],
       "status": 3,
       "relatives": null
@@ -2097,7 +2097,7 @@
       "cursedTechniquesIds": [32],
       "gradeId": 8,
       "domainExpansionId": null,
-      "battlesId": [8, 13, 63, 65, 80, 98],
+      "battlesId": [8, 13, 63, 65, 79, 80, 98],
       "cursedToolId": null,
       "status": 1,
       "relatives": null
@@ -2160,7 +2160,7 @@
       "cursedTechniquesIds": [158, 159, 160],
       "gradeId": 8,
       "domainExpansionId": null,
-      "battlesId": [79],
+      "battlesId": [79, 80],
       "cursedToolId": [43],
       "status": 2,
       "relatives": null
@@ -3693,7 +3693,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [51],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3714,7 +3714,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [63],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -3924,7 +3924,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [63],
       "cursedToolId": null,
       "status": 1,
       "relatives": null
@@ -4218,7 +4218,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [55, 56],
       "cursedToolId": null,
       "status": 3,
       "relatives": null
@@ -4239,7 +4239,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [55, 56],
       "cursedToolId": null,
       "status": 3,
       "relatives": null
@@ -4260,7 +4260,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [75],
       "cursedToolId": null,
       "status": 3,
       "relatives": null
@@ -4302,7 +4302,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [14],
+      "battlesId": [14, 90],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4323,7 +4323,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [14],
+      "battlesId": [14, 90],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4344,7 +4344,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [68, 76, 78, 90],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4365,7 +4365,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [22],
+      "battlesId": [22, 49, 57, 76, 78],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4407,7 +4407,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [19],
+      "battlesId": [19, 57],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4428,7 +4428,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [76, 78, 90],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4449,7 +4449,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [57, 68, 78, 90],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4470,7 +4470,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [90],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4491,7 +4491,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [90],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -4512,7 +4512,7 @@
       "cursedTechniquesIds": null,
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": null,
+      "battlesId": [91],
       "cursedToolId": null,
       "status": 3,
       "relatives": ["Megumi Fushiguro (Cursed Technique User)", "Sukuna (Megumi's Body) (Cursed Technique User)"]
@@ -5086,6 +5086,27 @@
     },
     "243": {
       "id": 243,
+      "name": "Maki & Mai's Mother",
+      "alias": null,
+      "speciesId": 1,
+      "birthday": "Unknown",
+      "height": "Unknown",
+      "age": "Unknown",
+      "gender": 2,
+      "occupationId": [13],
+      "affiliationId": [3],
+      "animeDebut": null,
+      "mangaDebut": "Ch148",
+      "cursedTechniquesIds": null,
+      "gradeId": null,
+      "domainExpansionId": null,
+      "battlesId": [73],
+      "cursedToolId": null,
+      "status": 1,
+      "relatives": null
+    },
+    "244": {
+      "id": 243,
       "name": "Tasuke",
       "alias": null,
       "speciesId": 1,
@@ -5105,7 +5126,7 @@
       "status": 1,
       "relatives": null
     },
-    "244": {
+    "245": {
       "id": 244,
       "name": "Kaito Yuki",
       "alias": null,
@@ -5126,7 +5147,7 @@
       "status": 1,
       "relatives": null
     },
-    "245": {
+    "246": {
       "id": 245,
       "name": "Saki Rindo",
       "alias": null,
@@ -5147,7 +5168,7 @@
       "status": 1,
       "relatives": null
     },
-    "246": {
+    "247": {
       "id": 246,
       "name": "Sara Kozuki",
       "alias": null,
@@ -5168,7 +5189,7 @@
       "status": 2,
       "relatives": null    
     },
-    "247": {
+    "248": {
       "id": 247,
       "name": "Rozetsu",
       "alias": null,
@@ -5189,7 +5210,7 @@
       "status": 3,
       "relatives": null   
     },
-    "248": {
+    "249": {
       "id": 248,
       "name": "Kensuke Nagino",
       "alias": null,
