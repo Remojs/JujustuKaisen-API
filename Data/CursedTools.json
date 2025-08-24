@@ -1,0 +1,298 @@
+{
+  "cursedTools": {
+    "1": {
+      "id": 1,
+      "name": "Inverted Spear of Heaven",
+      "type": "Cursed Tool",
+      "owners": [28],
+      "description": "Nullifies any cursed technique upon impalement."
+    },
+    "2": {
+      "id": 2,
+      "name": "Chain of a Thousand Miles",
+      "type": "Cursed Tool",
+      "owners": [28],
+      "description": "Infinite-length chain capable of long-range attacks and grappling."
+    },
+    "3": {
+      "id": 3,
+      "name": "Black Rope",
+      "type": "Cursed Tool",
+      "owners": [46],
+      "description": "Disrupts cursed energy techniques upon contact."
+    },
+    "4": {
+      "id": 4,
+      "name": "Split Soul Katana",
+      "type": "Cursed Tool",
+      "owners": [6, 28, 66],
+      "description": "It is a katana that bypasses all resistance and cuts directly at the soul."
+    },
+    "5": {
+      "id": 5,
+      "name": "Dragon-Bone",
+      "type": "Cursed Tool",
+      "owners": [6],
+      "description": "A thick single-edged cursed blade with engine vents that stores and ejects kinetic and cursed energy, massively boosting its cutting power."
+    },
+    "6": {
+      "id": 6,
+      "name": "Kunai",
+      "type": "Common weapon with cursed energy",
+      "owners": [6],
+      "description": "Small dagger that can be imbued for throwing or stabbing."
+    },
+    "7": {
+      "id": 7,
+      "name": "Demon Slayer",
+      "type": "Cursed Tool",
+      "owners": [1, 6],
+      "description": "Short sword of unknown full capability, effective against low-level curses."
+    },
+    "8": {
+      "id": 8,
+      "name": "Naginata",
+      "type": "Cursed Tool",
+      "owners": [6],
+      "description": "Polearm with curved blade for extended reach in melee combat."
+    },
+    "9": {
+      "id": 9,
+      "name": "Playful Cloud",
+      "type": "Cursed Tool",
+      "owners": [2, 6, 14, 28, 30],
+      "description": "Three-section staff that amplifies user’s physical strength."
+    },
+    "10": {
+      "id": 10,
+      "name": ".357 Magnum Revolver",
+      "type": "Common weapon with cursed energy",
+      "owners": [31],
+      "description": "Magnum revolver that fires hex-infused bullets with an extra charged round."
+    },
+    "11": {
+      "id": 11,
+      "name": "Marksman's Sniper Rifle",
+      "type": "Common weapon with cursed energy",
+      "owners": [31],
+      "description": "Long-range rifle that fires enhanced cursed bullets."
+    },
+    "12": {
+      "id": 12,
+      "name": "Katana",
+      "type": "Common weapon with cursed energy",
+      "owners": [2, 5, 6, 10, 34, 79],
+      "description": "Blade becomes fully cursed after years of energy infusion."
+    },
+    "13": {
+      "id": 13,
+      "name": "Tonfas",
+      "type": "Common weapon with cursed energy",
+      "owners": [2],
+      "description": "Wooden tonfas that can be momentarily imbued for strikes."
+    },
+    "14": {
+      "id": 14,
+      "name": "Nails",
+      "type": "Common weapon with cursed energy",
+      "owners": [3],
+      "description": "Single-use nails powered for piercing and voodoo-like damage."
+    },
+    "15": {
+      "id": 15,
+      "name": "Arrows",
+      "type": "Common weapon with cursed energy",
+      "owners": [32],
+      "description": "High-pressure blood-infused arrows for powerful ranged attacks."
+    },
+    "16": {
+      "id": 16,
+      "name": "Grandma Ogami’s Spear",
+      "type": "Common weapon with cursed energy",
+      "owners": [89],
+      "description": "Spear used in seance rituals, lethal upon impalement."
+    },
+    "17": {
+      "id": 17,
+      "name": "Nanako’s Cell Phone",
+      "type": "Cursed Tool",
+      "owners": [43],
+      "description": "Controls targets via photographs taken by the phone."
+    },
+    "18": {
+      "id": 18,
+      "name": "Momo’s Broom",
+      "type": "Cursed Tool",
+      "owners": [33],
+      "description": "Flying broom that generates slashing wind attacks."
+    },
+    "19": {
+      "id": 19,
+      "name": "Festering Life Sword",
+      "type": "Cursed Tool",
+      "owners": [103],
+      "description": "A blade infused with life and death; its six barrels fire cursed insect eggs that hatch inside victims, causing swarms to burst out."
+    },
+    "20": {
+      "id": 20,
+      "name": "Hand-Shaped Sword",
+      "type": "Cursed Tool",
+      "owners": [45, 92],
+      "description": "Self-moving sword that can strike or be thrown."
+    },
+    "21": {
+      "id": 21,
+      "name": "Sheathed Sword",
+      "type": "Cursed Tool",
+      "owners": [15, 49],
+      "description": "Sword used with Ratio Technique for guaranteed critical hits."
+    },
+    "22": {
+      "id": 22,
+      "name": "Electric Guitar",
+      "type": "Common weapon with cursed energy",
+      "owners": [38],
+      "description": "Converts guitar sound into cursed energy shockwaves."
+    },
+    "23": {
+      "id": 23,
+      "name": "Juzo’s Axe",
+      "type": "Cursed Tool",
+      "owners": [92],
+      "description": "Large axe with unspecified cursed enhancements."
+    },
+    "24": {
+      "id": 24,
+      "name": "Mei’s Axe",
+      "type": "Cursed Tool",
+      "owners": [17],
+      "description": "Heavy battle axe wielded with supernatural strength."
+    },
+    "25": {
+      "id": 25,
+      "name": "Ogami’s Prayer Beads",
+      "type": "Cursed Tool",
+      "owners": [89],
+      "description": "Rosary used for necromantic summons and soul transfer."
+    },
+    "26": {
+      "id": 26,
+      "name": "Nobara’s Hammer",
+      "type": "Common weapon with cursed energy",
+      "owners": [3],
+      "description": "Hammer used to drive nails for doll technique."
+    },
+    "27": {
+      "id": 27,
+      "name": "Rubber Hammer",
+      "type": "Disposable Tool",
+      "owners": [3],
+      "description": "Toy hammer for low-level curses; disposable."
+    },
+    "28": {
+      "id": 28,
+      "name": "Mimiko’s Doll",
+      "type": "Cursed Tool",
+      "owners": [47],
+      "description": "Voodoo doll for remote cursing effects."
+    },
+    "29": {
+      "id": 29,
+      "name": "Straw Doll",
+      "type": "Common weapon with cursed energy",
+      "owners": [3],
+      "description": "Doll used for straw doll technique to harm target remotely."
+    },
+    "30": {
+      "id": 30,
+      "name": "Tantō",
+      "type": "Common weapon with cursed energy",
+      "owners": [43, 91],
+      "description": "Short blade for high-speed lethal strikes."
+    },
+    "31": {
+      "id": 31,
+      "name": "Kamutoke",
+      "type": "Cursed Tool",
+      "owners": [69],
+      "description": "A powerful cursed tool which is capable of discharging electricity."
+    },
+    "32": {
+      "id": 32,
+      "name": "Hoten",
+      "type": "Cursed Tool",
+      "owners": [69],
+      "description": "A trishula-like trident cursed tool that Sukuna wielded a thousand years ago. Its capabilities are unknown."
+    },
+    "33": {
+      "id": 33,
+      "name": "Steel Arm",
+      "type": "Cursed Tool",
+      "owners": [5],
+      "description": "The cursed tool covers entire arm in a metal shell and further reinforces his punches."
+    },
+    "34": {
+      "id": 34,
+      "name": "Maki's glasses",
+      "type": "Cursed Tool",
+      "owners": [6],
+      "description": "They allow users who do not possess cursed energy to see curses."
+    },
+    "35": {
+      "id": 35,
+      "name": "Megumi's black sword",
+      "type": "Cursed Tool",
+      "owners": [2],
+      "description": "Megumi's primary cursed tool was a sword with a jet-black blade."
+    },
+    "36": {
+      "id": 36,
+      "name": "Megumi's double-edged sword",
+      "type": "Cursed Tool",
+      "owners": [2],
+      "description": "One-handed, lightweight weapon with a double-edged sword with a cylinder-shaped handle. Megumi currently carries in his shadow."
+    },
+    "37": {
+      "id": 37,
+      "name": "Prison Realm",
+      "type": "Cursed Object",
+      "owners": [21],
+      "description": "Containing a barrier capable of sealing absolutely anything or anyone inside of an inescapable pocket dimension."
+    },
+    "38": {
+      "id": 38,
+      "name": "Inventory Curse",
+      "type": "Cursed Spirit",
+      "owners": [28],
+      "description": "A cursed spirit that stores his entire arsenal within its body, enabling rapid weapon swaps."
+    },
+    "39": {
+      "id": 39,
+      "name": "Nyoi Staff",
+      "type": "Cursed Tool",
+      "owners": [50],
+      "description": "Conducts his cursed energy like a lightning rod, enabling precise polearm attacks in close combat."
+    },
+    "40": {
+      "id": 40,
+      "name": "Gavel",
+      "type": "Cursed Tool",
+      "owners": [53],
+      "description": "Hiromi’s gavel is a shape-shifting cursed tool that can turn into various weapons, becoming the Executioner’s Sword for Death Penalty."
+    },
+    "41": {
+      "id": 41,
+      "name": "Executioner’s Sword",
+      "type": "Cursed Technique Weapon",
+      "owners": [53],
+      "description": "A giant black blade that manifests during Death Penalty, capable of instantly executing cursed spirits or sorcerers once found guilty by Judgeman."
+    },
+    "42": {
+      "id": 42,
+      "name": "Sword of Extermination",
+      "type": "Shikigami Weapon",
+      "owners": [101],
+      "description": "A forearm-mounted blade imbued with positive energy, highly effective against curses and humans."
+    }
+  }
+}
