@@ -100,7 +100,7 @@
       "cursedTechniquesIds": [78, 97, 32, 33, 50, 41, 43, 98, 99, 100, 95, 71],
       "gradeId": 8,
       "domainExpansionId": 12,
-      "battlesId": [8, 9, 13, 63, 64, 65, 66, 79, 80, 93, 94, 98],
+      "battlesId": [8, 9, 13, 63, 64, 65, 66, 79, 80, 93, 94, 98, 109],
       "cursedToolId": [12, 33],
       "status": 1,
       "relatives": ["Satoru Gojo (Distant Relative)", "Michizane Sugawara (Ancestor)"]
@@ -184,7 +184,7 @@
       "cursedTechniquesIds": [12],
       "gradeId": 6,
       "domainExpansionId": null,
-      "battlesId": [11],
+      "battlesId": [11, 107],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -352,7 +352,7 @@
       "cursedTechniquesIds": [10, 25],
       "gradeId": 6,
       "domainExpansionId": null,
-      "battlesId": [11, 51, 53],
+      "battlesId": [11, 51, 53, 107, 110],
       "cursedToolId": [24],
       "status": 1,
       "relatives": ["Ui Ui (Younger Brother)"]
@@ -436,7 +436,7 @@
       "cursedTechniquesIds": [11, 14, 33, 71, 76, 107],
       "gradeId": 8,
       "domainExpansionId": 10,
-      "battlesId": [47, 53, 62, 86, 87, 92, 93, 94],
+      "battlesId": [47, 53, 62, 86, 87, 92, 93, 94, 106],
       "cursedToolId": [37],
       "status": 2,
       "relatives": null
@@ -793,7 +793,7 @@
       "cursedTechniquesIds": [38],
       "gradeId": 6,
       "domainExpansionId": null,
-      "battlesId": [11, 31, 41, 91],
+      "battlesId": [11, 31, 41, 91, 107],
       "cursedToolId": [22],
       "status": 1,
       "relatives": null
@@ -835,7 +835,7 @@
       "cursedTechniquesIds": [75],
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [51, 53, 91, 97, 98, 99, 100, 101, 102, 103, 104],
+      "battlesId": [51, 53, 91, 97, 98, 99, 100, 101, 102, 103, 104, 106],
       "cursedToolId": null,
       "status": 1,
       "relatives": ["Mei Mei (Older Sister)"]
@@ -1108,7 +1108,7 @@
       "cursedTechniquesIds": [67, 71, 137],
       "gradeId": 6,
       "domainExpansionId": 7,
-      "battlesId": [75, 97],
+      "battlesId": [75, 97, 108],
       "cursedToolId": [40, 41],
       "status": 3,
       "relatives": null
@@ -1192,7 +1192,7 @@
       "cursedTechniquesIds": [139],
       "gradeId": 2,
       "domainExpansionId": null,
-      "battlesId": [74],
+      "battlesId": [74, 108],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -1297,7 +1297,7 @@
       "cursedTechniquesIds": [146],
       "gradeId": null,
       "domainExpansionId": null,
-      "battlesId": [106],
+      "battlesId": [109],
       "cursedToolId": null,
       "status": 2,
       "relatives": null
@@ -2097,7 +2097,7 @@
       "cursedTechniquesIds": [32],
       "gradeId": 8,
       "domainExpansionId": null,
-      "battlesId": [8, 13, 63, 65, 79, 80, 98, 103],
+      "battlesId": [8, 13, 63, 65, 79, 80, 98, 103, 109],
       "cursedToolId": null,
       "status": 1,
       "relatives": null
@@ -5167,9 +5167,30 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null
-    }
+    },
     "247": {
       "id": 247,
+      "name": "Shadow Style Clan Leader",
+      "alias": null,
+      "speciesId": 1,
+      "birthday": "Unknown",
+      "height": "Unknown",
+      "age": "Unknown",
+      "gender": 1,
+      "occupationId": [17],
+      "affiliationId": null,
+      "animeDebut": null,
+      "mangaDebut": "Ch244",
+      "cursedTechniquesIds": [70],
+      "gradeId": null,
+      "domainExpansionId": null,
+      "battlesId": [110],
+      "cursedToolId": null,
+      "status": 2,
+      "relatives": null
+    },
+    "248": {
+      "id": 248,
       "name": "Kaito Yuki",
       "alias": null,
       "speciesId": 1,
@@ -5189,8 +5210,8 @@
       "status": 1,
       "relatives": null
     },
-    "248": {
-      "id": 248,
+    "249": {
+      "id": 249,
       "name": "Saki Rindo",
       "alias": null,
       "speciesId": 1,
@@ -5210,8 +5231,8 @@
       "status": 1,
       "relatives": null
     },
-    "249": {
-      "id": 249,
+    "250": {
+      "id": 250,
       "name": "Sara Kozuki",
       "alias": null,
       "speciesId": 1,
@@ -5231,8 +5252,8 @@
       "status": 2,
       "relatives": null    
     },
-    "250": {
-      "id": 250,
+    "251": {
+      "id": 251,
       "name": "Rozetsu",
       "alias": null,
       "speciesId": 2,
@@ -5252,8 +5273,8 @@
       "status": 3,
       "relatives": null   
     },
-    "251": {
-      "id": 251,
+    "252": {
+      "id": 252,
       "name": "Kensuke Nagino",
       "alias": null,
       "speciesId": 2,

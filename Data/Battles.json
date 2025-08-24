@@ -815,8 +815,8 @@
     },
     "82": {
       "id": 82,
-      "fighters": "Panda vs. Hashime Kashimo",
-      "result": "Kashimo is victorious. Panda is defeated. Hakari joins the battle",
+      "fighters": "Panda vs. Hajime Kashimo",
+      "result": "Kajimo is victorious. Panda is defeated. Hakari joins the battle",
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 2 Colony",
@@ -1061,7 +1061,7 @@
       "date": "October 31, 2018",
       "location": "Metropolitan Expressway RT. 3 Shibuya Line",
       "participants": [17, 21],
-      "nonDirectParticipants": null
+      "nonDirectParticipants": [40]
     },
     "107": {
       "id": 107,
@@ -1091,7 +1091,17 @@
       "date": "November 16, 2018",
       "location": "Sendai Colony",
       "participants": [5, 62],
-      "nonDirectParticipants": null
+      "nonDirectParticipants": [100]
+    },
+    "110": {
+      "id": 110,
+      "fighters": "Mei Mei vs Shadow Style Leader",
+      "result": "Mei Mei is victorious. Shadow Style Leader is Killed",
+      "arc": "Culling Game Arc",
+      "date": "November 16, 2018",
+      "location": "Unknown",
+      "participants": [17, 247],
+      "nonDirectParticipants": [40]
     }
   }
 }
