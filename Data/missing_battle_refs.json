@@ -1,0 +1,484 @@
+{
+  "count": 31,
+  "missing": [
+    {
+      "battleId": 1,
+      "battleFighters": "Satoru Gojo & Suguru Geto vs. Bayer & Kokun",
+      "charId": 71,
+      "charName": "Riko Amanai",
+      "charBattlesField": "battlesId",
+      "charBattles": null
+    },
+    {
+      "battleId": 1,
+      "battleFighters": "Satoru Gojo & Suguru Geto vs. Bayer & Kokun",
+      "charId": 72,
+      "charName": "Misato Kuroi",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        3
+      ]
+    },
+    {
+      "battleId": 3,
+      "battleFighters": "Misato Kuroi vs. Twin Curse User",
+      "charId": 71,
+      "charName": "Riko Amanai",
+      "charBattlesField": "battlesId",
+      "charBattles": null
+    },
+    {
+      "battleId": 4,
+      "battleFighters": "Satoru Gojo vs. Twin Curse User",
+      "charId": 71,
+      "charName": "Riko Amanai",
+      "charBattlesField": "battlesId",
+      "charBattles": null
+    },
+    {
+      "battleId": 6,
+      "battleFighters": "Suguru Geto vs. Toji Fushiguro",
+      "charId": 71,
+      "charName": "Riko Amanai",
+      "charBattlesField": "battlesId",
+      "charBattles": null
+    },
+    {
+      "battleId": 8,
+      "battleFighters": "Yuta Okkotsu & Maki Zenin vs. Elementary School Cursed Spirits",
+      "charId": 245,
+      "charName": "Kaito Yuki",
+      "charBattlesField": "battlesId",
+      "charBattles": null
+    },
+    {
+      "battleId": 8,
+      "battleFighters": "Yuta Okkotsu & Maki Zenin vs. Elementary School Cursed Spirits",
+      "charId": 246,
+      "charName": "Saki Rindo",
+      "charBattlesField": "battlesId",
+      "charBattles": null
+    },
+    {
+      "battleId": 23,
+      "battleFighters": "Satoru Gojo vs. Jogo",
+      "charId": 1,
+      "charName": "Yuji Itadori",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        26,
+        28,
+        29,
+        30,
+        31,
+        32,
+        40,
+        42,
+        45,
+        48,
+        50,
+        54,
+        60,
+        61,
+        62,
+        64,
+        65,
+        67,
+        69,
+        74,
+        75,
+        88,
+        97,
+        98,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ]
+    },
+    {
+      "battleId": 32,
+      "battleFighters": "Yuji Itadori vs. Aoi Todo",
+      "charId": 23,
+      "charName": "Hanami",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        38,
+        39,
+        40,
+        47
+      ]
+    },
+    {
+      "battleId": 37,
+      "battleFighters": "Megumi vs. Noritoshi Kamo",
+      "charId": 23,
+      "charName": "Hanami",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        38,
+        39,
+        40,
+        47
+      ]
+    },
+    {
+      "battleId": 38,
+      "battleFighters": "Megumi Fushiguro, Toge Inumaki & Noritoshi Kamo Kamo vs. Hanami",
+      "charId": 6,
+      "charName": "Maki Zenin",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        8,
+        12,
+        13,
+        31,
+        34,
+        36,
+        39,
+        42,
+        55,
+        56,
+        70,
+        71,
+        72,
+        73,
+        84,
+        85,
+        88,
+        99,
+        100,
+        101
+      ]
+    },
+    {
+      "battleId": 39,
+      "battleFighters": "Maki Zenin & Megumi Fushiguro vs. Hanami",
+      "charId": 1,
+      "charName": "Yuji Itadori",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        26,
+        28,
+        29,
+        30,
+        31,
+        32,
+        40,
+        42,
+        45,
+        48,
+        50,
+        54,
+        60,
+        61,
+        62,
+        64,
+        65,
+        67,
+        69,
+        74,
+        75,
+        88,
+        97,
+        98,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ]
+    },
+    {
+      "battleId": 39,
+      "battleFighters": "Maki Zenin & Megumi Fushiguro vs. Hanami",
+      "charId": 30,
+      "charName": "Aoi Todo",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        11,
+        24,
+        31,
+        32,
+        40,
+        42,
+        60,
+        61,
+        102,
+        103,
+        104
+      ]
+    },
+    {
+      "battleId": 58,
+      "battleFighters": "Sukuna vs. Jogo",
+      "charId": 47,
+      "charName": "Mimiko Hasaba",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        11
+      ]
+    },
+    {
+      "battleId": 58,
+      "battleFighters": "Sukuna vs. Jogo",
+      "charId": 48,
+      "charName": "Nanako Hasaba",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        11
+      ]
+    },
+    {
+      "battleId": 59,
+      "battleFighters": "Sukuna vs. Mahoraga",
+      "charId": 2,
+      "charName": "Megumi Fushiguro",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        14,
+        15,
+        26,
+        18,
+        19,
+        22,
+        24,
+        31,
+        37,
+        38,
+        39,
+        42,
+        43,
+        44,
+        49,
+        50,
+        55,
+        56,
+        57,
+        69,
+        76,
+        78,
+        105
+      ]
+    },
+    {
+      "battleId": 82,
+      "battleFighters": "Panda vs. Hashime Kashimo",
+      "charId": 18,
+      "charName": "Kinji Hakari",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        69,
+        81,
+        83,
+        95
+      ]
+    },
+    {
+      "battleId": 83,
+      "battleFighters": "Hakari Kinji vs. Hajime Kashimo",
+      "charId": 8,
+      "charName": "Panda",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        12,
+        13,
+        31,
+        33,
+        42,
+        49,
+        62,
+        67,
+        68,
+        82
+      ]
+    },
+    {
+      "battleId": 91,
+      "battleFighters": "Satoru Gojo vs. Sukuna, Mahoraga & Agito",
+      "charId": 11,
+      "charName": "Kiyotaka Ijichi ",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        11
+      ]
+    },
+    {
+      "battleId": 91,
+      "battleFighters": "Satoru Gojo vs. Sukuna, Mahoraga & Agito",
+      "charId": 37,
+      "charName": "Utahime Iori",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        11,
+        42,
+        62
+      ]
+    },
+    {
+      "battleId": 91,
+      "battleFighters": "Satoru Gojo vs. Sukuna, Mahoraga & Agito",
+      "charId": 38,
+      "charName": "Yoshinobu Gakuganji",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        11,
+        31,
+        41
+      ]
+    },
+    {
+      "battleId": 92,
+      "battleFighters": "Iori Hazenoki vs. Kenjaku",
+      "charId": 54,
+      "charName": "Fumihiko Takaba",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        77,
+        93
+      ]
+    },
+    {
+      "battleId": 93,
+      "battleFighters": "Fumihiko Takaba vs. Kenjaku",
+      "charId": 5,
+      "charName": "Yuta Okkotsu",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        8,
+        9,
+        13,
+        63,
+        64,
+        65,
+        66,
+        79,
+        80,
+        94,
+        98
+      ]
+    },
+    {
+      "battleId": 98,
+      "battleFighters": "Yuji Itadori, Yuta Okkotsu, Rika & Atsuya Kusakabe vs Sukuna",
+      "charId": 40,
+      "charName": "Ui Ui",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        51,
+        53,
+        91,
+        97
+      ]
+    },
+    {
+      "battleId": 99,
+      "battleFighters": "Maki Zenin, Takuma Ino & Atsuya Kusakabe vs Sukuna",
+      "charId": 40,
+      "charName": "Ui Ui",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        51,
+        53,
+        91,
+        97
+      ]
+    },
+    {
+      "battleId": 100,
+      "battleFighters": "Miguel Oduol, Larue, Maki Zenin, Choso & Yuji Itadori vs Sukuna",
+      "charId": 40,
+      "charName": "Ui Ui",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        51,
+        53,
+        91,
+        97
+      ]
+    },
+    {
+      "battleId": 101,
+      "battleFighters": "Takuma Ino, Kasumi Miwa, Maki Zenin, Choso & Yuji Itadori vs Sukuna",
+      "charId": 40,
+      "charName": "Ui Ui",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        51,
+        53,
+        91,
+        97
+      ]
+    },
+    {
+      "battleId": 102,
+      "battleFighters": "Yuji Itadori & Aoi Todo vs Sukuna",
+      "charId": 40,
+      "charName": "Ui Ui",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        51,
+        53,
+        91,
+        97
+      ]
+    },
+    {
+      "battleId": 103,
+      "battleFighters": "Yuta (Gojo's Body), Yuji Itadori & Aoi Todo vs Sukuna",
+      "charId": 40,
+      "charName": "Ui Ui",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        51,
+        53,
+        91,
+        97
+      ]
+    },
+    {
+      "battleId": 103,
+      "battleFighters": "Yuta (Gojo's Body), Yuji Itadori & Aoi Todo vs Sukuna",
+      "charId": 100,
+      "charName": "Cursed Rika",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        8,
+        13,
+        63,
+        65,
+        79,
+        80,
+        98
+      ]
+    },
+    {
+      "battleId": 104,
+      "battleFighters": "Yuji Itadori, Hana Kurusu, Nobara Kugisaki & Aoi Todo vs Sukuna",
+      "charId": 40,
+      "charName": "Ui Ui",
+      "charBattlesField": "battlesId",
+      "charBattles": [
+        51,
+        53,
+        91,
+        97
+      ]
+    }
+  ]
+}

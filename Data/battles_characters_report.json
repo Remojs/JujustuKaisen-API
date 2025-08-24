@@ -1,0 +1,836 @@
+{
+  "summary": {
+    "total_battles": 109,
+    "battles_with_nonDirectParticipants": 51,
+    "total_nonDirectParticipants_checked": 80,
+    "missing_characters_count": 0,
+    "missing_references_count": 31,
+    "missing_characters_sample": []
+  },
+  "details": {
+    "1": {
+      "nonDirectParticipants": [
+        71,
+        72,
+        141,
+        142,
+        143
+      ],
+      "missing": [
+        {
+          "charId": 71,
+          "reason": "battle 1 not in character.battlesId"
+        },
+        {
+          "charId": 72,
+          "reason": "battle 1 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "2": {
+      "nonDirectParticipants": [
+        151
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "3": {
+      "nonDirectParticipants": [
+        71
+      ],
+      "missing": [
+        {
+          "charId": 71,
+          "reason": "battle 3 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "4": {
+      "nonDirectParticipants": [
+        71
+      ],
+      "missing": [
+        {
+          "charId": 71,
+          "reason": "battle 4 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "5": {
+      "nonDirectParticipants": [
+        133,
+        134
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "6": {
+      "nonDirectParticipants": [
+        71,
+        134
+      ],
+      "missing": [
+        {
+          "charId": 71,
+          "reason": "battle 6 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "7": {
+      "nonDirectParticipants": [
+        134
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "8": {
+      "nonDirectParticipants": [
+        245,
+        246
+      ],
+      "missing": [
+        {
+          "charId": 245,
+          "reason": "battle 8 not in character.battlesId"
+        },
+        {
+          "charId": 246,
+          "reason": "battle 8 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "9": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "10": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "11": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "12": {
+      "nonDirectParticipants": [],
+      "missing": [],
+      "notFound": []
+    },
+    "13": {
+      "nonDirectParticipants": [
+        6,
+        7,
+        8,
+        134
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "14": {
+      "nonDirectParticipants": [
+        95,
+        96
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "15": {
+      "nonDirectParticipants": [
+        2
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "16": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "17": {
+      "nonDirectParticipants": [
+        186
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "18": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "19": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "20": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "21": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "22": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "23": {
+      "nonDirectParticipants": [
+        1
+      ],
+      "missing": [
+        {
+          "charId": 1,
+          "reason": "battle 23 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "24": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "25": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "26": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "27": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "28": {
+      "nonDirectParticipants": [
+        123
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "29": {
+      "nonDirectParticipants": [
+        107
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "30": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "31": {
+      "nonDirectParticipants": [
+        22
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "32": {
+      "nonDirectParticipants": [
+        23
+      ],
+      "missing": [
+        {
+          "charId": 23,
+          "reason": "battle 32 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "33": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "34": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "35": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "36": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "37": {
+      "nonDirectParticipants": [
+        23
+      ],
+      "missing": [
+        {
+          "charId": 23,
+          "reason": "battle 37 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "38": {
+      "nonDirectParticipants": [
+        6
+      ],
+      "missing": [
+        {
+          "charId": 6,
+          "reason": "battle 38 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "39": {
+      "nonDirectParticipants": [
+        1,
+        30
+      ],
+      "missing": [
+        {
+          "charId": 1,
+          "reason": "battle 39 not in character.battlesId"
+        },
+        {
+          "charId": 30,
+          "reason": "battle 39 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "40": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "41": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "42": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "43": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "44": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "45": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "46": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "47": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "48": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "49": {
+      "nonDirectParticipants": [
+        2,
+        208
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "50": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "51": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "52": {
+      "nonDirectParticipants": [
+        13
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "53": {
+      "nonDirectParticipants": [
+        21
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "54": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "55": {
+      "nonDirectParticipants": [
+        28
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "56": {
+      "nonDirectParticipants": [
+        2,
+        6,
+        15,
+        24,
+        42
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "57": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "58": {
+      "nonDirectParticipants": [
+        47,
+        48
+      ],
+      "missing": [
+        {
+          "charId": 47,
+          "reason": "battle 58 not in character.battlesId"
+        },
+        {
+          "charId": 48,
+          "reason": "battle 58 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "59": {
+      "nonDirectParticipants": [
+        2,
+        45
+      ],
+      "missing": [
+        {
+          "charId": 2,
+          "reason": "battle 59 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "60": {
+      "nonDirectParticipants": [
+        30,
+        39
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "61": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "62": {
+      "nonDirectParticipants": [
+        8,
+        31,
+        32,
+        33,
+        37
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "63": {
+      "nonDirectParticipants": [
+        187
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "64": {
+      "nonDirectParticipants": [
+        5,
+        43
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "65": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "66": {
+      "nonDirectParticipants": [
+        5
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "67": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "68": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "69": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "70": {
+      "nonDirectParticipants": [
+        31
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "71": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "72": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "73": {
+      "nonDirectParticipants": [
+        243
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "74": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "75": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "76": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "77": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "78": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "79": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "80": {
+      "nonDirectParticipants": [
+        103
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "81": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "82": {
+      "nonDirectParticipants": [
+        18
+      ],
+      "missing": [
+        {
+          "charId": 18,
+          "reason": "battle 82 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "83": {
+      "nonDirectParticipants": [
+        8
+      ],
+      "missing": [
+        {
+          "charId": 8,
+          "reason": "battle 83 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "84": {
+      "nonDirectParticipants": [
+        66,
+        67
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "85": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "86": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "87": {
+      "nonDirectParticipants": [
+        29
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "88": {
+      "nonDirectParticipants": [
+        41
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "89": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "90": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "91": {
+      "nonDirectParticipants": [
+        11,
+        37,
+        38
+      ],
+      "missing": [
+        {
+          "charId": 11,
+          "reason": "battle 91 not in character.battlesId"
+        },
+        {
+          "charId": 37,
+          "reason": "battle 91 not in character.battlesId"
+        },
+        {
+          "charId": 38,
+          "reason": "battle 91 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "92": {
+      "nonDirectParticipants": [
+        54
+      ],
+      "missing": [
+        {
+          "charId": 54,
+          "reason": "battle 92 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "93": {
+      "nonDirectParticipants": [
+        5
+      ],
+      "missing": [
+        {
+          "charId": 5,
+          "reason": "battle 93 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "94": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "95": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "96": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "97": {
+      "nonDirectParticipants": [
+        40
+      ],
+      "missing": [],
+      "notFound": []
+    },
+    "98": {
+      "nonDirectParticipants": [
+        40
+      ],
+      "missing": [
+        {
+          "charId": 40,
+          "reason": "battle 98 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "99": {
+      "nonDirectParticipants": [
+        40
+      ],
+      "missing": [
+        {
+          "charId": 40,
+          "reason": "battle 99 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "100": {
+      "nonDirectParticipants": [
+        40
+      ],
+      "missing": [
+        {
+          "charId": 40,
+          "reason": "battle 100 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "101": {
+      "nonDirectParticipants": [
+        40
+      ],
+      "missing": [
+        {
+          "charId": 40,
+          "reason": "battle 101 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "102": {
+      "nonDirectParticipants": [
+        40
+      ],
+      "missing": [
+        {
+          "charId": 40,
+          "reason": "battle 102 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "103": {
+      "nonDirectParticipants": [
+        40,
+        100
+      ],
+      "missing": [
+        {
+          "charId": 40,
+          "reason": "battle 103 not in character.battlesId"
+        },
+        {
+          "charId": 100,
+          "reason": "battle 103 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "104": {
+      "nonDirectParticipants": [
+        40
+      ],
+      "missing": [
+        {
+          "charId": 40,
+          "reason": "battle 104 not in character.battlesId"
+        }
+      ],
+      "notFound": []
+    },
+    "105": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "106": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "107": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "108": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    },
+    "109": {
+      "nonDirectParticipants": null,
+      "missing": [],
+      "notFound": []
+    }
+  }
+}
