@@ -119,7 +119,7 @@
       "animeDebut": "Ep0",
       "mangaDebut": "Ch0",
       "cursedTechniquesIds": [73],
-      "gradeId": 4,
+      "gradeId": 1,
       "domainExpansionId": null,
       "battlesId": [8, 12, 13, 31, 34, 36, 38, 39, 42, 55, 56, 70, 71, 72, 73, 84, 85, 88, 99, 100, 101],
       "cursedToolId": [4, 5, 6, 7, 8, 9, 12, 34],
@@ -161,7 +161,7 @@
       "animeDebut": "Ep0",
       "mangaDebut": "Ch0",
       "cursedTechniquesIds": [34],
-      "gradeId": 3,
+      "gradeId": 4,
       "domainExpansionId": null,
       "battlesId": [12, 13, 31, 33, 35, 42, 49, 62, 67, 68, 82, 83],
       "cursedToolId": null,
@@ -875,7 +875,7 @@
       "animeDebut": "Ep31",
       "mangaDebut": "Ch83",
       "cursedTechniquesIds": [60, 81],
-      "gradeId": 7,
+      "gradeId": 6,
       "domainExpansionId": null,
       "battlesId": [55, 56],
       "cursedToolId": null,
@@ -1867,7 +1867,7 @@
       "gradeId": null,
       "domainExpansionId": null,
       "battlesId": [49],
-      "cursedToolId": [16, 25],
+      "cursedToolId": [25],
       "status": 2,
       "relatives": "Ogami's Grandson (Grandson)"
     },
@@ -4170,7 +4170,7 @@
       "age": "Unknown",
       "gender": 3,
       "occupationId": [15],
-      "affiliationId": null,
+      "affiliationId": [12],
       "animeDebut": null,
       "mangaDebut": "Ch159",
       "cursedTechniquesIds": null,
@@ -5189,8 +5189,8 @@
       "status": 2,
       "relatives": null
     },
-    "248": {
-      "id": 248,
+    "1001": {
+      "id": 1001,
       "name": "Kaito Yuki",
       "alias": null,
       "speciesId": 1,
@@ -5210,8 +5210,8 @@
       "status": 1,
       "relatives": null
     },
-    "249": {
-      "id": 249,
+    "1002": {
+      "id": 1002,
       "name": "Saki Rindo",
       "alias": null,
       "speciesId": 1,
@@ -5231,8 +5231,8 @@
       "status": 1,
       "relatives": null
     },
-    "250": {
-      "id": 250,
+    "1003": {
+      "id": 1003,
       "name": "Sara Kozuki",
       "alias": null,
       "speciesId": 1,
@@ -5252,8 +5252,8 @@
       "status": 2,
       "relatives": null    
     },
-    "251": {
-      "id": 251,
+    "1004": {
+      "id": 1004,
       "name": "Rozetsu",
       "alias": null,
       "speciesId": 2,
@@ -5273,8 +5273,8 @@
       "status": 3,
       "relatives": null   
     },
-    "252": {
-      "id": 252,
+    "1005": {
+      "id": 1005,
       "name": "Kensuke Nagino",
       "alias": null,
       "speciesId": 2,

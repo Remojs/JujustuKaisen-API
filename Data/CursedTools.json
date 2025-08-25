@@ -107,10 +107,10 @@
     },
     "16": {
       "id": 16,
-      "name": "Grandma Ogami’s Spear",
+      "name": "Jiro's Knife",
       "type": "Common weapon with cursed energy",
-      "owners": [89],
-      "description": "Spear used in seance rituals, lethal upon impalement."
+      "owners": [91],
+      "description": "Hidden knife used to attack in close combat, imbued with cursed energy."
     },
     "17": {
       "id": 17,
@@ -219,7 +219,7 @@
     },
     "32": {
       "id": 32,
-      "name": "Hoten",
+      "name": "Hiten",
       "type": "Cursed Tool",
       "owners": [69],
       "description": "A trishula-like trident cursed tool that Sukuna wielded a thousand years ago. Its capabilities are unknown."

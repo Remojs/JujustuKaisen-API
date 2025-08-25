@@ -1,0 +1,202 @@
+{
+  "affiliations": {
+    "1": {
+        "id": 1,
+        "name": "Tokyo Jujutsu High",
+        "type": "Jujutsu School",
+        "controlled_by": 9,
+        "location": "Tokyo Prefecture",
+        "location_data": "hidden mountain campus",
+        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters."
+    }, 
+    "2": {
+        "id": 2,
+        "name": "Kyoto Jujutsu High",
+        "type": "Jujutsu School",
+        "controlled_by": 38,
+        "location": "Kyoto Prefecture",
+        "location_data": "barrier-concealed campus",
+        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters."
+    },
+    "3": {
+        "id": 3,
+        "name": "Zenin Clan",
+        "type": "Sorcerer Clan (Big Three)",
+        "controlled_by": 42,
+        "location": "Tokyo",
+        "location_data": "Clan estate location undisclosed",
+        "description": "A lineage of sorcerers known for their exclusive possession of the Ten Shadows Technique."
+    }, 
+    "4": {
+        "id": 4,
+        "name": "Gojo Clan",
+        "type": "Sorcerer Clan (Big Three)",
+        "controlled_by": 4,
+        "location": "Tokyo",
+        "location_data": "Clan estate location undisclosed",
+        "description": "A lineage of descendants of Sugawara known for their exclusive possession of the Infinite Technique and Six Eyes."
+    }, 
+    "5": {
+        "id": 5,
+        "name": "Kamo Clan",
+        "type": "Sorcerer Clan (Big Three)",
+        "controlled_by": 32,
+        "location": "Kyoto",
+        "location_data": "Traditional seat of the Kamo family",
+        "description": "A lineage of sorcerers known for their exclusive possession of the Blood Manipulation Technique."
+    }, 
+    "6": {
+        "id": 6,
+        "name": "Inumaki Clan",
+        "type": "Sorcerer Clan",
+        "controlled_by": null,
+        "location": "Japan",
+        "location_data": "Operates in secrecy, various hidden location",
+        "description": "A lineage of sorcerers from the Jujutsu Kaisen universe known for their exclusive possession of the Cursed Speech Technique."
+    }, 
+    "7": {
+        "id": 7,
+        "name": "Suguru Geto’s Group ",
+        "type": "Curse User Group",
+        "controlled_by": 14,
+        "location": "Various",
+        "location_data": "Temple hideout in Tokyo; operations in Shinjuku & Kyoto",
+        "description": "His goal was to eradicate those who were not sorcerers, planning an assault on Tokyo, the pinnacle of the jujutsu world."
+    }, 
+    "8": {
+        "id": 8,
+        "name": "Mahito’s Group",
+        "type": "Cursed Spirit Group",
+        "controlled_by": 22,
+        "location": "Various",
+        "location_data": "Primarily Tokyo/Shibuya area",
+        "description": "Their ultimate goal is the eradication of humanity and  replacing the population with cursed spirits."
+    }, 
+    "9": {
+        "id": 9,
+        "name": "Time Vessel Association ",
+        "type": "Religious Cult",
+        "controlled_by": null,
+        "location": "House of the Children of the Star",
+        "location_data": "Secret location",
+        "description": "A non-sorcerer religious organization in the Jujutsu Kaisen world that worships the immortal sorcerer Master Tengen as their deity"
+    }, 
+    "10": {
+        "id": 10,
+        "name": "Q",
+        "type": "Curse User Organization",
+        "controlled_by": null,
+        "location": "Japan",
+        "location_data": "covert operations, no fixed base",
+        "description": "An association with the goal of making Tengen lose all reason and thus reversing the current world of jujutsu."
+    }, 
+    "11": {
+        "id": 11,
+        "name": "Jujutsu Headquarters ",
+        "type": "High Council",
+        "controlled_by": null,
+        "location": "Tokyo",
+        "location_data": "No exact location",
+        "description": "The high council of sorcery in Japan, overseeing all jujutsu activities and schools."
+    }, 
+    "12": {
+        "id": 12,
+        "name": "Culling Games",
+        "type": "Tournament",
+        "controlled_by": 199,
+        "location": "Colony Locations",
+        "location_data": "Tokyo (with Colonies No. 1 and No. 2), the Sendai Colony, and the Sakurajima Colony (in Kagoshima Prefecture).",
+        "description": "A macabre competition where sorcerers and non-sorcerers fight in a battle royale across Japan, with the goal of accumulating negative energy so that Kenjaku can transcend humanity."
+    }, 
+    "13": {
+        "id": 13,
+        "name": "Independent",
+        "type": "No Affiliation",
+        "controlled_by": null,
+        "location": "No location",
+        "location_data": "No location data",
+        "description": "Sorcerers, cursed users, or non-cursed users who work alone"
+    }, 
+    "14": {
+        "id": 14,
+        "name": "Sukuna's Followers",
+        "type": "Cursed Spirit Group",
+        "controlled_by": 20,
+        "location": "Japan",
+        "location_data": "Exact location undisclosed",
+        "description": "They seek to restore Sukuna to its former glory and “golden age.”"
+    }, 
+    "15": {
+        "id": 15,
+        "name": "Gachinko Fight Club",
+        "type": "Ilegal Club",
+        "controlled_by": 18,
+        "location": "Tochigi",
+        "location_data": "Tochigi Prefecture, Exact location undisclosed",
+        "description": "It is a place where sorcerers can earn money through combat and betting."
+    }, 
+    "16": {
+        "id": 16,
+        "name": "Kenjaku's Group",
+        "type": "Cursed Spirit Group",
+        "controlled_by": 21,
+        "location": "Tokyo",
+        "location_data": "Exact location undisclosed",
+        "description": "They seek to force the evolution of humanity through the optimization of cursed energy and fusion with Master Tengen."
+    }, 
+    "17": {
+        "id": 17,
+        "name": "The Hei",
+        "type": "Zenin Clan Unit",
+        "controlled_by": 43,
+        "location": "Zenin family estate",
+        "location_data": "Tokyo, exact location undisclosed",
+        "description": "Elite Zenin unit, semi–grade 1 or higher, strongest clan group."
+    }, 
+    "18": {
+        "id": 18,
+        "name": "Kukuru Unit",
+        "type": "Zenin Clan Unit",
+        "controlled_by": 81,
+        "location": "Zenin family estate",
+        "location_data": "Tokyo, exact location undisclosed",
+        "description": "Zenin males without innate techniques, forced into harsh martial arts training."
+    }, 
+    "19": {
+        "id": 19,
+        "name": "The Akashi",
+        "type": "Zenin Clan Unit",
+        "controlled_by": null,
+        "location": "Zenin family estate",
+        "location_data": "Tokyo, exact location undisclosed",
+        "description": "Zenin sorcerers with techniques, but too weak to join the Hei."
+    }, 
+    "20": {
+        "id": 20,
+        "name": "Fukuoka Branch Campus",
+        "type": "Jujutsu School",
+        "controlled_by": 1005,
+        "location": "Fukuoka Prefecture",
+        "location_data": "Fukuoka Prefecture Jujutsu High School",
+        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters."
+    }, 
+    "21": {
+        "id": 21,
+        "name": "Suguru Geto's Cursed Spirit Manipulation",
+        "type": "Cursed Technique",
+        "controlled_by": 14,
+        "location": "No location",
+        "location_data": "No location data",
+        "description": "The curses that form part of Geto's curse manipulation technique, ready to attack under his command whenever he wishes."
+    }, 
+    "22": {
+        "id": 22,
+        "name": "Kenjaku's Cursed Spirit Manipulation",
+        "type": "Cursed Technique",
+        "controlled_by": 21,
+        "location": "No Location",
+        "location_data": "No location data",
+        "description": "The curses that form part of Kenjaku's curse manipulation technique, ready to attack under his command whenever he wishes."
+    }
+  }
+}
