@@ -1,0 +1,70 @@
+{
+  "Arcs": {
+    "1": {
+        "id": 1,
+        "name": "Cursed Child Arc",
+        "manga": "Ch0",
+        "anime": "Jujutsu Kaisen 0: The Movie"
+    },
+    "2": {
+        "id": 2,
+        "name": "Fearsome Womb Arc",
+        "manga": "Ch1-18",
+        "anime": "Ep1-8"
+    },
+    "3": {
+        "id": 3,
+        "name": "Vs. Mahito Arc",
+        "manga": "Ch19-31",
+        "anime": "Ep9-13"
+    },
+    "4": {
+        "id": 4,
+        "name": "Kyoto Goodwill Event Arc",
+        "manga": "Ch32-54",
+        "anime": "Ep14-21"
+    },
+    "5": {
+        "id": 5,
+        "name": "Death Painting Arc",
+        "manga": "Ch55-64",
+        "anime": "Ep22-24"
+    },
+    "6": {
+        "id": 6,
+        "name": "Gojo's Past Arc",
+        "manga": "Ch65-79",
+        "anime": "Ep25-29"
+    },
+    "7": {
+        "id": 7,
+        "name": "Shibuya Incident Arc",
+        "manga": "Ch79-136",
+        "anime": "Ep30-47"
+    },
+    "8": {
+        "id": 8,
+        "name": "Itadori's Extermination Arc",
+        "manga": "Ch137-143",
+        "anime": "Ep47"
+    },
+    "9": {
+        "id": 9,
+        "name": "Perfect Preparation Arc",
+        "manga": "Ch144-158",
+        "anime": null
+    },
+    "10": {
+        "id": 10,
+        "name": "Culling Game Arc",
+        "manga": "Ch159-221",
+        "anime": null
+    },
+    "11": {
+        "id": 11,
+        "name": "Shinjuku Showdown Arc",
+        "manga": "Ch222-271",
+        "anime": null
+    }
+  }
+}
