@@ -2,9 +2,503 @@
   "AnimeEpisodes": {
     "1": {
         "id": 1,
-        "arc":  ,
-        "title": "",
-        "mangachapters_adapted": 1
+        "arc":  1,
+        "season" : "Season 1",
+        "title": "Ryomen Sukuna",
+        "mangachapters_adapted": "Ch1 - Ch2 (pg. 2-3)",
+        "air_date": "October 3, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": null
+    },
+    "2": {
+        "id": 2,
+        "arc":  1,
+        "season" : "Season 1",
+        "title": "For Myself",
+        "mangachapters_adapted": "Ch2 (pg. 4-25) - Ch3",
+        "air_date": "October 10, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "3": {
+        "id": 3,
+        "arc":  1,
+       "season" : "Season 1",
+        "title": "Girl of Steel",
+        "mangachapters_adapted": "Ch4 - Ch5",
+        "air_date": "October 17, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "4": {
+        "id": 4,
+        "arc":  1,
+        "season" : "Season 1",
+        "title": "Fearsome Womb",
+        "mangachapters_adapted": "Ch6 - Ch7 - Ch8 (pg. 2-16)",
+        "air_date": "October 24, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "5": {
+        "id": 5,
+        "arc":  1,
+        "season" : "Season 1",
+        "title": "Fearsome Womb, Part 2",
+        "mangachapters_adapted": "Ch8 (pg. 17-19) - Ch9 - Ch10",
+        "air_date": "October 31, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "6": {
+        "id": 6,
+        "arc":  1,
+        "season" : "Season 1",
+        "title": "After the Rain",
+        "mangachapters_adapted": "Ch10 (pg. 18-19) - Ch11 - Ch12 - Ch13 (pg. 1-15)",
+        "air_date": "November 7, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "7": {
+        "id": 7,
+        "arc":  1,
+        "season" : "Season 1",
+        "title": "Assault",
+        "mangachapters_adapted": "Ch13 (pg. 16-19) - Ch14 - Ch15 - Ch16 (pg. 2-14)",
+        "air_date": "November 14, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "8": {
+        "id": 8,
+        "arc":  1,
+        "season" : "Season 1",
+        "title": "Broing",
+        "mangachapters_adapted": "Ch16 (pg. 15-21) - Ch17 - Ch18",
+        "air_date": "November 21, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "9": {
+        "id": 9,
+        "arc":  2,
+        "season" : "Season 1",
+        "title": "Young Fish and Reverse Punishment",
+        "mangachapters_adapted": "Ch19 - Ch20 - Ch21 (pg. 10-14)",
+        "air_date": "November 28, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "10": {
+        "id": 10,
+        "arc":  2,
+        "season" : "Season 1",
+        "title": "Idle Transfiguration",
+        "mangachapters_adapted": "Ch21 (pg. 2-19) - Ch22 - Ch23 (pg. 2-11)",
+        "air_date": "December 5, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "11": {
+        "id": 11,
+        "arc":  2,
+        "season" : "Season 1",
+        "title": "Narrow-Minded",
+        "mangachapters_adapted": "Ch23 (pg. 11-21) - Ch24 - Ch25",
+        "air_date": "December 12, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "12": {
+        "id": 12,
+        "arc":  2,
+        "season" : "Season 1",
+        "title": "To You Someday",
+        "mangachapters_adapted": "Ch26 - Ch27 - Ch28 - Ch29 (pg. 1-3)",
+        "air_date": "December 19, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "13": {
+        "id": 13,
+        "arc":  2,
+        "season" : "Season 1",
+        "title": "Tomorrow",
+        "mangachapters_adapted": "Ch29 (pg. 2-19) - Ch30 - Ch31",
+        "air_date": "December 26, 2020",
+        "opening_theme": "Kaikai Kitan",
+        "ending_theme": "Lost in Paradise"
+    },
+    "14": {
+        "id": 14,
+        "arc":  3,
+        "season" : "Season 1",
+        "title": "Kyoto Sister School Goodwill Event - Team Battle, Part 0",
+        "mangachapters_adapted": "Ch32 - Ch33",
+        "air_date": "January 16, 2021",
+        "opening_theme": "Vivid Vice",
+        "ending_theme": "Give it Back"
+    },
+    "15": {
+        "id": 15,
+        "arc":  3,
+        "season" : "Season 1",
+        "title": "Kyoto Sister School Goodwill Event - Team Battle, Part 1",
+        "mangachapters_adapted": "Ch34 - Ch35 - Ch36",
+        "air_date": "January 23, 2021",
+        "opening_theme": "Vivid Vice",
+        "ending_theme": "Give it Back"
+    },
+    "16": {
+        "id": 16,
+        "arc":  3,
+        "season" : "Season 1",
+        "title": "Kyoto Sister School Goodwill Event - Team Battle, Part 2",
+        "mangachapters_adapted": "Ch37 - Ch38 - Ch39",
+        "air_date": "January 30, 2021",
+        "opening_theme": "Vivid Vice",
+        "ending_theme": "Give it Back"
+    },
+    "17": {
+        "id": 17,
+        "arc":  3,
+        "season" : "Season 1",
+        "title": "Kyoto Sister School Goodwill Event - Team Battle, Part 3",
+        "mangachapters_adapted": "Ch40 - Ch41 - Ch42",
+        "air_date": "February 6, 2021",
+        "opening_theme": "Vivid Vice",
+        "ending_theme": "Give it Back"
+    },
+    "18": {
+      "id": 18,
+        "arc":  3,
+        "season" : "Season 1",
+        "title": "Sage",
+        "mangachapters_adapted": "Ch43 - Ch44 - Ch45 - Ch46 (pg. 2-4)",
+        "air_date": "February 13, 2021",
+        "opening_theme": "Vivid Vice",
+        "ending_theme": "Give it Back"
+    },
+    "19": {
+      "id": 19,
+      "arc":  3,
+      "season" : "Season 1",
+      "title": "Black Flash",
+      "mangachapters_adapted": "Ch46 (pg. 5-21) - Ch47 - Ch48 - Ch49",
+      "air_date": "February 20, 2021",
+      "opening_theme": "Vivid Vice",
+      "ending_theme": "Give it Back"
+    },
+    "20": {
+      "id": 20,
+      "arc":  3,
+      "season" : "Season 1",
+      "title": "Nonstandard",
+      "mangachapters_adapted": "Ch50 - Ch51 - Ch52",
+      "air_date": "February 27, 2021",
+      "opening_theme": "Vivid Vice",
+      "ending_theme": "Give it Back"
+    },
+    "21": {
+      "id": 21,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "22": {
+      "id": 22,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "23": {
+      "id": 23,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "24": {
+      "id": 24,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "25": {
+      "id": 25,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "26": {
+      "id": 26,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "27": {
+      "id": 27,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "28": {
+      "id": 28,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "29": {
+      "id": 29,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "30": {
+      "id": 30,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "31": {
+      "id": 31,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "32": {
+      "id": 32,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "33": {
+      "id": 33,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "34": {
+      "id": 34,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "35": {
+      "id": 35,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "36": {
+      "id": 36,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "37": {
+      "id": 37,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "38": {
+      "id": 38,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "39": {
+      "id": 39,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "40": {
+      "id": 40,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "41": {
+      "id": 41,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "42": {
+      "id": 42,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "43": {
+      "id": 43,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "44": {
+      "id": 44,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "45": {
+      "id": 45,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "46": {
+      "id": 46,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "47": {
+      "id": 47,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "48": {
+      "id": 48,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "49": {
+      "id": 49,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
+    },
+    "50": {
+      "id": 50,
+      "arc":  ,
+      "season" : "Season ",
+      "title": "",
+      "mangachapters_adapted": 1,
+      "air_date": "",
+      "opening_theme": "",
+        "ending_theme": ""
     }
-  }
+    
 }
