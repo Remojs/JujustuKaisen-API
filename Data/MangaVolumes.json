@@ -1,0 +1,103 @@
+{
+  "mangaVolumes": {
+    "21": {
+        "id": 21,
+        "volume_number": "20",
+        "volume_name": "Sendai Colony: The Height of the Feast",
+        "release_date": "August 4, 2022",
+        "pages": 192,
+        "chapters": "172-180",
+        "cover_character": "Ryu Ishigori"
+    },
+    "22": {
+        "id": 22,
+        "volume_number": "21",
+        "volume_name": "Tokyo No. 2 Colony",
+        "release_date": "December 2, 2022",
+        "pages": 216,
+        "chapters": "181-190",
+        "cover_character": "Hajime Kashimo"
+    },
+    "23": {
+        "id": 23,
+        "volume_number": "22",
+        "volume_name": "Sakurajima Colony - Rebirth",
+        "release_date": "March 3, 2023",
+        "pages": 192,
+        "chapters": "191-199",
+        "cover_character": "Maki Zenin"
+    },
+     "24": {
+        "id": 24,
+        "volume_number": "23",
+        "volume_name": "Stars and Oil",
+        "release_date": "July 4, 2023",
+        "pages": 192,
+        "chapters": "200-208",
+        "cover_character": "Yuki Tsukumo"
+    },
+    "25": {
+        "id": 25,
+        "volume_number": "24",
+        "volume_name": "Fearsome Womb - Recurrence",
+        "release_date": "October 4, 2023",
+        "pages": 192,
+        "chapters": "209-217",
+        "cover_character": "Hana Kurusu"
+    },
+    "26": {
+        "id": 26,
+        "volume_number": "25",
+        "volume_name": "Inhuman Makyo Shinjuku Showdown",
+        "release_date": "January 4, 2024",
+        "pages": 208,
+        "chapters": "218-227",
+        "cover_character": "Ryomen Sukuna (Megumi's Body)"
+    },
+    "27": {
+        "id": 27,
+        "volume_number": "26",
+        "volume_name": "Heading South",
+        "release_date": "July 4, 2024",
+        "pages": 192,
+        "chapters": "228-236",
+        "cover_character": "Satoru Gojo"
+    },
+    "28": {
+        "id": 28,
+        "volume_number": "27",
+        "volume_name": "Foolish Survivor!!",
+        "release_date": "July 4, 2024",
+        "pages": 192,
+        "chapters": "237-245",
+        "cover_character": "Fumihiko Takaba"
+    },
+    "29": {
+        "id": 29,
+        "volume_number": "28",
+        "volume_name": "Inhuman Makyo Shinjuku Showdown - Nine Principles",
+        "release_date": "October 4, 2024",
+        "pages": 200,
+        "chapters": "246-254",
+        "cover_character": "Yuta Okkotsu"
+    },
+    "30": {
+        "id": 30,
+        "volume_number": "29",
+        "volume_name": "Inhuman Makyo Shinjuku Showdown - Living Dead",
+        "release_date": "December 25, 2024",
+        "pages": 192,
+        "chapters": "255-263",
+        "cover_character": "Ryomen Sukuna"
+    },
+    "31": {
+        "id": 31,
+        "volume_number": 30,
+        "volume_name": "From Now On",
+        "release_date": "December 25, 2024",
+        "pages": 192,
+        "chapters": "264-271",
+        "cover_character": "Yuji Itadori"
+    }
+  }
+}
