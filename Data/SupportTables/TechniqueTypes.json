@@ -1,0 +1,14 @@
+{
+  "technique_type": {
+    "1": {"id": 1,"technique_type": "Innate Technique"},
+    "2": {"id": 2,"technique_type": "Extension Technique"},
+    "3": {"id": 3,"technique_type": "New Shadow Style Technique"},
+    "4": {"id": 4,"technique_type": "Barrier Techniques"},
+    "5": {"id": 5,"technique_type": "Anti-Domain Technique"},
+    "6": {"id": 6,"technique_type": "Shikigami Technique"},
+    "7": {"id": 7,"technique_type": "Inherited Techniques"},
+    "8": {"id": 8,"technique_type": "Shikigami Ability"},
+    "9": {"id": 9,"technique_type": "Taijutsu"},
+    "10": {"id": 10,"technique_type": "Restriction"}
+  }
+}
