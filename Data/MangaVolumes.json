@@ -1,5 +1,185 @@
 {
   "mangaVolumes": {
+    "1": {
+        "id": 1,
+        "volume_number": "0",
+        "volume_name": "Blinding Darkness",
+        "release_date": "December 4, 2018",
+        "pages": 200,
+        "chapters": "0",
+        "cover_character": "Yuta Okkotsu"
+    },
+    "2": {
+        "id": 2,
+        "volume_number": "1",
+        "volume_name": "Ryomen Sukuna",
+        "release_date": "July 4, 2018",
+        "pages": 192,
+        "chapters": "1-7",
+        "cover_character": "Yuji Itadori"
+    },
+    "3": {
+        "id": 3,
+        "volume_number": "2",
+        "volume_name": "Fearsome Womb",
+        "release_date": "September 4, 2018",
+        "pages": 192,
+        "chapters": "8-16",
+        "cover_character": "Megumi Fushiguro"
+    },
+    "4": {
+        "id": 4,
+        "volume_number": "3",
+        "volume_name": "Young Fish and Reverse Punishment",
+        "release_date": "December 4, 2018",
+        "pages": 192,
+        "chapters": "17-25",
+        "cover_character": "Nobara Kugisaki"
+    },
+    "5": {
+        "id": 5,
+        "volume_number": "4",
+        "volume_name": "I'm Gonna Kill You",
+        "release_date": "March 4, 2019",
+        "pages": 200,
+        "chapters": "26-34",
+        "cover_character": "Satoru Gojo"
+    },
+    "6": {
+        "id": 6,
+        "volume_number": "5",
+        "volume_name": "Kyoto Sister School Goodwill Event",
+        "release_date": "May 2, 2019",
+        "pages": 192,
+        "chapters": "35-43",
+        "cover_character": "Aoi Todo"
+    },
+    "7": {
+        "id": 7,
+        "volume_number": "6",
+        "volume_name": "Black Flash",
+        "release_date": "July 4, 2019",
+        "pages": 192,
+        "chapters": "44-52",
+        "cover_character": "Mahito"
+    },
+    "8": {
+        "id": 8,
+        "volume_number": "7",
+        "volume_name": "The Origin of Obedience",
+        "release_date": "October 4, 2019",
+        "pages": 192,
+        "chapters": "53-61",
+        "cover_character": "Choso"
+    },
+    "9": {
+        "id": 9,
+        "volume_number": "8",
+        "volume_name": "Hidden Inventory",
+        "release_date": "January, 2020",
+        "pages": 192,
+        "chapters": "62-70",
+        "cover_character": "Toji Fushiguro"
+    },
+    "10": {
+        "id": 10,
+        "volume_number": "9",
+        "volume_name": "Premature Death",
+        "release_date": "January 4, 2020",
+        "pages": 192,
+        "chapters": "71-79",
+        "cover_character": "Suguru Geto"
+    },
+    "11": {
+        "id": 11,
+        "volume_number": "10",
+        "volume_name": "Evening Festival",
+        "release_date": "March 4, 2020",
+        "pages": 192,
+        "chapters": "80-88",
+        "cover_character": "Kokichi Muta"
+    },
+    "12": {
+        "id": 12,
+        "volume_number": "11",
+        "volume_name": "The Shibuya Incident: Gate Open",
+        "release_date": "June 4, 2020",
+        "pages": 192,
+        "chapters": "89-97",
+        "cover_character": "Kento Nanami"
+    },
+    "13": {
+        "id": 13,
+        "volume_number": "12",
+        "volume_name": "The Shibuya Incident: Summon",
+        "release_date": "August 4, 2020",
+        "pages": 192,
+        "chapters": "98-106",
+        "cover_character": "Mei Mei"
+    },
+    "14": {
+        "id": 14,
+        "volume_number": "13",
+        "volume_name": "The Shibuya Incident: Thunderclap",
+        "release_date": "October 2, 2020",
+        "pages": 192,
+        "chapters": "104-115",
+        "cover_character": "Atsuya Kusakabe"
+    },
+    "15": {
+        "id": 15,
+        "volume_number": "14",
+        "volume_name": "The Shibuya Incident: Right and Wrong",
+        "release_date": "January, 2021",
+        "pages": 192,
+        "chapters": "116-124",
+        "cover_character": "Ryomen Sukuna (Yuji's Body)"
+    },
+    "16": {
+        "id": 16,
+        "volume_number": "15",
+        "volume_name": "The Shibuya Incident: Transformation",
+        "release_date": "March 4, 2021",
+        "pages": 192,
+        "chapters": "125-133",
+        "cover_character": "Mahito"
+    },
+    "17": {
+        "id": 17,
+        "volume_number": "16",
+        "volume_name": "The Shibuya Incident: Gate Closed",
+        "release_date": "June 4, 2021",
+        "pages": 192,
+        "chapters": "134-142",
+        "cover_character": "Kenjaku"
+    },
+    "18": {
+        "id": 18,
+        "volume_number": "17",
+        "volume_name": "Perfect Preparation",
+        "release_date": "October 4, 2021",
+        "pages": 200,
+        "chapters": "143-152",
+        "cover_character": "Naoya Zenin"
+    },
+    "19": {
+        "id": 19,
+        "volume_number": "18",
+        "volume_name": "Fever",
+        "release_date": "December 25, 2021",
+        "pages": 192,
+        "chapters": "153-161",
+        "cover_character": "Kinji Hakari"
+    },
+    "20": {
+        "id": 20,
+        "volume_number": "19",
+        "volume_name": "Tokyo No. 1 Colony: Angry Man",
+        "release_date": "April 4, 2022",
+        "pages": 208,
+        "chapters": "162-171",
+        "cover_character": "Hiromi Higuruma"
+    },
     "21": {
         "id": 21,
         "volume_number": "20",
@@ -21,7 +201,7 @@
     "23": {
         "id": 23,
         "volume_number": "22",
-        "volume_name": "Sakurajima Colony - Rebirth",
+        "volume_name": "Sakurajima Colony: Rebirth",
         "release_date": "March 3, 2023",
         "pages": 192,
         "chapters": "191-199",
@@ -39,7 +219,7 @@
     "25": {
         "id": 25,
         "volume_number": "24",
-        "volume_name": "Fearsome Womb - Recurrence",
+        "volume_name": "Fearsome Womb: Recurrence",
         "release_date": "October 4, 2023",
         "pages": 192,
         "chapters": "209-217",
@@ -66,7 +246,7 @@
     "28": {
         "id": 28,
         "volume_number": "27",
-        "volume_name": "Foolish Survivor!!",
+        "volume_name": "Foolish Survivor",
         "release_date": "July 4, 2024",
         "pages": 192,
         "chapters": "237-245",
@@ -75,7 +255,7 @@
     "29": {
         "id": 29,
         "volume_number": "28",
-        "volume_name": "Inhuman Makyo Shinjuku Showdown - Nine Principles",
+        "volume_name": "Inhuman Makyo Shinjuku Showdown: Nine Principles",
         "release_date": "October 4, 2024",
         "pages": 200,
         "chapters": "246-254",
@@ -84,7 +264,7 @@
     "30": {
         "id": 30,
         "volume_number": "29",
-        "volume_name": "Inhuman Makyo Shinjuku Showdown - Living Dead",
+        "volume_name": "Inhuman Makyo Shinjuku Showdown: Living Dead",
         "release_date": "December 25, 2024",
         "pages": 192,
         "chapters": "255-263",
