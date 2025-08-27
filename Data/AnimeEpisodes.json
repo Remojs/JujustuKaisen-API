@@ -2,7 +2,19 @@
   "AnimeEpisodes": {
     "1": {
         "id": 1,
+        "episode_number": "0",
         "arc":  1,
+        "season" : "Season 0",
+        "title": "Jujutsu Kaisen 0: The Moviea",
+        "mangachapters_adapted": "Ch0",
+        "air_date": "December 24, 2021",
+        "opening_theme": null,
+        "ending_theme": null
+    },
+    "2": {
+        "id": 2,
+        "episode_number": "1",
+        "arc":  2,
         "season" : "Season 1",
         "title": "Ryomen Sukuna",
         "mangachapters_adapted": "Ch1 - Ch2",
@@ -10,9 +22,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": null
     },
-    "2": {
-        "id": 2,
-        "arc":  1,
+    "3": {
+        "id": 3,
+        "episode_number": "2",
+        "arc":  2,
         "season" : "Season 1",
         "title": "For Myself",
         "mangachapters_adapted": "Ch2 - Ch3",
@@ -20,19 +33,21 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "3": {
-        "id": 3,
-        "arc":  1,
-       "season" : "Season 1",
+    "4": {
+        "id": 4,
+        "episode_number": "3",
+        "arc":  2,
+        "season" : "Season 1",
         "title": "Girl of Steel",
         "mangachapters_adapted": "Ch4 - Ch5",
         "air_date": "October 17, 2020",
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "4": {
-        "id": 4,
-        "arc":  1,
+    "5": {
+        "id": 5,
+        "episode_number": "4",
+        "arc":  2,
         "season" : "Season 1",
         "title": "Fearsome Womb",
         "mangachapters_adapted": "Ch6 - Ch7 - Ch8",
@@ -40,9 +55,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "5": {
-        "id": 5,
-        "arc":  1,
+    "6": {
+        "id": 6,
+        "episode_number": "5",
+        "arc":  2,
         "season" : "Season 1",
         "title": "Fearsome Womb, Part 2",
         "mangachapters_adapted": "Ch8 - Ch9 - Ch10",
@@ -50,9 +66,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "6": {
-        "id": 6,
-        "arc":  1,
+    "7": {
+        "id": 7,
+        "episode_number": "6",
+        "arc":  2,
         "season" : "Season 1",
         "title": "After the Rain",
         "mangachapters_adapted": "Ch10 - Ch11 - Ch12 - Ch13",
@@ -60,9 +77,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "7": {
-        "id": 7,
-        "arc":  1,
+    "8": {
+        "id": 8,
+        "episode_number": "7",
+        "arc":  2,
         "season" : "Season 1",
         "title": "Assault",
         "mangachapters_adapted": "Ch13 - Ch14 - Ch15 - Ch16",
@@ -70,9 +88,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "8": {
-        "id": 8,
-        "arc":  1,
+    "9": {
+        "id": 9,
+        "episode_number": "8",
+        "arc":  2,
         "season" : "Season 1",
         "title": "Broing",
         "mangachapters_adapted": "Ch16 - Ch17 - Ch18",
@@ -80,9 +99,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "9": {
-        "id": 9,
-        "arc":  2,
+    "10": {
+        "id": 10,
+        "episode_number": "9",
+        "arc":  3,
         "season" : "Season 1",
         "title": "Young Fish and Reverse Punishment",
         "mangachapters_adapted": "Ch19 - Ch20 - Ch21",
@@ -90,9 +110,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "10": {
-        "id": 10,
-        "arc":  2,
+    "11": {
+        "id": 11,
+        "episode_number": "10",
+        "arc":  3,
         "season" : "Season 1",
         "title": "Idle Transfiguration",
         "mangachapters_adapted": "Ch21 - Ch22 - Ch23",
@@ -100,9 +121,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "11": {
-        "id": 11,
-        "arc":  2,
+    "12": {
+        "id": 12,
+        "episode_number": "11",
+        "arc":  3,
         "season" : "Season 1",
         "title": "Narrow-Minded",
         "mangachapters_adapted": "Ch23 - Ch24 - Ch25",
@@ -110,9 +132,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "12": {
-        "id": 12,
-        "arc":  2,
+    "13": {
+        "id": 13,
+        "episode_number": "12",
+        "arc":  3,
         "season" : "Season 1",
         "title": "To You Someday",
         "mangachapters_adapted": "Ch26 - Ch27 - Ch28 - Ch29",
@@ -120,9 +143,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "13": {
-        "id": 13,
-        "arc":  2,
+    "14": {
+        "id": 14,
+        "episode_number": "13",
+        "arc":  3,
         "season" : "Season 1",
         "title": "Tomorrow",
         "mangachapters_adapted": "Ch29 - Ch30 - Ch31",
@@ -130,9 +154,10 @@
         "opening_theme": "Kaikai Kitan",
         "ending_theme": "Lost in Paradise"
     },
-    "14": {
-        "id": 14,
-        "arc":  3,
+    "15": {
+        "id": 15,
+        "episode_number": "14",
+        "arc":  4,
         "season" : "Season 1",
         "title": "Kyoto Sister School Goodwill Event - Team Battle, Part 0",
         "mangachapters_adapted": "Ch32 - Ch33",
@@ -140,9 +165,10 @@
         "opening_theme": "Vivid Vice",
         "ending_theme": "Give it Back"
     },
-    "15": {
-        "id": 15,
-        "arc":  3,
+    "16": {
+        "id": 16,
+        "episode_number": "15",
+        "arc":  4,
         "season" : "Season 1",
         "title": "Kyoto Sister School Goodwill Event - Team Battle, Part 1",
         "mangachapters_adapted": "Ch34 - Ch35 - Ch36",
@@ -150,9 +176,10 @@
         "opening_theme": "Vivid Vice",
         "ending_theme": "Give it Back"
     },
-    "16": {
-        "id": 16,
-        "arc":  3,
+    "17": {
+        "id": 17,
+        "episode_number": "16",
+        "arc":  4,
         "season" : "Season 1",
         "title": "Kyoto Sister School Goodwill Event - Team Battle, Part 2",
         "mangachapters_adapted": "Ch37 - Ch38 - Ch39",
@@ -160,9 +187,10 @@
         "opening_theme": "Vivid Vice",
         "ending_theme": "Give it Back"
     },
-    "17": {
-        "id": 17,
-        "arc":  3,
+    "18": {
+        "id": 18,
+      "episode_number": "17",
+        "arc":  4,
         "season" : "Season 1",
         "title": "Kyoto Sister School Goodwill Event - Team Battle, Part 3",
         "mangachapters_adapted": "Ch40 - Ch41 - Ch42",
@@ -170,9 +198,10 @@
         "opening_theme": "Vivid Vice",
         "ending_theme": "Give it Back"
     },
-    "18": {
-      "id": 18,
-        "arc":  3,
+    "19": {
+        "id": 19,
+        "episode_number": "18",
+        "arc":  4,
         "season" : "Season 1",
         "title": "Sage",
         "mangachapters_adapted": "Ch43 - Ch44 - Ch45 - Ch46",
@@ -180,9 +209,10 @@
         "opening_theme": "Vivid Vice",
         "ending_theme": "Give it Back"
     },
-    "19": {
-      "id": 19,
-      "arc":  3,
+    "20": {
+      "id": 20,
+      "episode_number": "19",
+      "arc":  4,
       "season" : "Season 1",
       "title": "Black Flash",
       "mangachapters_adapted": "Ch46 - Ch47 - Ch48 - Ch49",
@@ -190,9 +220,10 @@
       "opening_theme": "Vivid Vice",
       "ending_theme": "Give it Back"
     },
-    "20": {
-      "id": 20,
-      "arc":  3,
+    "21": {
+      "id": 21,
+      "episode_number": "20",
+      "arc":  4,
       "season" : "Season 1",
       "title": "Nonstandard",
       "mangachapters_adapted": "Ch50 - Ch51 - Ch52",
@@ -200,9 +231,10 @@
       "opening_theme": "Vivid Vice",
       "ending_theme": "Give it Back"
     },
-    "21": {
-      "id": 21,
-      "arc":  3,
+    "22": {
+      "id": 22,
+      "episode_number": "21",
+      "arc":  4,
       "season" : "Season 1",
       "title": "Jujutsu Koshien",
       "mangachapters_adapted": "Ch53 - Ch54",
@@ -210,9 +242,10 @@
       "opening_theme": "Vivid Vice",
       "ending_theme": "Give it Back"
     },
-    "22": {
-      "id": 22,
-      "arc":  4,
+    "23": {
+      "id": 23,
+      "episode_number": "22",
+      "arc":  5,
       "season" : "Season 1",
       "title": "The Origin of Obedience",
       "mangachapters_adapted": "Ch55 - Ch56",
@@ -220,9 +253,10 @@
       "opening_theme": "Vivid Vice",
       "ending_theme": "Give it Back"
     },
-    "23": {
-      "id": 23,
-      "arc":  4,
+    "24": {
+      "id": 24,
+      "episode_number": "23",
+      "arc":  5,
       "season" : "Season 1",
       "title": "The Origin of Obedience, Part 2",
       "mangachapters_adapted": "Ch57 - Ch58 - Ch59",
@@ -230,9 +264,10 @@
       "opening_theme": "Vivid Vice",
       "ending_theme": "Give it Back"
     },
-    "24": {
-      "id": 24,
-      "arc":  4,
+    "25": {
+      "id": 25,
+      "episode_number": "24",
+      "arc":  5,
       "season" : "Season 1",
       "title": "Accomplices",
       "mangachapters_adapted": "Ch60 - Ch61 - Ch62 - Ch63",
@@ -240,9 +275,10 @@
       "opening_theme": "Vivid Vice",
       "ending_theme": "Give it Back"
     },
-    "25": {
-      "id": 25,
-      "arc":  5,
+    "26": {
+      "id": 26,
+      "episode_number": "25",
+      "arc":  6,
       "season" : "Season 2",
       "title": "Hidden Inventory",
       "mangachapters_adapted": "Ch65 - Ch66",
@@ -250,9 +286,10 @@
       "opening_theme": "Ao no Sumika",
       "ending_theme": "Akari"
     },
-    "26": {
-      "id": 26,
-      "arc":  5,
+    "27": {
+      "id": 27,
+      "episode_number": "26",
+      "arc":  6,
       "season" : "Season 2",
       "title": "Hidden Inventory, Part 2",
       "mangachapters_adapted": "Ch67 - Ch68 - Ch69",
@@ -260,9 +297,10 @@
       "opening_theme": "Ao no Sumika",
       "ending_theme": "Akari"
     },
-    "27": {
-      "id": 27,
-      "arc":  5,
+    "28": {
+      "id": 28,
+      "episode_number": "27",
+      "arc":  6,
       "season" : "Season 2",
       "title": "Hidden Inventory, Part 3",
       "mangachapters_adapted": "Ch70 - Ch71 - Ch72",
@@ -270,9 +308,10 @@
       "opening_theme": "Ao no Sumika",
       "ending_theme": "Akari"
     },
-    "28": {
-      "id": 28,
-      "arc":  5,
+    "29": {
+      "id": 29,
+      "episode_number": "28",
+      "arc":  6,
       "season" : "Season 2",
       "title": "Hidden Inventory, Part 4",
       "mangachapters_adapted": "Ch73 - Ch74 - Ch75 - Ch76",
@@ -280,9 +319,10 @@
       "opening_theme": "Ao no Sumika",
       "ending_theme": "Akari"
     },
-    "29": {
-      "id": 29,
-      "arc":  5,
+    "30": {
+      "id": 30,
+      "episode_number": "29",
+      "arc":  6,
       "season" : "Season 2",
       "title": "Premature Death",
       "mangachapters_adapted": "Ch76 - Ch77 - Ch78 - Ch79",
@@ -290,9 +330,10 @@
       "opening_theme": "Ao no Sumika",
       "ending_theme": "Akari"
     },
-    "30": {
-      "id": 30,
-      "arc":  6,
+    "31": {
+      "id": 31,
+      "episode_number": "30",
+      "arc":  7,
       "season" : "Season 2",
       "title": "It's Like That",
       "mangachapters_adapted": "Ch79 - Ch80",
@@ -300,9 +341,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "31": {
-      "id": 31,
-      "arc":  6,
+    "32": {
+      "id": 32,
+      "episode_number": "31",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Evening Festival",
       "mangachapters_adapted": "Ch80 - Ch81 - Ch82 - Ch83",
@@ -310,9 +352,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "32": {
-      "id": 32,
-      "arc":  6,
+    "33": {
+      "id": 33,
+      "episode_number": "32",
+      "arc":  7,
       "season" : "Season 2",
       "title": "The Shibuya Incident",
       "mangachapters_adapted": "Ch83 - Ch84 - Ch85 - Ch86 - Ch87 - Ch88",
@@ -320,9 +363,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "33": {
-      "id": 33,
-      "arc":  6,
+    "34": {
+      "id": 34,
+      "episode_number": "33",
+      "arc":  7,
       "season" : "Season 2",
       "title": "The Shibuya Incident - Gate Open",
       "mangachapters_adapted": "Ch88 - Ch89 - Ch90 - Ch91",
@@ -330,9 +374,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "34": {
-      "id": 34,
-      "arc":  6,
+    "35": {
+      "id": 35,
+      "episode_number": "34",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Pandemonium",
       "mangachapters_adapted": "Ch90 - Ch91 - Ch92 - Ch93",
@@ -340,9 +385,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "35": {
-      "id": 35,
-      "arc":  6,
+    "36": {
+      "id": 36,
+      "episode_number": "35",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Summon",
       "mangachapters_adapted": "Ch94 - Ch95 - Ch96 - Ch97",
@@ -350,9 +396,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "36": {
-      "id": 36,
-      "arc":  6,
+    "37": {
+      "id": 37,
+      "episode_number": "36",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Dull Knife",
       "mangachapters_adapted": "Ch98 - Ch99 - Ch100 - Ch101",
@@ -360,9 +407,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "37": {
-      "id": 37,
-      "arc":  6,
+    "38": {
+      "id": 38,
+      "episode_number": "37",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Red Scale",
       "mangachapters_adapted": "Ch100 - Ch101 - Ch102 - Ch103 - Ch104 - Ch105 - Ch106",
@@ -370,9 +418,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "38": {
-      "id": 38,
-      "arc":  6,
+    "39": {
+      "id": 39,
+      "episode_number": "38",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Fluctuations",
       "mangachapters_adapted": "Ch106 - Ch107 - Ch108 - Ch109",
@@ -380,9 +429,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "39": {
-      "id": 39,
-      "arc":  6,
+    "40": {
+      "id": 40,
+      "episode_number": "39",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Fluctuations, Part 2",
       "mangachapters_adapted": "Ch109 - Ch110 - Ch111 - Ch112",
@@ -390,9 +440,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "40": {
-      "id": 40,
-      "arc":  6,
+    "41": {
+      "id": 41,
+      "episode_number": "40",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Thunderclap",
       "mangachapters_adapted": "Ch113 - Ch114 - Ch115 - Ch116",
@@ -400,9 +451,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "41": {
-      "id": 41,
-      "arc":  6,
+    "42": {
+      "id": 42,
+      "episode_number": "41",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Thunderclap, Part 2",
       "mangachapters_adapted": "Ch117 - Ch118 - Ch119 - Ch120",
@@ -410,9 +462,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "42": {
-      "id": 42,
-      "arc":  6,
+    "43": {
+      "id": 43,
+      "episode_number": "42",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Right and Wrong",
       "mangachapters_adapted": "Ch120 - Ch121 - Ch122",
@@ -420,9 +473,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "43": {
-      "id": 43,
-      "arc":  6,
+    "44": {
+      "id": 44,
+      "episode_number": "43",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Right and Wrong, Part 2",
       "mangachapters_adapted": "Ch123 - Ch124 - Ch125",
@@ -430,9 +484,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "44": {
-      "id": 44,
-      "arc":  6,
+    "45": {
+      "id": 45,
+      "episode_number": "44",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Right and Wrong, Part 3",
       "mangachapters_adapted": "Ch126 - Ch127 - Ch128",
@@ -440,9 +495,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "45": {
-      "id": 45,
-      "arc":  6,
+    "46": {
+      "id": 46,
+      "episode_number": "45",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Transformation",
       "mangachapters_adapted": "Ch129 - Ch130 - Ch131 - Ch132",
@@ -450,9 +506,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "46": {
-      "id": 46,
-      "arc":  6,
+    "47": {
+      "id": 47,
+      "episode_number": "46",
+      "arc":  7,
       "season" : "Season 2",
       "title": "Transformation, Part 2",
       "mangachapters_adapted": "Ch133 - Ch134 - Ch135",
@@ -460,9 +517,10 @@
       "opening_theme": "SpecialZ",
       "ending_theme": "More Than Words"
     },
-    "47": {
-      "id": 47,
-      "arc":  7,
+    "48": {
+      "id": 48,
+      "episode_number": "47",
+      "arc":  8,
       "season" : "Season 2",
       "title": "The Shibuya Incident - Gate Closed",
       "mangachapters_adapted": "Ch136 - Ch137 - Ch138",
