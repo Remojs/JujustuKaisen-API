@@ -97,108 +97,108 @@
       "users": [35]
     },
     "13": {
-      "id": 13,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+    "id": 13,
+    "technique_name": "Disaster Plants",
+    "description": "Manipulates nature to grow cursed plants like roots and seeds over a battlefield for offensive coverage; used by Hanami.",
+    "type": 1,
+    "range": 2,
+    "users": []
     },
     "14": {
-      "id": 14,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 14,
+        "technique_name": "Idle Transfiguration",
+        "description": "Manipulates and reshapes souls and bodies through physical contact, altering forms at will; Mahito's technique.",
+        "type": 1,
+        "range": 1,
+        "users": [22]
     },
     "15": {
-      "id": 15,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 15,
+        "technique_name": "Adaptation",
+        "description": "Mahoraga adapts to any phenomenon after exposure, becoming resistant, immune, or able to counter it.",
+        "type": 8,
+        "range": 5,
+        "users": [99]
     },
     "16": {
-      "id": 16,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 16,
+        "technique_name": "Ratio Technique",
+        "description": "Divides the target into a 7:3 ratio to create a critical weak point, guaranteeing a critical hit at that location; Kento Nanami's innate technique.",
+        "type": 1,
+        "range": 1,
+        "users": [15]
     },
     "17": {
-      "id": 17,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 17,
+        "technique_name": "Maximum: Frost Calm",
+        "description": "Releases freezing mist that forms massive ice columns, instantly immobilizing groups.",
+        "type": 2,
+        "range": 14,
+        "users": [41]
     },
     "18": {
-      "id": 18,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 18,
+        "technique_name": "Icefall",
+        "description": "Generates and controls spiked ice shards that freeze and skewer targets, devastating multiple foes.",
+        "type": 2,
+        "range": 3,
+        "users": [41]
     },
     "19": {
-      "id": 19,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 19,
+        "technique_name": "Kaichi",
+        "description": "Summons a spiral-patterned horn that can be launched as a cursed-energy projectile which relentlessly pursues its target until it lands a hit.",
+        "type": 2,
+        "range": 3,
+        "users": [49]
     },
     "20": {
-      "id": 20,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 20,
+        "technique_name": "Reiki",
+        "description": "Envelops the user in cursed water, cushioning impacts and enhancing mobility for evasion and repositioning.",
+        "type": 2,
+        "range": 5,
+        "users": [49]
     },
     "21": {
-      "id": 21,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 21,
+        "technique_name": "Kirin",
+        "description": "Temporarily nullifies pain perception through intracerebral doping, greatly boosting endurance in combat but draining stamina and preventing rest afterward.",
+        "type": 2,
+        "range": 5,
+        "users": [49]
     },
     "22": {
-      "id": 22,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 22,
+        "technique_name": "Ryu",
+        "description": "Channels cursed energy into the hands to manifest a large, dragon-like entity that charges forward to smash into opponents; it can be destroyed if damaged enough.",
+        "type": 2,
+        "range": 3,
+        "users": [49]
     },
     "23": {
-      "id": 23,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 23,
+        "technique_name": "Sugar Manipulation",
+        "description": "Amai’s technique lets him expel sugar from his body to create and project solid forms or inject it into others for healing/support.",
+        "type": 1,
+        "range": 1,
+        "users": [55]
     },
     "24": {
-      "id": 24,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 24,
+        "technique_name": "Wheel",
+        "description": "The rotating wheel above Mahoraga symbolizes harmony and initiates its adaptation process.",
+        "type": 8,
+        "range": 5,
+        "users": [99]
     },
     "25": {
-      "id": 25,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 25,
+        "technique_name": "Bird Strike",
+        "description": "Commands a cursed-infused crow to dive kamikaze-style at a target, causing a devastating explosion on impact.",
+        "type": 2,
+        "range": 3,
+        "users": [17]
     },
     "26": {
       "id": 26,
