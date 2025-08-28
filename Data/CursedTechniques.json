@@ -642,163 +642,163 @@
     },
     "81": {
       "id": 81,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Falling Blossom Emotion",
+      "description": "The user manifests their own domain to nullify the guaranteed hit of a domain. It envelops the user in cursed energy that counterattacks the moment the domain comes into contact.",
+      "type": 5,
+      "range": 1,
+      "users": [4, 42, 79]
     },
     "82": {
       "id": 82,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Divine Dogs",
+      "description": "Twin canine shikigami with powerful noses for tracking and lethal fangs and claws for devouring curses.",
+      "type": 6,
+      "range": 4,
+      "users": [2, 68]
     },
     "83": {
       "id": 83,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Divine Dogs: Totality",
+      "description": "Improved version of the black Divine Dog that incorporates the power of its fallen white twin.",
+      "type": 6,
+      "range": 4,
+      "users": [2, 68]
     },
     "84": {
       "id": 84,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Nue",
+      "description": "A winged shikigami armed with electro-shock wings that can carry people short distances.",
+      "type": 6,
+      "range": 4,
+      "users": [2, 68]
     },
     "85": {
       "id": 85,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Great Serpent",
+      "description": "A gigantic snake shikigami that was used to ensnare Megumi's targets.",
+      "type": 6,
+      "range": 4,
+      "users": [2, 68]
     },
     "86": {
       "id": 86,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Toad",
+      "description": "A large toad shikigami with a long and powerful tongue that can grab people and pull them through the air.",
+      "type": 6,
+      "range": 4,
+      "users": [2, 68]
     },
     "87": {
       "id": 87,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "The Well's Unknowns Abyss",
+      "description": "An extension technique that combines Toad and Nue to summon numerous winged toads that support Megumi in battle.",
+      "type": 6,
+      "range": 4,
+      "users": [2, 68]
     },
     "88": {
       "id": 88,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Max Elephant",
+      "description": "Max Elephant has the ability to produce a massive volume of water from its trunk and its weight can be used offensively as well.",
+      "type": 6,
+      "range": 4,
+      "users": [2, 68]
     },
     "89": {
       "id": 89,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Rabbit Scape",
+      "description": "A swarm of rabbit shikigami that Megumi uses as a distraction or to help him figure out his enemies abilities.",
+      "type": 6,
+      "range": 4,
+      "users": [2, 68]
     },
     "90": {
       "id": 90,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Eight Handled Sword Divergent Sila Divine General Mahoraga",
+      "description": "The most powerful uncontrollable shikigami that the Ten Shadows Technique can produce.",
+      "type": 6,
+      "range": 4,
+      "users": [68]
     },
     "91": {
       "id": 91,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Round Deer",
+      "description": "It can perform reverse cursed technique and output the positive energy to heal others or neutralize cursed energy.",
+      "type": 6,
+      "range": 4,
+      "users": [68]
     },
     "92": {
       "id": 92,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Piercing Ox",
+      "description": "It deals damage by charging and ramming into enemies. While it can only move in a straight line.",
+      "type": 6,
+      "range": 4,
+      "users": [68]
     },
     "93": {
       "id": 93,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Tiger Funeral",
+      "description": "A shikigami that Sukuna dominated after possessing Megumi. Its appearance and abilities are unknown.",
+      "type": 6,
+      "range": 4,
+      "users": [68]
     },
     "94": {
       "id": 94,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Nue: Totality - Merged Beast Agito",
+      "description": "A fusion shikigami that combines Nue with Great Serpent, Round Deer, and Tiger Funeral. Can produce electricity from its fists and regenerate itself or heal others with reverse cursed technique.",
+      "type": 6,
+      "range": 4,
+      "users": [68]
     },
     "95": {
       "id": 95,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Shrine",
+      "description": "Allows him to unleash invisible slashes, either at range or through physical contact, to cut down his enemies.",
+      "type": 1,
+      "range": 4,
+      "users": [1, 5, 20, 68, 69]
     },
     "96": {
       "id": 96,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Spiderweb",
+      "description": "The user touches their target to create cutting lines along the surface and unleashes a powerful slash that follows along the pattern to cut down everything in range in one fell swoop.",
+      "type": 2,
+      "range": 2,
+      "users": [20, 68, 69]
     },
     "97": {
       "id": 97,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Rika",
+      "description": "The cursed spirit of Rika Orimoto. She serves as the external storage for Yuta's copied cursed techniques and cursed tools.",
+      "type": 3,
+      "range": 4,
+      "users": [5]
     },
     "98": {
       "id": 98,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Technique Extinguishment",
+      "description": "Nullifies or negates all jujutsu, barriers, seals; no exceptions.",
+      "type": 1,
+      "range": 2,
+      "users": [51, 52]
     },
     "99": {
       "id": 99,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Maximum: Jacob's Ladder",
+      "description": "Casts a pillar of light onto a target, extinguishing any cursed techniques under the light.",
+      "type": 14,
+      "range": 2,
+      "users": [51, 52]
     },
     "100": {
       "id": 100,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "G Warstaff",
+      "description": "It grants him the ability to conjure a pen-like cursed tool capable of creating panels that allow him to peer into his target's future.",
+      "type": 1,
+      "range": 1,
+      "users": [5, 65]
     },
     "101": {
       "id": 101,
