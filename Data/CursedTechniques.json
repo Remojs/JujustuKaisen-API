@@ -482,163 +482,163 @@
     },
     "61": {
       "id": 61,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Straw Doll Technique",
+      "description": "Uses a straw doll as a conduit to curse a target remotely by inserting a personal item and cursed nails into the doll.",
+      "type": 1,
+      "range": 2,
+      "users": [3]
     },
     "62": {
       "id": 62,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Resonance",
+      "description": "Creates internal cursed energy resonance in a target when cursed nails are driven into a straw doll containing the target's remains, causing internal damage.",
+      "type": 2,
+      "range": 2,
+      "users": [3]
     },
     "63": {
       "id": 63,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Hairpin",
+      "description": "Detonates multiple cursed nails embedded in the environment or target simultaneously, producing a cursed energy shockwave.",
+      "type": 2,
+      "range": 1,
+      "users": [3]
     },
     "64": {
       "id": 64,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Blood Meteorite",
+      "description": "Hardens his blood, internally or externally, to create super-dense objects or reinforce his body, despite thrombosis risk.",
+      "type": 2,
+      "range": 1,
+      "users": [27]
     },
     "65": {
       "id": 65,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Slash That Cuts The World",
+      "description": "Dismantle enhanced with binding vow broadening its target area to include space, existence, and the world themselves, transforming the regular slashes into 'slashes that cut the world'.",
+      "type": 2,
+      "range": 2,
+      "users": [68, 69]
     },
     "66": {
       "id": 66,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Divine Flame",
+      "description": "Allows him to create and manipulate flames for long-range attacks by forming them into the shape of an arrow before launching it.",
+      "type": 1,
+      "range": 3,
+      "users": [20, 68, 69]
     },
     "67": {
       "id": 67,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Domain Amplification",
+      "description": "Creates an esoteric barrier zone that nullifies any cursed technique entering it, offering total defense against techniques.",
+      "type": 5,
+      "range": 1,
+      "users": [1, 2, 4, 5, 16, 18, 20, 12, 22, 23, 24, 26, 44, 53, 58, 68, 69, 70, 101, 102, 136]
     },
     "68": {
       "id": 68,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Simple Domain",
+      "description": "Generates a small personal barrier that automatically neutralizes incoming cursed techniques within a fixed radius.",
+      "type": 5,
+      "range": 1,
+      "users": [1, 4, 10, 16, 27, 30, 34, 35, 40, 49, 67, 102]
     },
     "69": {
       "id": 69,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Hollow Wicker Basket",
+      "description": "Deploys a simple barrier that cancels out Domain Expansions in an immediate area.",
+      "type": 5,
+      "range": 1,
+      "users": [50, 59, 69]
     },
     "70": {
       "id": 70,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "New Shadow Style",
+      "description": "Combines Simple Domain with rapid sword drawing (Iaido) for coordinated defense and offense.",
+      "type": 12,
+      "range": 1,
+      "users": [10, 34]
     },
     "71": {
       "id": 71,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Reverse Cursed Technique",
+      "description": "Converts negative cursed energy into positive energy to produce healing effects and regenerate damaged tissue.",
+      "type": 11,
+      "range": 5,
+      "users": [1, 4, 5, 12, 18, 20, 21, 41, 53, 61, 100, 213, 215]
     },
     "72": {
       "id": 72,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Sukuna's Reverse Cursed Technique",
+      "description": "Unique high-level RCT, enabling rapid regeneration and even reviving others.",
+      "type": 11,
+      "range": 5,
+      "users": [68, 69]
     },
     "73": {
       "id": 73,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Heavenly Restriction",
+      "description": "A rare congenital condition in which a sorcerer is born with either no cursed energy or drastically reduced cursed energy in exchange for superhuman physical abilities. Not a 'technique' in the classic sense but a biological binding that results in monstrous strength, agility, and durability, while being immune to certain curse-detection abilities.",
+      "type": 10,
+      "range": 5,
+      "users": [6, 28, 35]
     },
     "74": {
       "id": 74,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Solo Forbidden Area",
+      "description": "It temporarily amplifies the cursed energy of any willing sorcerer within range, including herself.",
+      "type": 1,
+      "range": 2,
+      "users": [37]
     },
     "75": {
       "id": 75,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Spatial Transference",
+      "description": "Allows the user to instantly transport themselves and others to a predetermined location by physical contact.",
+      "type": 1,
+      "range": 4,
+      "users": [40]
     },
     "76": {
       "id": 76,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Antigravity System",
+      "description": "Allows the user to manipulate gravity to nullify its effects or create repulsion fields; enables floating, flight, and defensive barriers by altering gravitational forces in a localized area.",
+      "type": 1,
+      "range": 4,
+      "users": [21, 104]
     },
     "77": {
       "id": 77,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Divergent Fist",
+      "description": "Punching-based technique utilizing cursed energy manipulation.",
+      "type": 9,
+      "range": 1,
+      "users": [1]
     },
     "78": {
       "id": 78,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Black Flash",
+      "description": "Phenomenon in jujutsu that greatly amplifies the user's physical strike when cursed energy is applied to it within one-millionth of a second.",
+      "type": 9,
+      "range": 1,
+      "users": [1, 3, 4, 5, 15, 20, 22, 30]
     },
     "79": {
       "id": 79,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Dismantle",
+      "description": "An invisible blade that can be thrown at close range or from a distance at high speed, cutting through anything. It can be used against inanimate objects, cursed spirits, and sorcerers.",
+      "type": 2,
+      "range": 2,
+      "users": [1, 20, 68, 69]
     },
     "80": {
       "id": 80,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Cleave",
+      "description": "A second slashing attack that adjusts its power based on the target's resistance and your cursed energy level to knock them down with a single blow. The cutting power depends on the cursed energy emitted by the user.",
+      "type": 2,
+      "range": 2,
+      "users": [20, 68, 69]
     },
     "81": {
       "id": 81,
