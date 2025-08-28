@@ -1,0 +1,1324 @@
+{
+  "cursed_technique": {
+    "1": {
+      "id": 1,
+      "technique_name": "Boogie Woogie",
+      "description": "Allows him to switch the positions of anything with cursed energy within his range with a clap of his hands.",
+      "type": 1,
+      "range": 2,
+      "users": [30]
+    },
+    "2": {
+      "id": 2,
+      "technique_name": "Construction",
+      "description": "Ability to create physical objects out of nothing using cursed energy",
+      "type": 1,
+      "range": 1,
+      "users": [31, 58]
+    },
+    "3": {
+      "id": 3,
+      "technique_name": "Brain Transplant",
+      "description": "Enables the user to transfer their brain into another body, fully taking over and using their techniques/memories.",
+      "type": 1,
+      "range": 5,
+      "users": [5, 21]
+    },
+    "4": {
+      "id": 4,
+      "technique_name": "Comedian",
+      "description": "Makes real any effects of situations the user finds funny, turning Fumihiko Takaba's jokes into actual powers based on comedic context.",
+      "type": 1,
+      "range": 4,
+      "users": [54]
+    },
+    "5": {
+      "id": 5,
+      "technique_name": "Ice Formation",
+      "description": "Enables generation and manipulation of ice at will, creating wide-area ice attacks.",
+      "type": 1,
+      "range": 2,
+      "users": [41]
+    },
+    "6": {
+      "id": 6,
+      "technique_name": "Immortality",
+      "description": "Grants eternal life by preventing the user's body from dying of old age, though the user still ages and suffers regression.",
+      "type": 1,
+      "range": 5,
+      "users": [29]
+    },
+    "7": {
+      "id": 7,
+      "technique_name": "Inverse",
+      "description": "Inverts the potency of received attacks: weak strikes become strong and strong strikes become weak; used by Jiro Awasaka.",
+      "type": 1,
+      "range": 1,
+      "users": [91]
+    },
+    "8": {
+      "id": 8,
+      "technique_name": "Auspicious Beast Summon",
+      "description": "Allows the user to summon protective auspicious beasts, each granting different defensive or offensive support.",
+      "type": 1,
+      "range": 2,
+      "users": [49]
+    },
+    "9": {
+      "id": 9,
+      "technique_name": "Disaster Flames",
+      "description": "Jogo generates intense cursed flames, heat rays, or volcanic vents to unleash destructive beams.",
+      "type": 1,
+      "range": 3,
+      "users": [24]
+    },
+    "10": {
+      "id": 10,
+      "technique_name": "Black Bird Manipulation",
+      "description": "Controls crows and other birds infused with cursed energy for reconnaissance and special attacks like Bird Strike",
+      "type": 1,
+      "range": 3,
+      "users": [17]
+    },
+    "11": {
+      "id": 11,
+      "technique_name": "Cursed Spirit Manipulation",
+      "description": "Enables the user to summon, control, and utilize captured cursed spirits, adjusting range per spirit; used by Suguru Geto and Kenjaku.",
+      "type": 1,
+      "range": 4,
+      "users": [14, 21]
+    },
+    "12": {
+      "id": 12,
+      "technique_name": "Puppet Manipulation",
+      "description": "Remotely controls puppets/artificial bodies with cursed energy for long-range combat; exemplified by Kokichi Muta (Mechamaru) and Masamichi Yaga.",
+      "type": 1,
+      "range": 3,
+      "users": [35]
+    },
+    "13": {
+      "id": 13,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "14": {
+      "id": 14,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "15": {
+      "id": 15,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "16": {
+      "id": 16,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "17": {
+      "id": 17,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "18": {
+      "id": 18,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "19": {
+      "id": 19,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "20": {
+      "id": 20,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "21": {
+      "id": 21,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "22": {
+      "id": 22,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "23": {
+      "id": 23,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "24": {
+      "id": 24,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "25": {
+      "id": 25,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "26": {
+      "id": 26,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "27": {
+      "id": 27,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "28": {
+      "id": 28,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "29": {
+      "id": 29,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "30": {
+      "id": 30,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "31": {
+      "id": 31,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "32": {
+      "id": 32,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "33": {
+      "id": 33,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "34": {
+      "id": 34,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "35": {
+      "id": 35,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "36": {
+      "id": 36,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "37": {
+      "id": 37,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "38": {
+      "id": 38,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "39": {
+      "id": 39,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "40": {
+      "id": 40,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "41": {
+      "id": 41,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "42": {
+      "id": 42,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "43": {
+      "id": 43,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "44": {
+      "id": 44,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "45": {
+      "id": 45,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "46": {
+      "id": 46,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "47": {
+      "id": 47,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "48": {
+      "id": 48,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "49": {
+      "id": 49,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "50": {
+      "id": 50,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "51": {
+      "id": 51,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "52": {
+      "id": 52,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "53": {
+      "id": 53,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "54": {
+      "id": 54,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "55": {
+      "id": 55,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "56": {
+      "id": 56,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "57": {
+      "id": 57,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "58": {
+      "id": 58,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "59": {
+      "id": 59,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "60": {
+      "id": 60,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "61": {
+      "id": 61,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "62": {
+      "id": 62,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "63": {
+      "id": 63,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "64": {
+      "id": 64,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "65": {
+      "id": 65,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "66": {
+      "id": 66,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "67": {
+      "id": 67,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "68": {
+      "id": 68,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "69": {
+      "id": 69,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "70": {
+      "id": 70,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "71": {
+      "id": 71,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "72": {
+      "id": 72,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "73": {
+      "id": 73,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "74": {
+      "id": 74,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "75": {
+      "id": 75,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "76": {
+      "id": 76,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "77": {
+      "id": 77,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "78": {
+      "id": 78,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "79": {
+      "id": 79,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "80": {
+      "id": 80,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "81": {
+      "id": 81,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "82": {
+      "id": 82,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "83": {
+      "id": 83,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "84": {
+      "id": 84,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "85": {
+      "id": 85,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "86": {
+      "id": 86,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "87": {
+      "id": 87,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "88": {
+      "id": 88,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "89": {
+      "id": 89,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "90": {
+      "id": 90,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "91": {
+      "id": 91,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "92": {
+      "id": 92,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "93": {
+      "id": 93,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "94": {
+      "id": 94,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "95": {
+      "id": 95,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "96": {
+      "id": 96,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "97": {
+      "id": 97,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "98": {
+      "id": 98,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "99": {
+      "id": 99,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "100": {
+      "id": 100,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "101": {
+      "id": 101,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "102": {
+      "id": 102,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "103": {
+      "id": 103,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "104": {
+      "id": 104,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "105": {
+      "id": 105,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "106": {
+      "id": 106,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "107": {
+      "id": 107,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "108": {
+      "id": 108,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "109": {
+      "id": 109,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "110": {
+      "id": 110,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "111": {
+      "id": 111,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "112": {
+      "id": 112,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "113": {
+      "id": 113,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "114": {
+      "id": 114,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "115": {
+      "id": 115,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "116": {
+      "id": 116,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "117": {
+      "id": 117,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "118": {
+      "id": 118,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "119": {
+      "id": 119,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "120": {
+      "id": 120,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "121": {
+      "id": 121,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "122": {
+      "id": 122,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "123": {
+      "id": 123,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "124": {
+      "id": 124,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "125": {
+      "id": 125,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "126": {
+      "id": 126,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "127": {
+      "id": 127,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "128": {
+      "id": 128,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "129": {
+      "id": 129,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "130": {
+      "id": 130,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "131": {
+      "id": 131,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "132": {
+      "id": 132,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "133": {
+      "id": 133,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "134": {
+      "id": 134,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "135": {
+      "id": 135,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "136": {
+      "id": 136,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "137": {
+      "id": 137,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "138": {
+      "id": 138,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "139": {
+      "id": 139,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "140": {
+      "id": 140,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "141": {
+      "id": 141,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "142": {
+      "id": 142,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "143": {
+      "id": 143,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "144": {
+      "id": 144,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "145": {
+      "id": 145,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "146": {
+      "id": 146,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "147": {
+      "id": 147,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "148": {
+      "id": 148,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "149": {
+      "id": 149,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "150": {
+      "id": 150,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "151": {
+      "id": 151,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "152": {
+      "id": 152,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "153": {
+      "id": 153,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "154": {
+      "id": 154,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "155": {
+      "id": 155,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "156": {
+      "id": 156,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "157": {
+      "id": 157,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "158": {
+      "id": 158,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "159": {
+      "id": 159,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "160": {
+      "id": 160,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "161": {
+      "id": 161,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "162": {
+      "id": 162,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "163": {
+      "id": 163,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "164": {
+      "id": 164,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    },
+    "165": {
+      "id": 165,
+      "technique_name": "",
+      "description": "",
+      "type": ,
+      "range": ,
+      "users": []
+    }
+  }
+}
