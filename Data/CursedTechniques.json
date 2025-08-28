@@ -246,7 +246,7 @@
         "description": "Creates a structural weak point in the environment and causes it to collapse in a single strike, bringing down terrain or structures.",
         "type": 2,
         "range": 4,
-        "users": [21]
+        "users": [15]
     },
     "32": {
         "id": 32,
@@ -322,163 +322,163 @@
     },
     "41": {
       "id": 41,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Sky Manipulation",
+      "description": "Allows user to manipulate the 'surface' of the sky like a mirror for attacks, movement, and defense.",
+      "type": 1,
+      "range": 4,
+      "users": [5, 64]
     },
     "42": {
       "id": 42,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Explosive Flesh",
+      "description": "Allows user to detach and explode their own body parts as deadly bombs, with no pain.",
+      "type": 1,
+      "range": 1,
+      "users": [61]
     },
     "43": {
       "id": 43,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Thin Ice Breaker",
+      "description": "Compresses space into a sharp plane, shattering it to bypass guards and blast opponents away with destructive concussive force.",
+      "type": 2,
+      "range": 4,
+      "users": [5, 64]
     },
     "44": {
       "id": 44,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Limitless",
+      "description": "Manipulates space at the atomic level to control distance, mass, attraction, and repulsion through sub-techniques.",
+      "type": 7,
+      "range": 4,
+      "users": [4, 70]
     },
     "45": {
       "id": 45,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Six Eyes",
+      "description": "Provides extreme cursed energy visualization and reduces cursed energy consumption to near zero when using Limitless.",
+      "type": 7,
+      "range": 5,
+      "users": [4]
     },
     "46": {
       "id": 46,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Infinity",
+      "description": "Creates an invisible barrier of infinite space around the user, stopping any approaching object at a fraction of distance.",
+      "type": 1,
+      "range": 1,
+      "users": [4, 70]
     },
     "47": {
       "id": 47,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Cursed Technique Lapse: Blue",
+      "description": "Generates a blue orb that converges space to create a powerful attraction field, pulling and collapsing matter.",
+      "type": 2,
+      "range": 3,
+      "users": [4, 70]
     },
     "48": {
       "id": 48,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Cursed Technique Reversal: Red",
+      "description": "Generates a red impulse that repels everything it touches with violent force, creating a massive shockwave.",
+      "type": 2,
+      "range": 3,
+      "users": [4, 70]
     },
     "49": {
       "id": 49,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Hollow Purple",
+      "description": "Combines Blue and Red to create a destructive purple blast that erases matter by merging attraction and repulsion.",
+      "type": 2,
+      "range": 3,
+      "users": [4, 70]
     },
     "50": {
       "id": 50,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Cursed Speech",
+      "description": "Imbues the user's words with cursed energy to issue irresistible commands, forcing actions like Stop or Sleep.",
+      "type": 7,
+      "range": 2,
+      "users": [5, 7]
     },
     "51": {
       "id": 51,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Blood Manipulation",
+      "description": "Manipulates and controls the user's own blood for attacks, defense, and physical enhancements.",
+      "type": 7,
+      "range": 4,
+      "users": [4, 27, 32, 105]
     },
     "52": {
       "id": 52,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Convergence",
+      "description": "Concentrates a large volume of blood to increase pressure and speed for a subsequent high-velocity attack.",
+      "type": 2,
+      "range": 3,
+      "users": [1, 27, 32]
     },
     "53": {
       "id": 53,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Flowing Red Scale",
+      "description": "Boosts heart rate and accelerates cursed blood circulation throughout the body, increasing strength, speed, and perception.",
+      "type": 2,
+      "range": 5,
+      "users": [27, 32]
     },
     "54": {
       "id": 54,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Flowing Red Scale: Spread",
+      "description": "Evenly distributes the power boost of Flowing Red Scale body-wide for maximum strength, speed, and durability.",
+      "type": 2,
+      "range": 5,
+      "users": [27]
     },
     "55": {
       "id": 55,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Slicing Exorcism",
+      "description": "Unleashes sharpened blood that rapidly flies through the air and slices through.",
+      "type": 2,
+      "range": 2,
+      "users": [27, 32]
     },
     "56": {
       "id": 56,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Piercing Blood",
+      "description": "Fires a high-pressure stream of hardened blood as a distant piercing attack that penetrates multiple targets.",
+      "type": 2,
+      "range": 3,
+      "users": [1, 27, 32]
     },
     "57": {
       "id": 57,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Supernova",
+      "description": "Detonates multiple blood droplets around the enemy simultaneously, causing explosion-like projectile damage.",
+      "type": 2,
+      "range": 2,
+      "users": [27]
     },
     "58": {
       "id": 58,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Blood Edge",
+      "description": "Shapes blood into a spinning serrated blade to slice through opponents in close combat.",
+      "type": 2,
+      "range": 1,
+      "users": [27]
     },
     "59": {
       "id": 59,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Ten Shadows Technique",
+      "description": "Invokes and controls ten shadow shikigami with unique abilities, summoned sequentially from the user's shadow.",
+      "type": 7,
+      "range": 4,
+      "users": [4, 68]
     },
     "60": {
       "id": 60,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Projection Sorcery",
+      "description": "Divides a second into 24 frames, allowing the user to move at high speed and paralyze those who do not adjust.",
+      "type": 7,
+      "range": 1,
+      "users": [42, 43]
     },
     "61": {
       "id": 61,
