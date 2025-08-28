@@ -201,124 +201,124 @@
         "users": [17]
     },
     "26": {
-      "id": 26,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 26,
+        "technique_name": "Maximum: Wing King",
+        "description": "Deploys corrosive blood wings for short-range flight and widespread corrosive blood attack.",
+        "type": 14,
+        "range": 1,
+        "users": [86]
     },
     "27": {
-      "id": 27,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 27,
+        "technique_name": "Rot Technique",
+        "description": "Causes rapid decomposition upon contact with the user's blood, corroding tissue and weakening the victim.",
+        "type": 1,
+        "range": 1,
+        "users": [86, 87]
     },
     "28": {
-      "id": 28,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 28,
+        "technique_name": "Soul Multiplicity",
+        "description": "Combines two or more souls into a single body to increase mass and strength; used by Mahito.",
+        "type": 2,
+        "range": 1,
+        "users": [22]
     },
     "29": {
-      "id": 29,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 29,
+        "technique_name": "Polymorphic Soul Isomer",
+        "description": "Creates a deformed mass of unstable fused souls for unpredictable offensive attacks; used by Mahito.",
+        "type": 2,
+        "range": 1,
+        "users": [22]
     },
     "30": {
-      "id": 30,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 30,
+        "technique_name": "Instant Spirit Body of Distorted Killing",
+        "description": "Transforms the user into a pure spiritual entity with maximum power, enhancing resilience and abilities; Mahito's ultimate form.",
+        "type": 2,
+        "range": 5,
+        "users": [22]
     },
     "31": {
-      "id": 31,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 31,
+        "technique_name": "Collapse",
+        "description": "Creates a structural weak point in the environment and causes it to collapse in a single strike, bringing down terrain or structures.",
+        "type": 2,
+        "range": 4,
+        "users": [21]
     },
     "32": {
-      "id": 32,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 32,
+        "technique_name": "Copy",
+        "description": "Allows the user to copy and use other sorcerers’ cursed techniques temporarily after forming a bond.",
+        "type": 1,
+        "range": 4,
+        "users": [5]
     },
     "33": {
-      "id": 33,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 33,
+        "technique_name": "Decay",
+        "description": "Once blood enters their target begins to poison and decompose the target's body at the point of entry.",
+        "type": 2,
+        "range": 1,
+        "users": [86, 87]
     },
     "34": {
-      "id": 34,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 34,
+        "technique_name": "Morph Trichotomy",
+        "description": "Panda’s unique ability to switch between three 'cores' (Panda, Gorilla, Triceratops), each with distinct abilities and fighting style.",
+        "type": 1,
+        "range": 5,
+        "users": [8]
     },
     "35": {
-      "id": 35,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 35,
+        "technique_name": "Star Rage",
+        "description": "Tsukumo’s technique to manipulate mass at will, drastically increasing striking power or manipulating environments.",
+        "type": 1,
+        "range": 2,
+        "users": [16]
     },
     "36": {
-      "id": 36,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 36,
+        "technique_name": "Cloning Technique",
+        "description": "Allows him to create up to four perfect clones of himself.",
+        "type": 1,
+        "range": 5,
+        "users": [185]
     },
     "37": {
-      "id": 37,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 37,
+        "technique_name": "Electrified Cursed Energy",
+        "description": "Infuses cursed energy with electricity for high-voltage attacks, can discharge energy to cause paralysis or explosions.",
+        "type": 1,
+        "range": 2,
+        "users": [50]
     },
     "38": {
-      "id": 38,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 38,
+        "technique_name": "Sound Amplifier",
+        "description": "Use his body as a sound amplification device, amplifying and launching waves of cursed energy.",
+        "type": 1,
+        "range": 1,
+        "users": [38]
     },
     "39": {
-      "id": 39,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 39,
+        "technique_name": "Blazing Courage",
+        "description": "Infuses a sword with cursed flames for enhanced cutting and burning.",
+        "type": 1,
+        "range": 1,
+        "users": [79]
     },
     "40": {
-      "id": 40,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+        "id": 40,
+        "technique_name": "Miracle",
+        "description": "Supernatural luck affecting all swordplay and survival outcomes, allows improbable escapes and lucky strikes.",
+        "type": 1,
+        "range": 1,
+        "users": [45]
     },
     "41": {
       "id": 41,
