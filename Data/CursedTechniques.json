@@ -1122,203 +1122,235 @@
     },
     "141": {
       "id": 141,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Liquid Metal",
+      "description": "Semi-autonomous cursed metal shaped into versatile weapons.",
+      "type": 2,
+      "range": 3,
+      "users": [58]
     },
     "142": {
       "id": 142,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Insect Armor",
+      "description": "Liquid metal carapace enhancing all physical stats and mid-range control.",
+      "type": 2,
+      "range": 5,
+      "users": [58]
     },
     "143": {
       "id": 143,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "True Sphere",
+      "description": "Perfect sphere of infinite pressure that becomes unavoidable in her domain.",
+      "type": 2,
+      "range": 3,
+      "users": [58]
     },
     "144": {
       "id": 144,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Contractual Re-Creation",
+      "description": "Burns a written contract to instantly recreate the described object or service with temporary, commandable effects.",
+      "type": 1,
+      "range": 2,
+      "users": [59]
     },
     "145": {
       "id": 145,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Scorpion Hair",
+      "description": "Manipulates her scorpion tail-like hair to strike foes, causing only mild irritation.",
+      "type": 1,
+      "range": 1,
+      "users": [60]
     },
     "146": {
       "id": 146,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Orbiting Shikigami",
+      "description": "Summons grotesque rodent-like shikigami whose orbital tracks around him form an inviolable barrier, making close approach nearly impossible.",
+      "type": 6,
+      "range": 2,
+      "users": [62]
     },
     "147": {
       "id": 147,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Cursed Energy Discharge",
+      "description": "Can fire concentrated blasts of cursed energy from his cannon-shaped pompadour, maintaining full power even without his technique activated.",
+      "type": 1,
+      "range": 3,
+      "users": [63]
     },
     "148": {
       "id": 148,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Granite Blast",
+      "description": "Unleash a hyper-focused beam of cursed energy with enough destructive force to level multiple city blocks.",
+      "type": 2,
+      "range": 3,
+      "users": [63]
     },
     "149": {
       "id": 149,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Missile Fist",
+      "description": "Conjure giant fists propelled by cursed energy like missiles.",
+      "type": 1,
+      "range": 1,
+      "users": [78]
     },
     "150": {
       "id": 150,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Paralize Gaze",
+      "description": "Envelops anyone he gazes upon in an immobilizing aura.",
+      "type": 1,
+      "range": 1,
+      "users": [80]
     },
     "151": {
       "id": 151,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Earth Manipulation",
+      "description": "Chojuro can shape terrain into giant stone constructs for mid-range restraint and offense.",
+      "type": 1,
+      "range": 2,
+      "users": [82]
     },
     "152": {
       "id": 152,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Dark Claws",
+      "description": "Morphs fingers into dark claws for close-range slashing attacks, though effectiveness is unclear.",
+      "type": 1,
+      "range": 1,
+      "users": [85]
     },
     "153": {
       "id": 153,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Heart Catch",
+      "description": "Creates a giant virtual hand that grabs, throws, or crushes targets from afar.",
+      "type": 1,
+      "range": 2,
+      "users": [88]
     },
     "154": {
       "id": 154,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Cutie Honey",
+      "description": "Forces a previously 'Heart Caught' target to fixate on Larue, distracting them with heart-shaped pupils.",
+      "type": 2,
+      "range": 2,
+      "users": [88]
     },
     "155": {
       "id": 155,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Séance Technique",
+      "description": "Can summon the body or soul information from a deceased person using their corpse. This allows her to shape-shift herself or a willing participant into that person.",
+      "type": 1,
+      "range": 1,
+      "users": [89]
     },
     "156": {
       "id": 156,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Obstacle Removal",
+      "description": "Ganesha’s technique removes 'obstacles' by binding and displacing the conceptual target of its ability.",
+      "type": 1,
+      "range": 3,
+      "users": [138]
     },
     "157": {
       "id": 157,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Gravestone Technique",
+      "description": "Traps the target in a coffin, crushes it with a gravestone, then triggers a lethal countdown.",
+      "type": 1,
+      "range": 2,
+      "users": [136]
     },
     "158": {
       "id": 158,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Cursed Cockroaches",
+      "description": "Kurourushi commands swarms of man-eating cockroaches reinforced with cursed energy, capable of stripping flesh in seconds.",
+      "type": 1,
+      "range": 2,
+      "users": [103]
     },
     "159": {
       "id": 159,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Parthenogenesis",
+      "description": "Devoured flesh triggers self-reproduction, allowing Kurourushi to spawn offspring and transfer its cursed energy upon death.",
+      "type": 2,
+      "range": 5,
+      "users": [103]
     },
     "160": {
       "id": 160,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Earthen Insect Trance",
+      "description": "Summons flying insect curses carrying liquid sacs that burst to impair targets’ vision.",
+      "type": 2,
+      "range": 2,
+      "users": [103]
     },
     "161": {
       "id": 161,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Moon Dregs",
+      "description": "A jellyfish-like shikigami that paralyzes with cursed energy poison from its tendrils, leaving burning black marks, and can also pierce flesh with spiked stingers.",
+      "type": 1,
+      "range": 2,
+      "users": [107]
     },
     "162": {
       "id": 162,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Grasshopper Physiology",
+      "description": "Superior arms, jaws, and senses; adapts insect traits for combat.",
+      "type": 13,
+      "range": 5,
+      "users": [131]
     },
     "163": {
       "id": 163,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Enhanced Jumping & Biting",
+      "description": "Super jumps and powerful bites, strong enough to cut metal.",
+      "type": 13,
+      "range": 1,
+      "users": [131]
     },
     "164": {
       "id": 164,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Black Mucus",
+      "description": "Spits cursed mucus that spreads and corrodes like a plague.",
+      "type": 13,
+      "range": 2,
+      "users": [131]
     },
     "165": {
       "id": 165,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Expandable Abdomen",
+      "description": "Extends abdomen tip up to 3× length to stab enemies.",
+      "type": 13,
+      "range": 1,
+      "users": [131]
+    },
+    "166": {
+      "id": 166,
+      "technique_name": "Unblockable Drumming Beat",
+      "description": "The impact of the hit sends a shockwave through the user's guard, so they feel the damage even if they defend.",
+      "type": 2,
+      "range": 1,
+      "users": [8]
+    },
+    "167": {
+      "id": 167,
+      "technique_name": "Gorilla Mode",
+      "description": "Panda can transform into a muscular gorilla, is much stronger and faster in this form but at the cost of rapidly draining his cursed energy.",
+      "type": 2,
+      "range": 5,
+      "users": [8]
+    },
+    "168": {
+      "id": 168,
+      "technique_name": "Triceratops Mode",
+      "description": "Panda can transform into a bipedal Triceratops, but this form's abilities have not been displayed and its capabilities are unknown",
+      "type": 2,
+      "range": 5,
+      "users": [8]
+    },
+    "169": {
+      "id": 169,
+      "technique_name": "Boogie Woogie: Revised",
+      "description": "Through a binding vote, Aoi changed the condition for activating Boogie Woogie after losing a hand, improving its technique to 50 exchanges per second and increasing its range and targets.",
+      "type": 1,
+      "range": 3,
+      "users": [30]
     }
   }
 }
