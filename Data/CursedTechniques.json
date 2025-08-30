@@ -962,163 +962,163 @@
     },
     "121": {
       "id": 121,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Ultimate Mechamaru",
+      "description": "Kokichi’s mechanical cursed corpse used for combat, missions, and large-scale puppet piloting.",
+      "type": 2,
+      "range": 3,
+      "users": [35]
     },
     "122": {
       "id": 122,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Sword Option",
+      "description": "Extends forearm blades and spikes for close-range attacks.",
+      "type": 2,
+      "range": 2,
+      "users": [36]
     },
     "123": {
       "id": 123,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Ultra Spin",
+      "description": "Spins forearm to pierce targets.",
+      "type": 2,
+      "range": 2,
+      "users": [36]
     },
     "124": {
       "id": 124,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Ultra Shield",
+      "description": "Blocks incoming attacks with fortified forearm.",
+      "type": 2,
+      "range": 2,
+      "users": [36]
     },
     "125": {
       "id": 125,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Boost On",
+      "description": "Uses elbow-released cursed energy to boost attack speed.",
+      "type": 2,
+      "range": 2,
+      "users": [36]
     },
     "126": {
       "id": 126,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Ultra Cannon",
+      "description": "Fires cursed energy blast from palm.",
+      "type": 2,
+      "range": 3,
+      "users": [36]
     },
     "127": {
       "id": 127,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Mode: Albatross",
+      "description": "Adds mouth cannon for combined high-power blasts.",
+      "type": 2,
+      "range": 3,
+      "users": [36]
     },
     "128": {
       "id": 128,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Mode: Absolute",
+      "description": "Large puppet capable of massive attacks with stored cursed energy.",
+      "type": 2,
+      "range": 3,
+      "users": [36]
     },
     "129": {
       "id": 129,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Miracle Cannon",
+      "description": "Fires dual-hand blasts consuming two years’ stored cursed energy.",
+      "type": 2,
+      "range": 3,
+      "users": [36]
     },
     "130": {
       "id": 130,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Pigeon Viola",
+      "description": "Five tracking cursed-energy blasts consuming five years’ stored energy.",
+      "type": 2,
+      "range": 3,
+      "users": [36]
     },
     "131": {
       "id": 131,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Mini-Mechamaru",
+      "description": "Small posthumous communication puppets powered by Kokichi’s remaining cursed energy.",
+      "type": 2,
+      "range": 1,
+      "users": [36]
     },
     "132": {
       "id": 132,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Pain Killer",
+      "description": "Stops existing wounds from worsening by halting bleeding and reducing pain, but can’t heal or prevent new injuries.",
+      "type": 1,
+      "range": 1,
+      "users": [39]
     },
     "133": {
       "id": 133,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Prayer Song",
+      "description": "Enhances himself and weakens foes by dancing to a personal rhythm that expels curses without using a domain.",
+      "type": 1,
+      "range": 1,
+      "users": [46]
     },
     "134": {
       "id": 134,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Hanging Doll Technique",
+      "description": "Uses a voodoo doll and noose to fatally hang targets or strike vital points, reflecting damage from the doll onto them.",
+      "type": 1,
+      "range": 4,
+      "users": [47]
     },
     "135": {
       "id": 135,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Cellphone Manipulation Technique",
+      "description": "Allows her to manipulate and reposition any photographed subject, including herself, though it quickly exhausts her.",
+      "type": 1,
+      "range": 1,
+      "users": [48]
     },
     "136": {
       "id": 136,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Mythical Beast Amber",
+      "description": "Transforms cursed energy into electricity by reconstructing his flesh, granting immense power but usable only once before his body collapses.",
+      "type": 1,
+      "range": 3,
+      "users": [49]
     },
     "137": {
       "id": 137,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Judgeman",
+      "description": "A Lady-Justice-like figure that delivers 'blind justice' by weighing judgment over its targets.",
+      "type": 6,
+      "range": 4,
+      "users": [53]
     },
     "138": {
       "id": 138,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Airplane Hair",
+      "description": "Changes her hair into the shape of a jet plane with fiery boosters strong enough to propel her through the air at high speed.",
+      "type": 1,
+      "range": 5,
+      "users": [56]
     },
     "139": {
       "id": 139,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Helicopter Hair",
+      "description": "Change his hair into a propeller with four blades and can fly around or suspend himself in the air.",
+      "type": 1,
+      "range": 5,
+      "users": [57]
     },
     "140": {
       "id": 140,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Insect Wings",
+      "description": "Constructs insect-like wings for high-speed flight.",
+      "type": 2,
+      "range": 5,
+      "users": [58]
     },
     "141": {
       "id": 141,
