@@ -802,163 +802,163 @@
     },
     "101": {
       "id": 101,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Private Pure Love Train",
+      "description": "Pachinko-themed cursed technique that, via Domain Expansion, manifests the Private Pure Love Train game and its effects.",
+      "type": 1,
+      "range": 1,
+      "users": [18]
     },
     "102": {
       "id": 102,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Batto Sword Drawing",
+      "description": "A fast sword drawing technique that coats Kusakabe's blade in cursed energy and rotates it around the blade to increase its drawing speed dramatically.",
+      "type": 12,
+      "range": 1,
+      "users": [10, 34]
     },
     "103": {
       "id": 103,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Evening Moon Sword Drawing",
+      "description": "A thick single-edged cursed blade with engine vents that stores and ejects kinetic and cursed energy, massively boosting its cutting power.",
+      "type": 12,
+      "range": 1,
+      "users": [10]
     },
     "104": {
       "id": 104,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Hazy Moon",
+      "description": "A New Shadow Style technique that recreates part of a broken blade with cursed energy.",
+      "type": 12,
+      "range": 1,
+      "users": [10]
     },
     "105": {
       "id": 105,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Simple Barrier",
+      "description": "Barriers are used to conceal, contain, or deny entry to others within that space.",
+      "type": 4,
+      "range": 4,
+      "users": [29]
     },
     "106": {
       "id": 106,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Curtain",
+      "description": "Create a barrier that surrounds a certain area to protect civilians from battlefield.",
+      "type": 4,
+      "range": 4,
+      "users": [4, 11, 14, 21, 22 ,37, 92]
     },
     "107": {
       "id": 107,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Maximum: Uzumaki",
+      "description": "The maximum technique of Cursed Spirit Manipulation combines a massive number of collected curses into one powerful attack.",
+      "type": 14,
+      "range": 4,
+      "users": [14, 21]
     },
     "108": {
       "id": 108,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Garuda",
+      "description": "Garuda gains virtual mass from Star Rage, becoming Yuki's cursed tool and fighting alongside her.",
+      "type": 6,
+      "range": 4,
+      "users": [16]
     },
     "109": {
       "id": 109,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Love Rendezvous",
+      "description": "Cursed technique that marks targets with five 'stars' patterned after the Southern Cross, requiring approach in a set order or causing mutual attraction.",
+      "type": 1,
+      "range": 4,
+      "users": [19]
     },
     "110": {
       "id": 110,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Body Repel",
+      "description": "A technique where Mahito amplifies a soul’s energy using Soul Multiplicity, then channels the immense output directly at the opponent for a powerful attack.",
+      "type": 2,
+      "range": 2,
+      "users": [22]
     },
     "111": {
       "id": 111,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Ember Insects",
+      "description": "Summons flying curse insects from his head that sting and detonate into fiery explosions.",
+      "type": 2,
+      "range": 3,
+      "users": [24]
     },
     "112": {
       "id": 112,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Maximum: Meteor",
+      "description": "Hurls a massive flaming meteor capable of devastating wide areas on impact.",
+      "type": 14,
+      "range": 3,
+      "users": [24]
     },
     "113": {
       "id": 113,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Disaster Tides",
+      "description": "Generates and manipulates massive waves of water purely from cursed energy.",
+      "type": 1,
+      "range": 3,
+      "users": [26]
     },
     "114": {
       "id": 114,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Death Swarm",
+      "description": "Summons an endless swarm of shikigami.",
+      "type": 6,
+      "range": 2,
+      "users": [26]
     },
     "115": {
       "id": 115,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Jujutsu High Barriers",
+      "description": "Change building layouts daily to hide school locations; concealment-focused, not strong against infiltration.",
+      "type": 4,
+      "range": 2,
+      "users": [29]
     },
     "116": {
       "id": 116,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Concealing Barriers",
+      "description": "Thousands of shifting doors hide the Tombs entrance, cursed warehouse, and Tengen’s shrine; invite-only access.",
+      "type": 4,
+      "range": 3,
+      "users": [29]
     },
     "117": {
       "id": 117,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Empty Barriers",
+      "description": "Vacant barriers outlined by hexagonal shells, placed above the Tombs of the Star.",
+      "type": 4,
+      "range": 1,
+      "users": [29]
     },
     "118": {
       "id": 118,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Pure Barriers",
+      "description": "Superior barriers that enhance cursed spirit suppression and precision; guard key jujutsu sites.",
+      "type": 4,
+      "range": 3,
+      "users": [29]
     },
     "119": {
       "id": 119,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Tool Manipulation",
+      "description": "Telekinetically controls a broomstick for levitation or generating cursed-energy wind gusts.",
+      "type": 1,
+      "range": 2,
+      "users": [33]
     },
     "120": {
       "id": 120,
-      "technique_name": "",
-      "description": "",
-      "type": ,
-      "range": ,
-      "users": []
+      "technique_name": "Wind Scythe",
+      "description": "Uses broom-ground friction to fire a fast, crescent-shaped cursed-energy wind blade with cutting power.",
+      "type": 2,
+      "range": 3,
+      "users": [33]
     },
     "121": {
       "id": 121,
