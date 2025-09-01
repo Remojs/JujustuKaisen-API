@@ -6,7 +6,8 @@
       "result": "Gojo and Geto are victorious. Bayer & Kokun are defeated. Riko is Rescued",
       "arc": "Gojo Past Arc",
       "date": "August 2006",
-      "location": "Tokyo",
+      "location": "Outside Riko Amanai's house",
+      "location_data": 33,
       "participants": [4, 14, 111, 112],
       "nonDirectParticipants": [71, 72, 141, 142, 143]
     },
@@ -17,6 +18,7 @@
       "arc": "Gojo Past Arc",
       "date": "August 2006",
       "location": "Renchoku Girls' Junior High",
+      "location_data": 35,
       "participants": [14, 184, 200],
       "nonDirectParticipants": [151]
     },
@@ -27,6 +29,7 @@
       "arc": "Gojo Past Arc",
       "date": "August 2006",
       "location": "Renchoku Girls' Junior High",
+      "location_data": 35,
       "participants": [72, 185],
       "nonDirectParticipants": [71]
     },
@@ -36,7 +39,8 @@
       "result": "Gojo is victorious. Twin Curse User is defeated",
       "arc": "Gojo Past Arc",
       "date": "August 2006",
-      "location": "Tokyo",
+      "location": "Outside Renchoku Girls' Junior High",
+      "location_data": 35,
       "participants": [4, 185],
       "nonDirectParticipants": [71]
     },
@@ -58,7 +62,7 @@
       "arc": "Gojo Past Arc",
       "date": "August 2006",
       "location": "Tombs of the Star Corridor",
-      "location_data": 2,
+      "location_data": 9,
       "participants": [14, 28, 102, 135],
       "nonDirectParticipants": [71, 134]
     },
@@ -69,6 +73,7 @@
       "arc": "Gojo Past Arc",
       "date": "August 2006",
       "location": "House of the Children of the Star",
+      "location_data": 36,
       "participants": [4, 28],
       "nonDirectParticipants": [134]
     },
@@ -79,6 +84,7 @@
       "arc": "Cursed Child Arc",
       "date": "November 2016",
       "location": "Elementary School",
+      "location_data": 37,
       "participants": [5, 6, 100, 159, 160],
       "nonDirectParticipants": [245, 246]
     },
@@ -89,6 +95,7 @@
       "arc": "Cursed Child Arc",
       "date": "February 2017",
       "location": "Hapina Shopping Center",
+      "location_data": 38,
       "participants": [5, 7, 130, 170],
       "nonDirectParticipants": null
     },
@@ -98,7 +105,8 @@
       "result": "Gojo is victorious. Miguel is defeated",
       "arc": "Cursed Child Arc",
       "date": "December 24, 2017",
-      "location": "Shinjuku / Kyoto",
+      "location": "Shinjuku",
+      "location_data": 32,
       "participants": [4, 46],
       "nonDirectParticipants": null
     },
@@ -109,6 +117,7 @@
       "arc": "Cursed Child Arc",
       "date": "December 24, 2017",
       "location": "Shinjuku / Kyoto",
+      "location_data": 32,
       "participants": [4, 9, 11, 15, 17, 30, 31, 32, 33, 34, 35, 37, 38, 46, 47, 48, 49, 88, 108, 109, 157, 158, 161, 162, 163, 164, 165, 166, 167, 181, 182, 183],
       "nonDirectParticipants": null
     },
@@ -141,6 +150,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Sugisawa Municipal High School",
+      "location_data": 11,
       "participants": [1, 2, 140, 172, 205, 206],
       "nonDirectParticipants": [95, 96]
     },
@@ -151,6 +161,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Sugisawa Municipal High School",
+      "location_data": 11,
       "participants": [1, 4, 20],
       "nonDirectParticipants": [2]
     },
@@ -161,7 +172,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Tokyo Jujutsu High School",
-      "location_data": 1,
+      "location_data": 3,
       "participants": [1, 4],
       "nonDirectParticipants": null
     },
@@ -172,6 +183,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Roppongi, Tokyo",
+      "location_data": 39,
       "participants": [1, 3, 129, 173, 174],
       "nonDirectParticipants": [186]
     },
@@ -182,6 +194,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Eishu Juvenile Detention Center",
+      "location_data": 40,
       "participants": [1, 2, 3],
       "nonDirectParticipants": null
     },
@@ -192,6 +205,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Eishu Juvenile Detention Center",
+      "location_data": 40,
       "participants": [2, 3, 101, 175, 210],
       "nonDirectParticipants": null
     },
@@ -202,6 +216,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Eishu Juvenile Detention Center",
+      "location_data": 40,
       "participants": [1, 20, 101],
       "nonDirectParticipants": null
     },
@@ -212,6 +227,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Eishu Juvenile Detention Center",
+      "location_data": 40,
       "participants": [20, 101],
       "nonDirectParticipants": null
     },
@@ -222,6 +238,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Eishu Juvenile Detention Center",
+      "location_data": 40,
       "participants": [2, 20, 208, 209],
       "nonDirectParticipants": null
     },
@@ -232,6 +249,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "August 2018",
       "location": "Unspecified Road",
+      "location_data": 41,
       "participants": [4, 23, 24],
       "nonDirectParticipants": [1]
     },
@@ -264,6 +282,7 @@
       "arc": "Mahito Arc",
       "date": "September 2018",
       "location": "Kinema Cinema",
+      "location_data": 42,
       "participants": [1, 15, 189, 190],
       "nonDirectParticipants": null
     },
@@ -274,6 +293,7 @@
       "arc": "Mahito Arc",
       "date": "September 2018",
       "location": "Sewers (Kawasaki City)",
+      "location_data": 43,
       "participants": [15, 22],
       "nonDirectParticipants": null
     },
@@ -284,6 +304,7 @@
       "arc": "Mahito Arc",
       "date": "September 2018",
       "location": "Satozakura High School",
+      "location_data": 44,
       "participants": [1, 107, 198],
       "nonDirectParticipants": [123]
     },
@@ -294,6 +315,7 @@
       "arc": "Mahito Arc",
       "date": "September 2018",
       "location": "Satozakura High School",
+      "location_data": 44,
       "participants": [1, 22],
       "nonDirectParticipants": [107]
     },
@@ -304,6 +326,7 @@
       "arc": "Mahito Arc",
       "date": "September 2018",
       "location": "Satozakura High School",
+      "location_data": 44,
       "participants": [1, 15, 22],
       "nonDirectParticipants": null
     },
@@ -447,6 +470,7 @@
       "arc": "Death Painting Arc",
       "date": "September 2018",
       "location": "Yasohachi Bridge",
+      "location_data": 45,
       "participants": [2, 132],
       "nonDirectParticipants": null
     },
@@ -457,6 +481,7 @@
       "arc": "Death Painting Arc",
       "date": "September 2018",
       "location": "Yasohachi Bridge",
+      "location_data": 45,
       "participants": [2, 101],
       "nonDirectParticipants": null
     },
@@ -467,6 +492,7 @@
       "arc": "Death Painting Arc",
       "date": "September 2018",
       "location": "Yasohachi Bridge",
+      "location_data": 45,
       "participants": [1, 3, 86, 87],
       "nonDirectParticipants": null
     },
@@ -477,6 +503,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Metropolitan Expressway RT. 3 Shibuya Line",
+      "location_data": 18,
       "participants": [22, 35, 36],
       "nonDirectParticipants": null
     },
@@ -487,6 +514,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Fukutoshin Line Platform",
+      "location_data": 24,
       "participants": [4, 21, 22, 23, 24, 27],
       "nonDirectParticipants": null
     },
@@ -497,6 +525,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Meiji-Jingumae Station B2F",
+      "location_data": 16,
       "participants": [1, 131],
       "nonDirectParticipants": null
     },
@@ -507,6 +536,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Shibuya Tower",
+      "location_data": 17,
       "participants": [28, 49, 89, 90],
       "nonDirectParticipants": [2, 208]
     },
@@ -516,7 +546,8 @@
       "result": "Yuji and Megumi are victorious. Awasaka is defeated",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Metropolitan Expressway RT. 3 Shibuya Line",
+      "location": "Shibuya Tower",
+      "location_data": 18,
       "participants": [1, 2, 91],
       "nonDirectParticipants": null
     },
@@ -527,6 +558,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Fukutoshin Line Platform Between Harujuku & Dogenzaka",
+      "location_data": 24,
       "participants": [17, 40, 110, 176],
       "nonDirectParticipants": null
     },
@@ -537,6 +569,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Shoto Bunkamura Street Bunkamura Station",
+      "location_data": 25,
       "participants": [3, 15, 45],
       "nonDirectParticipants": [13]
     },
@@ -546,7 +579,8 @@
       "result": "Mei Mei is victorious. Smallpox Deity is exorcised",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Metropolitan Expressway RT. 3 Shibuya Line",
+      "location": "Fukutoshin Line Platform Between Harujuku & Dogenzaka",
+      "location_data": 24,
       "participants": [17, 40, 136],
       "nonDirectParticipants": [21]
     },
@@ -557,6 +591,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Shibuya Station",
+      "location_data": 13,
       "participants": [1, 27],
       "nonDirectParticipants": null
     },
@@ -567,6 +602,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Shibuya Station",
+      "location_data": 13,
       "participants": [2, 6, 15, 25, 26, 42, 201, 202],
       "nonDirectParticipants": [28]
     },
@@ -577,6 +613,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Shibuya Station",
+      "location_data": 13,
       "participants": [25, 26, 28, 201, 202],
       "nonDirectParticipants": [2, 6, 15, 24, 42]
     },
@@ -587,6 +624,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Outside of Shibuya Station",
+      "location_data": 13,
       "participants": [2, 28, 208, 210, 212],
       "nonDirectParticipants": null
     },
@@ -596,7 +634,8 @@
       "result": "Sukuna is victorious. Jogo is incinerated. Mimiko and Nanako are killed by Sukuna",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Outside of Shibuya Station",
+      "location": "Bunkamura Way",
+      "location_data": 14,
       "participants": [20, 24],
       "nonDirectParticipants": [47, 48]
     },
@@ -606,7 +645,8 @@
       "result": "Sukuna is victorious. Mahoraga is defeated. Megumi is rescued. Shigemo is killed",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Outside of Shibuya Station",
+      "location": "Bunkamura Way",
+      "location_data": 14,
       "participants": [20, 99],
       "nonDirectParticipants": [2, 45]
     },
@@ -617,6 +657,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Shibuya Station Dogenzaka Alley",
+      "location_data": 20,
       "participants": [1, 3, 22],
       "nonDirectParticipants": [30, 39]
     }
@@ -628,6 +669,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Shibuya Station",
+      "location_data": 13,
       "participants": [1, 22, 30],
       "nonDirectParticipants": null
     },
@@ -638,6 +680,7 @@
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
       "location": "Shibuya Police Station",
+      "location_data": 13,
       "participants":  [1, 10, 16, 21, 27, 34, 41, 148, 149, 169, 204],
       "nonDirectParticipants": [8, 31, 32, 33, 37]
     },
@@ -648,6 +691,7 @@
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
       "location": "Shibuya",
+      "location_data": 21,
       "participants": [5, 177],
       "nonDirectParticipants": [187]
     },
@@ -658,6 +702,7 @@
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
       "location": "Shibuya",
+      "location_data": 21,
       "participants": [1, 27, 178, 179, 180],
       "nonDirectParticipants": [5, 43]
     },
@@ -668,6 +713,7 @@
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
       "location": "Shibuya",
+      "location_data": 21,
       "participants": [1, 5, 100],
       "nonDirectParticipants": null
     },
@@ -678,6 +724,7 @@
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
       "location": "Shibuya",
+      "location_data": 21,
       "participants": [27, 43],
       "nonDirectParticipants": [5]
     },
@@ -688,6 +735,7 @@
       "arc": "Perfect Preparation Arc",
       "date": "November 10, 2018",
       "location": "Gachinko Fight Club",
+      "location_data": 26,
       "participants": [1, 8],
       "nonDirectParticipants": null
     },
@@ -698,6 +746,7 @@
       "arc": "Perfect Preparation Arc",
       "date": "November 11, 2018",
       "location": "Gachinko Fight Club",
+      "location_data": 26,
       "participants": [2, 8, 19, 207, 212],
       "nonDirectParticipants": null
     },
@@ -708,6 +757,7 @@
       "arc": "Perfect Preparation Arc",
       "date": "November 11, 2018",
       "location": "Gachinko Fight Club",
+      "location_data": 26,
       "participants": [1, 18],
       "nonDirectParticipants": null
     },
@@ -718,6 +768,7 @@
       "arc": "Perfect Preparation Arc",
       "date": "November 12, 2018",
       "location": "The Zenin Clan Household",
+      "location_data": 46,
       "participants": [6, 79],
       "nonDirectParticipants": [31]
     },
@@ -728,6 +779,7 @@
       "arc": "Perfect Preparation Arc",
       "date": "November 12, 2018",
       "location": "The Zenin Clan Household",
+      "location_data": 46,
       "participants": [1, 81],
       "nonDirectParticipants": null
     },
@@ -738,6 +790,7 @@
       "arc": "Perfect Preparation Arc",
       "date": "November 12, 2018",
       "location": "The Zenin Clan Household",
+      "location_data": 46,
       "participants": [6, 78, 80, 81, 82],
       "nonDirectParticipants": null
     },
@@ -748,6 +801,7 @@
       "arc": "Perfect Preparation Arc",
       "date": "November 12, 2018",
       "location": "The Zenin Clan Household",
+      "location_data": 46,
       "participants": [6, 43],
       "nonDirectParticipants": [243]
     },
@@ -758,6 +812,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 1 Colony",
+      "location_data": 27,
       "participants": [1, 56, 57],
       "nonDirectParticipants": null
     },
@@ -768,6 +823,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 1 Colony",
+      "location_data": 27,
       "participants": [1, 53, 203],
       "nonDirectParticipants": null
     },
@@ -778,6 +834,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 1 Colony",
+      "location_data": 27,
       "participants": [2, 59, 60, 61, 85, 207, 208, 211],
       "nonDirectParticipants": null
     },
@@ -788,6 +845,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 1 Colony",
+      "location_data": 27,
       "participants": [54, 61],
       "nonDirectParticipants": null
     },
@@ -798,6 +856,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 1 Colony",
+      "location_data": 27,
       "participants": [2, 59, 207, 208, 211, 212],
       "nonDirectParticipants": null
     },
@@ -808,6 +867,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Sendai Colony",
+      "location_data": 29,
       "participants": [5, 100, 103],
       "nonDirectParticipants": null
     },
@@ -818,6 +878,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Sendai Colony",
+      "location_data": 29,
       "participants": [5, 63, 64, 100],
       "nonDirectParticipants": [103]
     }
@@ -829,6 +890,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 2 Colony",
+      "location_data": 28,
       "participants": [18, 65],
       "nonDirectParticipants": null
     },
@@ -839,6 +901,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 2 Colony",
+      "location_data": 28,
       "participants": [8, 50],
       "nonDirectParticipants": [18]
     },
@@ -849,6 +912,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 2 Colony",
+      "location_data": 28,
       "participants": [18, 50],
       "nonDirectParticipants": [8]
     },
@@ -859,6 +923,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Sakurajima Colony",
+      "location_data": 30,
       "participants": [6, 32, 44],
       "nonDirectParticipants": [66, 67]
     },
@@ -869,6 +934,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Sakurajima Colony",
+      "location_data": 30,
       "participants": [6, 44, 66, 67],
       "nonDirectParticipants": null
     },
@@ -879,6 +945,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Tombs of the Star",
+      "location_data": 9,
       "participants": [16, 21, 27],
       "nonDirectParticipants": null
     },
@@ -889,6 +956,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Tombs of the Star",
+      "location_data": 9,
       "participants": [16, 21, 27, 29],
       "nonDirectParticipants": [29]
     },
@@ -899,6 +967,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Tokyo No. 1 Colony",
+      "location_data": 27,
       "participants": [1, 6, 51, 52, 68],
       "nonDirectParticipants": [41]
     },
@@ -909,6 +978,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Sendai Colony",
+      "location_data": 29,
       "participants": [63, 68],
       "nonDirectParticipants": null
     },
@@ -919,6 +989,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Sendai Colony",
+      "location_data": 29,
       "participants": [58, 68, 99, 205, 206, 211, 212, 213, 214],
       "nonDirectParticipants": null
     },
@@ -929,6 +1000,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [4, 68, 99, 215],
       "nonDirectParticipants": [11, 37, 38]
     },
@@ -939,6 +1011,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Lake Gosho Colony",
+      "location_data": 31,
       "participants": [21, 61],
       "nonDirectParticipants": [54]
     },
@@ -949,6 +1022,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Lake Gosho Colony",
+      "location_data": 31,
       "participants": [21, 54],
       "nonDirectParticipants": [5]
     },
@@ -959,6 +1033,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Lake Gosho Colony",
+      "location_data": 31,
       "participants": [5, 21, 30],
       "nonDirectParticipants": null
     },
@@ -969,6 +1044,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [18, 41],
       "nonDirectParticipants": null
     },
@@ -979,6 +1055,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [50, 68, 69],
       "nonDirectParticipants": null
     },
@@ -989,6 +1066,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [1, 10, 27, 49, 53, 69],
       "nonDirectParticipants": [40]
     },
@@ -999,6 +1077,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [1, 5, 10, 27, 40, 69, 100],
       "nonDirectParticipants": [40]
     },
@@ -1009,6 +1088,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [6, 10, 49, 69],
       "nonDirectParticipants": [40]
     },
@@ -1019,6 +1099,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [1, 6, 27, 46, 69, 88],
       "nonDirectParticipants": [40]
     },
@@ -1029,6 +1110,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [1, 6, 7, 34, 49, 69],
       "nonDirectParticipants": [40]
     },
@@ -1039,6 +1121,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [1, 30, 69],
       "nonDirectParticipants": [40]
     },
@@ -1049,6 +1132,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [1, 30, 69, 70],
       "nonDirectParticipants": [40, 100]
     },
@@ -1059,6 +1143,7 @@
       "arc": "Shinjuku Showdown Arc",
       "date": "December 24, 2018",
       "location": "Shinjuku",
+      "location_data": 32,
       "participants": [1, 3, 30, 51, 52, 69],
       "nonDirectParticipants": [40]
     },
@@ -1069,6 +1154,7 @@
       "arc": "Final Chapter",
       "date": "Unknown",
       "location": "Tokyo",
+      "location_data": null,
       "participants": [1, 2, 3, 188],
       "nonDirectParticipants": null
     },
@@ -1078,7 +1164,8 @@
       "result": "Mei Mei withdraws",
       "arc": "Shibuya Incident Arc",
       "date": "October 31, 2018",
-      "location": "Metropolitan Expressway RT. 3 Shibuya Line",
+      "location": "Fukutoshin Line Platform Between Harujuku & Dogenzaka",
+      "location_data": 24,
       "participants": [17, 21],
       "nonDirectParticipants": [40]
     },
@@ -1088,7 +1175,8 @@
       "result": "Gakuganji is victorious. Masamichi is killed",
       "arc": "Itadori's Extermination Arc",
       "date": "November, 2018",
-      "location": "Tokyo",
+      "location": "Tokyo Jujutsu High School",
+      "location_data": 1,
       "participants": [38, 92],
       "nonDirectParticipants": null
     },
@@ -1099,6 +1187,7 @@
       "arc": "Culling Game Arc",
       "date": "November 12, 2018",
       "location": "Tokyo No. 1 Colony",
+      "location_data": 27,
       "participants": [53, 57],
       "nonDirectParticipants": null
     },
@@ -1109,6 +1198,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Sendai Colony",
+      "location_data": 29,
       "participants": [5, 62],
       "nonDirectParticipants": [100]
     },
@@ -1119,6 +1209,7 @@
       "arc": "Culling Game Arc",
       "date": "November 16, 2018",
       "location": "Unknown",
+      "location_data": null,
       "participants": [17, 247],
       "nonDirectParticipants": [40]
     }
