@@ -47,6 +47,7 @@
       "arc": "Gojo Past Arc",
       "date": "August 2006",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [4, 28],
       "nonDirectParticipants": [133, 134]
     },
@@ -57,6 +58,7 @@
       "arc": "Gojo Past Arc",
       "date": "August 2006",
       "location": "Tombs of the Star Corridor",
+      "location_data": 2,
       "participants": [14, 28, 102, 135],
       "nonDirectParticipants": [71, 134]
     },
@@ -117,6 +119,7 @@
       "arc": "Cursed Child Arc",
       "date": "December 24, 2017",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [6, 7, 8, 14, 153, 154],
       "nonDirectParticipants": []
     },
@@ -127,6 +130,7 @@
       "arc": "Cursed Child Arc",
       "date": "December 24, 2017",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [5, 14, 100, 137, 171],
       "nonDirectParticipants": [6, 7, 8, 134]
     },
@@ -157,6 +161,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "June 2018",
       "location": "Tokyo Jujutsu High School",
+      "location_data": 1,
       "participants": [1, 4],
       "nonDirectParticipants": null
     },
@@ -237,6 +242,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "August 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [2, 7, 8, 30],
       "nonDirectParticipants": null
     },
@@ -247,6 +253,7 @@
       "arc": "Fearsome Womb Arc",
       "date": "August 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [3, 6, 31],
       "nonDirectParticipants": null
     },
@@ -307,6 +314,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [1, 2, 3, 4, 6, 7, 8, 23, 30, 31, 32, 33, 34, 35, 36, 38, 45, 92],
       "nonDirectParticipants": [22]
     },
@@ -317,6 +325,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [1, 30],
       "nonDirectParticipants": [23]
     },
@@ -327,6 +336,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [8, 35, 36],
       "nonDirectParticipants": null
     },
@@ -337,6 +347,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [6, 34],
       "nonDirectParticipants": null
     },
@@ -347,6 +358,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [3, 8, 31, 33],
       "nonDirectParticipants": null
     },
@@ -357,6 +369,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [6, 31],
       "nonDirectParticipants": null
     },
@@ -367,6 +380,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [2, 32],
       "nonDirectParticipants": [23]
     },
@@ -377,6 +391,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [2, 7, 23, 32],
       "nonDirectParticipants": [6]
     },
@@ -387,6 +402,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [2, 6, 23],
       "nonDirectParticipants": [1, 30]
     },
@@ -397,6 +413,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [1, 4, 23, 30],
       "nonDirectParticipants": null
     }
@@ -408,6 +425,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [4, 38, 92],
       "nonDirectParticipants": null
     },
@@ -418,6 +436,7 @@
       "arc": "Kyoto Goodwill Event Arc",
       "date": "September 2018",
       "location": "Tokyo Jujutsu High",
+      "location_data": 1,
       "participants": [1, 2, 3, 6, 7, 8, 30, 31, 32, 33, 34, 37],
       "nonDirectParticipants": null
     },

@@ -5,178 +5,270 @@
             "location_name": "Tokyo Jujutsu High",
             "located_in": "Tokyo",
             "description": "One of Japan’s two main jujutsu schools, dedicated to training sorcerers",
-            "events": [12, 13, 16, 24, 25, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42],
-            "sublocations": [
-                {
-                    "id": 1,
-                    "name": "Classrooms",
-                    "description": "",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 2,
-                    "name": "Isolation Chamber",
-                    "description": "A talisman-covered cell used for secret executions, once holding Yuji and Yuta.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 3,
-                    "name": "Dormitory",
-                    "description": "Large personal rooms for students, customizable; many remain unused due to low student numbers.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 4,
-                    "name": "Morgue",
-                    "description": "Facility where fallen sorcerers’ bodies are brought back for mourning and proper disposal.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 5,
-                    "name": "Hidden Room",
-                    "description": "A concealed room used by Gojo to hide and train Yuji; later a regrouping spot for students.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 6,
-                    "name": "Foothills of Mount Mushiro",
-                    "description": "The entrance path to the school, a long staircase through torii gates beyond Tengen’s barrier.",
-                    "image": "url_to_image"
-                }   
-            ]
+            "events": [],
+            "image": "url_to_image"
         },
         "2": {
-            "id": 2, 
-            "location_name": "Tombs of The Star",
+            "id": 2,
+            "location_name": "Tokyo Jujutsu High Classrooms",
             "located_in": "Tokyo",
-            "description": "",
-            "events": [12, 13, 16, 24, 25, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42],
-            "sublocations": null
+            "description": "Standard teaching rooms for lessons and training; Gojo uses one for his students",
+            "events": [],
+            "image": "url_to_image"
         },
         "3": {
-            "id": 3, 
-            "location_name": "Cursed Warehouse",
+            "id": 3,
+            "location_name": "Tokyo Jujutsu High Isolation Chamber",
             "located_in": "Tokyo",
-            "description": "A secured facility used to store cursed tools and objects. Its concealment barrier was breached by both curses and sorcerers, and after Shibuya most items were claimed by the Zenin and Kamo clans.",
-            "events": null,
-            "sublocations": null
+            "description": "A talisman-covered cell used for secret executions, once holding Yuji and Yuta.",
+            "events": [],
+            "image": "url_to_image"
         },
         "4": {
-            "id": 4, 
+            "id": 4,
+            "location_name": "Tokyo Jujutsu High Dormitory",
+            "located_in": "Tokyo",
+            "description": "Large personal rooms for students, customizable; many remain unused due to low student numbers.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "5": {
+            "id": 5,
+            "location_name": "Tokyo Jujutsu High Morgue",
+            "located_in": "Tokyo",
+            "description": "Facility where fallen sorcerers’ bodies are brought back for mourning and proper disposal.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "6": {
+            "id": 6,
+            "location_name": "Tokyo Jujutsu High Hidden Room",
+            "located_in": "Tokyo",
+            "description": "A concealed room used by Gojo to hide and train Yuji; later a regrouping spot for students.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "7": {
+            "id": 7,
+            "location_name": "Foothills of Mount Mushiro",
+            "located_in": "Tokyo",
+            "description": "The entrance path to the school, a long staircase through torii gates beyond Tengen’s barrier.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "8": {
+            "id": 8, 
             "location_name": "Kyoto Jujutsu High",
             "located_in": "Kyoto",
             "description": "One of Japan’s two main jujutsu schools, dedicated to training sorcerers.",
             "events": [],
-            "sublocations": null
+            "image": "url_to_image" 
         },
-        "5": {
-            "id": 5, 
+        "9": {
+            "id": 9, 
+            "location_name": "Tombs of The Star",
+            "located_in": "Tokyo",
+            "description": "",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "10": {
+            "id": 10, 
+            "location_name": "Cursed Warehouse",
+            "located_in": "Tokyo",
+            "description": "A secured facility used to store cursed tools and objects. Its concealment barrier was breached by both curses and sorcerers, and after Shibuya most items were claimed by the Zenin and Kamo clans.",
+            "events": null,
+            "image": "url_to_image"
+        },   
+        "11": {
+            "id": 11, 
             "location_name": "Sugisawa Municipal High School",
             "located_in": "Sendai City",
             "description": "A local high school attended by Yuji, Iguchi, and Sasaki. Home of the Occult Research Club, which accidentally unsealed one of Sukuna’s fingers, causing a cursed spirit outbreak across the school.",
             "events": null,
-            "sublocations": null
+            "image": "url_to_image"
         },
-        "6": {
-            "id": 6, 
+        "12": {
+            "id": 12, 
             "location_name": "Sugisawa Hospital",
             "located_in": "Sendai City",
             "description": "The hospital where Yuji’s grandfather spent his final days in 2018. After giving Yuji his last advice to use his strength to help others, he passed away peacefully.",
             "events": null,
             "sublocations": null
         },
-        "7": {
-            "id": 7, 
-            "location_name": "Shibuya",
-            "description": "A major Tokyo ward and the main setting of the Shibuya Incident Arc, known for its commercial, business, and nightlife districts, with Shibuya Station as a central landmark.",
-            "events": null,
-            "sublocations": [
-                {
-                    "id": 1,
-                    "name": "Bunkamura Way (Dogenzaka)",
-                    "description": "A street near Shibuya Station where many civilians were trapped early in the Incident, later serving as battlegrounds for Megumi, Shigemo, Sukuna, and Mahoraga.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 2,
-                    "name": "Aoyama Cemetery (Harajuku)",
-                    "description": "A prominent cemetery in Harajuku near Meiji-Jinguemae Station, used as the Mei Mei Team’s initial position during the Shibuya Incident.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 3,
-                    "name": "Meiji-Jinguemae Station",
-                    "description": "The station connecting Meiji and Jinguemae. Was the entry point where Yuji entered the station and exorcised Ko-guy.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 4,
-                    "name": "Shibuya Tower",
-                    "description": "A forty-story skyscraper with a rooftop helipad, notable battleground for Yuji, Megumi, Awasaka, and Ogami’s forces.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 5,
-                    "name": "Metropolitan Expressway, Route No. 3: Shibuya Line",
-                    "description": "Highway near Shibuya Tower where Yuji and Megumi fought Awasaka; later used as a medical base with Shoko Ieiri stationed there.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 6,
-                    "name": "Shoto Bunkamura Street",
-                    "description": "Road with substations near Shibuya Station; Nobara and Akari encountered Shigemo here before Nanami intervened inside the Bunkamura substation.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 7,
-                    "name": "Dogenzaka Alley",
-                    "description": "A narrow alley where Nobara fought Mahito’s clone, injuring his soul before he retreated to Shibuya Station.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 8,
-                    "name": "Commercial District",
-                    "description": "One of Shibuya’s shopping areas, later a dangerous no-man’s-land; Yuta Okkotsu rescued a child here while exorcising a lurking cursed spirit.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 9,
-                    "name": "Shibuya Station",
-                    "description": "The main railway hub in Shibuya, connected to multiple complexes like Hikarie and Tokyu Department Store. During the Shibuya Incident, it became a central battlefield, including Yuji’s fight with Choso and Gojo’s eventual sealing.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 10,
-                    "name": "Jr. Shibuya Station",
-                    "description": "A substation of the main complex, located near Shin Minami with Caffe Velace nearby; initial posting site for Team Kusakabe.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 11,
-                    "name": "Hikarie Building",
-                    "description": "A landmark shopping and office complex in Shibuya, connected underground to the Fukutoshin Line. Thousands gathered here during Halloween Night.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 12,
-                    "name": "Fukutoshin Line Platform",
-                    "description": "Located on B5F beneath Hikarie, this underground railway platform was the site of Gojo’s battle against Mahito’s allies and the sealing of Gojo in Prison Realm.",
-                    "image": "url_to_image"
-                },
-                {
-                    "id": 13,
-                    "name": "Bunkamura Station",
-                    "description": "Parallel subway lines under Shoto Bunkamura Street; battleground where Nobara and Nitta faced Shigemo before Nanami intervened after saving Ijichi.",
-                    "image": "url_to_image"
-                }
-            ]
+        "13": {
+            "id": 13,
+             "location_name": "Shibuya Station",
+            "located_in": "Shibuya, Tokyo",
+            "description": "The main railway hub in Shibuya, connected to multiple complexes like Hikarie and Tokyu Department Store. During the Shibuya Incident, it became a central battlefield, including Yuji’s fight with Choso and Gojo’s eventual sealing.",
+            "events": [],
+            "image": "url_to_image"
         },
-        "8": {
-            "id": 8, 
-            "location_name": "Shibuya",
-            "description": "A major Tokyo ward and the main setting of the Shibuya Incident Arc, known for its commercial, business, and nightlife districts, with Shibuya Station as a central landmark.",
-            "events": null,
-            "sublocations": null
+        "14": {
+            "id": 14,
+            "location_name": "Bunkamura Way (Dogenzaka)",
+            "located_in": "Shibuya, Tokyo",
+            "description": "A street near Shibuya Station where many civilians were trapped early in the Incident, later serving as battlegrounds for Megumi, Shigemo, Sukuna, and Mahoraga.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "15": {
+            "id": 15,
+            "location_name": "Aoyama Cemetery (Harajuku)",
+            "located_in": "Shibuya, Tokyo",
+            "description": "A prominent cemetery in Harajuku near Meiji-Jinguemae Station, used as the Mei Mei Team’s initial position during the Shibuya Incident.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "16": {
+            "id": 16,
+            "location_name": "Meiji-Jinguemae Station",
+            "located_in": "Shibuya, Tokyo",
+            "description": "The station connecting Meiji and Jinguemae. Was the entry point where Yuji entered the station and exorcised Ko-guy.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "17": {
+            "id": 17,
+            "location_name": "Shibuya Tower",
+            "located_in": "Shibuya, Tokyo",
+            "description": "A forty-story skyscraper with a rooftop helipad, notable battleground for Yuji, Megumi, Awasaka, and Ogami’s forces.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "18": {
+            "id": 18,
+            "location_name": "Metropolitan Expressway, Route No. 3: Shibuya Line",
+            "located_in": "Shibuya, Tokyo",
+            "description": "Highway near Shibuya Tower where Yuji and Megumi fought Awasaka; later used as a medical base with Shoko Ieiri stationed there.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "19": {
+            "id": 19,
+            "location_name": "Shoto Bunkamura Street",
+            "located_in": "Shibuya, Tokyo",
+            "description": "Road with substations near Shibuya Station; Nobara and Akari encountered Shigemo here before Nanami intervened inside the Bunkamura substation.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "20": {
+            "id": 20,
+            "location_name": "Dogenzaka Alley",
+            "located_in": "Shibuya, Tokyo",
+            "description": "A narrow alley where Nobara fought Mahito’s clone, injuring his soul before he retreated to Shibuya Station.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "21": {
+            "id": 21,
+            "location_name": "Commercial District",
+            "located_in": "Shibuya, Tokyo",
+            "description": "One of Shibuya’s shopping areas, later a dangerous no-man’s-land; Yuta Okkotsu rescued a child here while exorcising a lurking cursed spirit.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "22": {
+            "id": 22,
+            "location_name": "Jr. Shibuya Station",
+            "located_in": "Shibuya, Tokyo",
+            "description": "A substation of the main complex, located near Shin Minami with Caffe Velace nearby; initial posting site for Team Kusakabe.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "23": {
+            "id": 23,
+            "location_name": "Hikarie Building",
+            "located_in": "Shibuya, Tokyo",
+            "description": "A landmark shopping and office complex in Shibuya, connected underground to the Fukutoshin Line. Thousands gathered here during Halloween Night.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "24": {
+            "id": 24,
+            "location_name": "Fukutoshin Line Platform",
+            "located_in": "Shibuya, Tokyo",
+            "description": "Located on B5F beneath Hikarie, this underground railway platform was the site of Gojo’s battle against Mahito’s allies and the sealing of Gojo in Prison Realm.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "25": {
+            "id": 25,
+            "location_name": "Bunkamura Station",
+            "located_in": "Shibuya, Tokyo",
+            "description": "Parallel subway lines under Shoto Bunkamura Street; battleground where Nobara and Nitta faced Shigemo before Nanami intervened after saving Ijichi.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "26": {
+            "id": 26, 
+            "location_name": "Gachinko Fight Club",
+            "located_in": "Tochigi",
+            "description": "An underground fight club in Tochigi Prefecture run by Kinji Hakari. It pits sorcerers against one another in hand-to-hand combat and serves as a major setting during the Perfect Preparation Arc.",
+            "events": [],
+            "image": "url_to_image"
+        },
+        "27": {
+            "id": 27, 
+            "location_name": "Tokyo No. 1 Colony",
+            "located_in": "Japan",
+            "description": "The first Tokyo colony covering Shinjuku and Ikebukuro, known for heavy player activity due to abundant supplies. Higuruma used a theater as his base, while Reggie operated from an apartment near Kahamecho Station.",
+            "events":  [],
+            "image": "url_to_image"
+        },
+        "28": {
+            "id": 28, 
+            "location_name": "Tokyo No. 2 Colony",
+            "located_in": "Japan",
+            "description": "The second Tokyo colony, spanning the city and bordering seas infested with cursed spirits. Battles included Hakari vs. Charles Bernard in an amusement park and Hakari/Panda vs. Kashimo near a shipping yard.",
+            "events":  [],
+            "image": "url_to_image"
+        },
+        "29": {
+            "id": 29, 
+            "location_name": "Sendai Colony",
+            "located_in": "Japan",
+            "description": "Covers nearly all of Sendai City in Miyagi Prefecture. Fighting escalated rapidly after November 1st, becoming one of the bloodiest and most intense colonies compared to Tokyo.",
+            "events":  [],
+            "image": "url_to_image"
+        },
+        "30": {
+            "id": 30, 
+            "location_name": "Sakurajima Colony",
+            "located_in": "Japan",
+            "description": "Located in Kyushu near Kagoshima, bordering the sea and forests with the Sakurajima volcano visible. By November 2nd the city was abandoned, setting the stage for Maki’s battle against Naoya.",
+            "events":  [],
+            "image": "url_to_image"
+        },
+        "31": {
+            "id": 31, 
+            "location_name": "Lake Gosho Colony",
+            "located_in": "Japan",
+            "description": "Located in Iwate Prefecture, centered around Lake Gosho. Most fighting on December 24th took place across mountainous roads and forests surrounding the lake.",
+            "events":  [],
+            "image": "url_to_image"
+        },
+        "32": {
+            "id": 32, 
+            "location_name": "Shinjuku",
+            "located_in": "Tokyo, Japan",
+            "description": "Shinjuku is a city-level ward that serves as a major commercial and administrative district in Tokyo. According to Suguru Geto, Shinjuku is considered \"the crucible of curses\".",
+            "events":  [],
+            "image": "url_to_image"
         }
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+        
     }
 }
