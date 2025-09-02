@@ -260,7 +260,7 @@
             "id": 33, 
             "location_name": "Outside Riko Amanai's house",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "A residential street in Tokyo where sorcerers gathered during the escort mission for Riko Amanai.",
             "events":  [1],
             "image": "url_to_image"
         },
@@ -268,7 +268,7 @@
             "id": 34, 
             "location_name": "Riko Amanai's House",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "Riko’s personal residence in Tokyo, briefly shown during her introduction in the Gojo’s Past Arc.",
             "events":  null,
             "image": "url_to_image"
         },
@@ -276,7 +276,7 @@
             "id": 35, 
             "location_name": "Renchoku Girls' Junior High",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "The school Riko Amanai attended, where Gojo and Geto protected her from curse users and assassins.",
             "events":  [2, 3, 4],
             "image": "url_to_image"
         },
@@ -284,7 +284,7 @@
             "id": 36, 
             "location_name": "House of the Children of the Star",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "The facility of the Time Vessel Association, a cult that worships Master Tengen and opposed Riko’s merger.",
             "events":  [7],
             "image": "url_to_image"
         },
@@ -292,7 +292,7 @@
             "id": 37, 
             "location_name": "Elementary School",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "An unnamed elementary school in Tokyo where a curse-related event took place during a mission.",
             "events":  [8],
             "image": "url_to_image"
         },
@@ -300,7 +300,7 @@
             "id": 38, 
             "location_name": "Hapina Shopping Center",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "A bustling shopping complex in Tokyo that became the site of a dangerous cursed spirit incident.",
             "events":  [9],
             "image": "url_to_image"
         },
@@ -308,7 +308,7 @@
             "id": 39, 
             "location_name": "Rappongi",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "A nightlife district in Tokyo that served as a battleground during sorcerer confrontations with curse users.",
             "events":  [17],
             "image": "url_to_image"
         },
@@ -316,7 +316,7 @@
             "id": 40, 
             "location_name": "Eishu Juvenile Detention Center",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "A Tokyo detention center where Yuji, Megumi, and Nobara encountered the first Special Grade Cursed Spirit they ever faced.",
             "events":  [18, 19, 20, 21, 22],
             "image": "url_to_image"
         },
@@ -324,7 +324,7 @@
             "id": 41, 
             "location_name": "Unspecified Road",
             "located_in": "Tokyo, Japan",
-            "description": "",
+            "description": "A nondescript Tokyo street where sorcerers clashed with curses during a mission.",
             "events":  [23],
             "image": "url_to_image"
         },
@@ -332,7 +332,7 @@
             "id": 42, 
             "location_name": "Kinema Cinema",
             "located_in": "Kawasaki City",
-            "description": "",
+            "description": "A theater in Kawasaki City where Junpei Yoshino was manipulated by Mahito, leading to a tragic confrontation.",
             "events":  [26],
             "image": "url_to_image"
         },
@@ -340,48 +340,65 @@
             "id": 43, 
             "location_name": "Sewers",
             "located_in": "Kawasaki City",
-            "description": "",
+            "description": "The underground sewers of Kawasaki where Yuji first battled Mahito in a deadly encounter.",
             "events":  [27],
             "image": "url_to_image"
         },
         "44": {
             "id": 44, 
             "location_name": "Satozakura High School",
-            "located_in": "Kawasaki City",
-            "description": "",
+            "located_in": "Tokyo, Japan",
+            "description": "A high school in Tokyo where Yuta Okkotsu was haunted by Rika Orimoto before enrolling at Jujutsu High.",
             "events":  [28, 29, 30],
             "image": "url_to_image"
         },
         "45": {
             "id": 45, 
             "location_name": "Yasohachi Bridge",
-            "located_in": "Kawasaki City",
-            "description": "",
+            "located_in": "Tokyo, Japan",
+            "description": "A bridge in Tokyo infamous for curse activity, including the deaths tied to the Yasohachi Bridge Curse.",
             "events":  [43, 44, 45],
             "image": "url_to_image"
         },
         "46": {
             "id": 46, 
-            "location_name": "Yasohachi Bridge",
+            "location_name": "Tokyo Municipal Shūei High School Detached Office",
             "located_in": "Kawasaki City",
-            "description": "",
-            "events":  [43, 44, 45],
+            "description": "A detached building of Shūei High in Kawasaki, appearing briefly in side-story mission",
+            "events":  null,
             "image": "url_to_image"
         },
         "47": {
             "id": 47, 
             "location_name": "Zenin Clan Household",
-            "located_in": "Kawasaki City",
-            "description": "",
+            "located_in": "Tokyo, Japan",
+            "description": "The estate of the Zenin Clan, marked by family strife, deadly succession battles, and Maki’s massacre.",
             "events":  [70, 71, 72, 73],
             "image": "url_to_image"
+        },
+        "48": {
+            "id": 48, 
+            "location_name": "Saitama Urami East Junior High",
+            "located_in": "Saitama, Japan",
+            "description": "A junior high school in Saitama where a Culling Game colony unfolded with multiple violent battles.",
+            "events":  null,
+            "image": "url_to_image"
+        },
+        "49": {
+            "id": 49, 
+            "location_name": "Okinawa Beach",
+            "located_in": "Okinawa, Japan",
+            "description": "A beach in Okinawa visited during the Hidden Inventory Arc, where Gojo, Geto, and Riko spent a brief respite.",
+            "events":  null,
+            "image": "url_to_image"
+        },
+        "50": {
+            "id": 50, 
+            "location_name": "Naha Airport",
+            "located_in": "Okinawa, Japan",
+            "description": "The airport in Okinawa used by Gojo’s group during the escort of Riko Amanai before returning to Tokyo.",
+            "events":  null,
+            "image": "url_to_image"
         }
-
-
-        
-        
-
-
-        
     }
 }
