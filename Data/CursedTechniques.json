@@ -2,6 +2,7 @@
   "cursed_technique": {
     "1": {
       "id": 1,
+      "image": "/cursedTechnique/1.webp",
       "technique_name": "Boogie Woogie",
       "description": "Allows him to switch the positions of anything with cursed energy within his range with a clap of his hands.",
       "type": 1,
@@ -10,6 +11,7 @@
     },
     "2": {
       "id": 2,
+      "image": "/cursedTechnique/2.webp",
       "technique_name": "Construction",
       "description": "Ability to create physical objects out of nothing using cursed energy",
       "type": 1,
@@ -18,6 +20,7 @@
     },
     "3": {
       "id": 3,
+      "image": "/cursedTechnique/3.webp",
       "technique_name": "Brain Transplant",
       "description": "Enables the user to transfer their brain into another body, fully taking over and using their techniques/memories.",
       "type": 1,
@@ -26,6 +29,7 @@
     },
     "4": {
       "id": 4,
+      "image": "/cursedTechnique/4.webp",
       "technique_name": "Comedian",
       "description": "Makes real any effects of situations the user finds funny, turning Fumihiko Takaba's jokes into actual powers based on comedic context.",
       "type": 1,
@@ -34,6 +38,7 @@
     },
     "5": {
       "id": 5,
+      "image": "/cursedTechnique/5.webp",
       "technique_name": "Ice Formation",
       "description": "Enables generation and manipulation of ice at will, creating wide-area ice attacks.",
       "type": 1,
@@ -42,6 +47,7 @@
     },
     "6": {
       "id": 6,
+      "image": "/cursedTechnique/6.webp",
       "technique_name": "Immortality",
       "description": "Grants eternal life by preventing the user's body from dying of old age, though the user still ages and suffers regression.",
       "type": 1,
@@ -50,6 +56,7 @@
     },
     "7": {
       "id": 7,
+      "image": "/cursedTechnique/7.webp",
       "technique_name": "Inverse",
       "description": "Inverts the potency of received attacks: weak strikes become strong and strong strikes become weak; used by Jiro Awasaka.",
       "type": 1,
@@ -58,6 +65,7 @@
     },
     "8": {
       "id": 8,
+      "image": "/cursedTechnique/8.webp",
       "technique_name": "Auspicious Beast Summon",
       "description": "Allows the user to summon protective auspicious beasts, each granting different defensive or offensive support.",
       "type": 1,
@@ -66,6 +74,7 @@
     },
     "9": {
       "id": 9,
+      "image": "/cursedTechnique/9.webp",
       "technique_name": "Disaster Flames",
       "description": "Jogo generates intense cursed flames, heat rays, or volcanic vents to unleash destructive beams.",
       "type": 1,
@@ -74,6 +83,7 @@
     },
     "10": {
       "id": 10,
+      "image": "/cursedTechnique/10.webp",
       "technique_name": "Black Bird Manipulation",
       "description": "Controls crows and other birds infused with cursed energy for reconnaissance and special attacks like Bird Strike",
       "type": 1,
@@ -82,6 +92,7 @@
     },
     "11": {
       "id": 11,
+      "image": "/cursedTechnique/11.webp",
       "technique_name": "Cursed Spirit Manipulation",
       "description": "Enables the user to summon, control, and utilize captured cursed spirits, adjusting range per spirit; used by Suguru Geto and Kenjaku.",
       "type": 1,
@@ -90,222 +101,250 @@
     },
     "12": {
       "id": 12,
+      "image": "/cursedTechnique/12.webp",
       "technique_name": "Puppet Manipulation",
       "description": "Remotely controls puppets/artificial bodies with cursed energy for long-range combat; exemplified by Kokichi Muta (Mechamaru) and Masamichi Yaga.",
       "type": 1,
       "range": 3,
       "users": [35]
     },
-    "13": {
-    "id": 13,
+  "13": {
+  "id": 13,
+  "image": "/cursedTechnique/13.webp",
     "technique_name": "Disaster Plants",
     "description": "Manipulates nature to grow cursed plants like roots and seeds over a battlefield for offensive coverage; used by Hanami.",
     "type": 1,
     "range": 2,
     "users": []
     },
-    "14": {
-        "id": 14,
+  "14": {
+    "id": 14,
+    "image": "/cursedTechnique/14.webp",
         "technique_name": "Idle Transfiguration",
         "description": "Manipulates and reshapes souls and bodies through physical contact, altering forms at will; Mahito's technique.",
         "type": 1,
         "range": 1,
         "users": [22]
     },
-    "15": {
-        "id": 15,
+  "15": {
+    "id": 15,
+    "image": "/cursedTechnique/15.webp",
         "technique_name": "Adaptation",
         "description": "Mahoraga adapts to any phenomenon after exposure, becoming resistant, immune, or able to counter it.",
         "type": 8,
         "range": 5,
         "users": [99]
     },
-    "16": {
-        "id": 16,
+  "16": {
+    "id": 16,
+    "image": "/cursedTechnique/16.webp",
         "technique_name": "Ratio Technique",
         "description": "Divides the target into a 7:3 ratio to create a critical weak point, guaranteeing a critical hit at that location; Kento Nanami's innate technique.",
         "type": 1,
         "range": 1,
         "users": [15]
     },
-    "17": {
-        "id": 17,
+  "17": {
+    "id": 17,
+    "image": "/cursedTechnique/17.webp",
         "technique_name": "Maximum: Frost Calm",
         "description": "Releases freezing mist that forms massive ice columns, instantly immobilizing groups.",
         "type": 2,
         "range": 14,
         "users": [41]
     },
-    "18": {
-        "id": 18,
+  "18": {
+    "id": 18,
+    "image": "/cursedTechnique/18.webp",
         "technique_name": "Icefall",
         "description": "Generates and controls spiked ice shards that freeze and skewer targets, devastating multiple foes.",
         "type": 2,
         "range": 3,
         "users": [41]
     },
-    "19": {
-        "id": 19,
+  "19": {
+    "id": 19,
+    "image": "/cursedTechnique/19.webp",
         "technique_name": "Kaichi",
         "description": "Summons a spiral-patterned horn that can be launched as a cursed-energy projectile which relentlessly pursues its target until it lands a hit.",
         "type": 2,
         "range": 3,
         "users": [49]
     },
-    "20": {
-        "id": 20,
+  "20": {
+    "id": 20,
+    "image": "/cursedTechnique/20.webp",
         "technique_name": "Reiki",
         "description": "Envelops the user in cursed water, cushioning impacts and enhancing mobility for evasion and repositioning.",
         "type": 2,
         "range": 5,
         "users": [49]
     },
-    "21": {
-        "id": 21,
+  "21": {
+    "id": 21,
+    "image": "/cursedTechnique/21.webp",
         "technique_name": "Kirin",
         "description": "Temporarily nullifies pain perception through intracerebral doping, greatly boosting endurance in combat but draining stamina and preventing rest afterward.",
         "type": 2,
         "range": 5,
         "users": [49]
     },
-    "22": {
-        "id": 22,
+  "22": {
+    "id": 22,
+    "image": "/cursedTechnique/22.webp",
         "technique_name": "Ryu",
         "description": "Channels cursed energy into the hands to manifest a large, dragon-like entity that charges forward to smash into opponents; it can be destroyed if damaged enough.",
         "type": 2,
         "range": 3,
         "users": [49]
     },
-    "23": {
-        "id": 23,
+  "23": {
+    "id": 23,
+    "image": "/cursedTechnique/23.webp",
         "technique_name": "Sugar Manipulation",
         "description": "Amai’s technique lets him expel sugar from his body to create and project solid forms or inject it into others for healing/support.",
         "type": 1,
         "range": 1,
         "users": [55]
     },
-    "24": {
-        "id": 24,
+  "24": {
+    "id": 24,
+    "image": "/cursedTechnique/24.webp",
         "technique_name": "Wheel",
         "description": "The rotating wheel above Mahoraga symbolizes harmony and initiates its adaptation process.",
         "type": 8,
         "range": 5,
         "users": [99]
     },
-    "25": {
-        "id": 25,
+  "25": {
+    "id": 25,
+    "image": "/cursedTechnique/25.webp",
         "technique_name": "Bird Strike",
         "description": "Commands a cursed-infused crow to dive kamikaze-style at a target, causing a devastating explosion on impact.",
         "type": 2,
         "range": 3,
         "users": [17]
     },
-    "26": {
-        "id": 26,
+  "26": {
+    "id": 26,
+    "image": "/cursedTechnique/26.webp",
         "technique_name": "Maximum: Wing King",
         "description": "Deploys corrosive blood wings for short-range flight and widespread corrosive blood attack.",
         "type": 14,
         "range": 1,
         "users": [86]
     },
-    "27": {
-        "id": 27,
+  "27": {
+    "id": 27,
+    "image": "/cursedTechnique/27.webp",
         "technique_name": "Rot Technique",
         "description": "Causes rapid decomposition upon contact with the user's blood, corroding tissue and weakening the victim.",
         "type": 1,
         "range": 1,
         "users": [86, 87]
     },
-    "28": {
-        "id": 28,
+  "28": {
+    "id": 28,
+    "image": "/cursedTechnique/28.webp",
         "technique_name": "Soul Multiplicity",
         "description": "Combines two or more souls into a single body to increase mass and strength; used by Mahito.",
         "type": 2,
         "range": 1,
         "users": [22]
     },
-    "29": {
-        "id": 29,
+  "29": {
+    "id": 29,
+    "image": "/cursedTechnique/29.webp",
         "technique_name": "Polymorphic Soul Isomer",
         "description": "Creates a deformed mass of unstable fused souls for unpredictable offensive attacks; used by Mahito.",
         "type": 2,
         "range": 1,
         "users": [22]
     },
-    "30": {
-        "id": 30,
+  "30": {
+    "id": 30,
+    "image": "/cursedTechnique/30.webp",
         "technique_name": "Instant Spirit Body of Distorted Killing",
         "description": "Transforms the user into a pure spiritual entity with maximum power, enhancing resilience and abilities; Mahito's ultimate form.",
         "type": 2,
         "range": 5,
         "users": [22]
     },
-    "31": {
-        "id": 31,
+  "31": {
+    "id": 31,
+    "image": "/cursedTechnique/31.webp",
         "technique_name": "Collapse",
         "description": "Creates a structural weak point in the environment and causes it to collapse in a single strike, bringing down terrain or structures.",
         "type": 2,
         "range": 4,
         "users": [15]
     },
-    "32": {
-        "id": 32,
+  "32": {
+    "id": 32,
+    "image": "/cursedTechnique/32.webp",
         "technique_name": "Copy",
         "description": "Allows the user to copy and use other sorcerers’ cursed techniques temporarily after forming a bond.",
         "type": 1,
         "range": 4,
         "users": [5]
     },
-    "33": {
-        "id": 33,
+  "33": {
+    "id": 33,
+    "image": "/cursedTechnique/33.webp",
         "technique_name": "Decay",
         "description": "Once blood enters their target begins to poison and decompose the target's body at the point of entry.",
         "type": 2,
         "range": 1,
         "users": [86, 87]
     },
-    "34": {
-        "id": 34,
+  "34": {
+    "id": 34,
+    "image": "/cursedTechnique/34.webp",
         "technique_name": "Morph Trichotomy",
         "description": "Panda’s unique ability to switch between three 'cores' (Panda, Gorilla, Triceratops), each with distinct abilities and fighting style.",
         "type": 1,
         "range": 5,
         "users": [8]
     },
-    "35": {
-        "id": 35,
+  "35": {
+    "id": 35,
+    "image": "/cursedTechnique/35.webp",
         "technique_name": "Star Rage",
         "description": "Tsukumo’s technique to manipulate mass at will, drastically increasing striking power or manipulating environments.",
         "type": 1,
         "range": 2,
         "users": [16]
     },
-    "36": {
-        "id": 36,
+  "36": {
+    "id": 36,
+    "image": "/cursedTechnique/36.webp",
         "technique_name": "Cloning Technique",
         "description": "Allows him to create up to four perfect clones of himself.",
         "type": 1,
         "range": 5,
         "users": [185]
     },
-    "37": {
-        "id": 37,
+  "37": {
+    "id": 37,
+    "image": "/cursedTechnique/37.webp",
         "technique_name": "Electrified Cursed Energy",
         "description": "Infuses cursed energy with electricity for high-voltage attacks, can discharge energy to cause paralysis or explosions.",
         "type": 1,
         "range": 2,
         "users": [50]
     },
-    "38": {
-        "id": 38,
+  "38": {
+    "id": 38,
+    "image": "/cursedTechnique/38.webp",
         "technique_name": "Sound Amplifier",
         "description": "Use his body as a sound amplification device, amplifying and launching waves of cursed energy.",
         "type": 1,
         "range": 1,
         "users": [38]
     },
-    "39": {
-        "id": 39,
+  "39": {
+    "id": 39,
+    "image": "/cursedTechnique/39.webp",
         "technique_name": "Blazing Courage",
         "description": "Infuses a sword with cursed flames for enhanced cutting and burning.",
         "type": 1,
@@ -313,7 +352,8 @@
         "users": [79]
     },
     "40": {
-        "id": 40,
+      "id": 40,
+      "image": "/cursedTechnique/40.webp",
         "technique_name": "Miracle",
         "description": "Supernatural luck affecting all swordplay and survival outcomes, allows improbable escapes and lucky strikes.",
         "type": 1,
@@ -322,6 +362,7 @@
     },
     "41": {
       "id": 41,
+      "image": "/cursedTechnique/41.webp",
       "technique_name": "Sky Manipulation",
       "description": "Allows user to manipulate the 'surface' of the sky like a mirror for attacks, movement, and defense.",
       "type": 1,
@@ -330,6 +371,7 @@
     },
     "42": {
       "id": 42,
+      "image": "/cursedTechnique/42.webp",
       "technique_name": "Explosive Flesh",
       "description": "Allows user to detach and explode their own body parts as deadly bombs, with no pain.",
       "type": 1,
@@ -338,6 +380,7 @@
     },
     "43": {
       "id": 43,
+      "image": "/cursedTechnique/43.webp",
       "technique_name": "Thin Ice Breaker",
       "description": "Compresses space into a sharp plane, shattering it to bypass guards and blast opponents away with destructive concussive force.",
       "type": 2,
@@ -346,6 +389,7 @@
     },
     "44": {
       "id": 44,
+      "image": "/cursedTechnique/44.webp",
       "technique_name": "Limitless",
       "description": "Manipulates space at the atomic level to control distance, mass, attraction, and repulsion through sub-techniques.",
       "type": 7,
@@ -354,6 +398,7 @@
     },
     "45": {
       "id": 45,
+      "image": "/cursedTechnique/45.webp",
       "technique_name": "Six Eyes",
       "description": "Provides extreme cursed energy visualization and reduces cursed energy consumption to near zero when using Limitless.",
       "type": 7,
@@ -362,6 +407,7 @@
     },
     "46": {
       "id": 46,
+      "image": "/cursedTechnique/46.webp",
       "technique_name": "Infinity",
       "description": "Creates an invisible barrier of infinite space around the user, stopping any approaching object at a fraction of distance.",
       "type": 1,
@@ -370,6 +416,7 @@
     },
     "47": {
       "id": 47,
+      "image": "/cursedTechnique/47.webp",
       "technique_name": "Cursed Technique Lapse: Blue",
       "description": "Generates a blue orb that converges space to create a powerful attraction field, pulling and collapsing matter.",
       "type": 2,
@@ -378,6 +425,7 @@
     },
     "48": {
       "id": 48,
+      "image": "/cursedTechnique/48.webp",
       "technique_name": "Cursed Technique Reversal: Red",
       "description": "Generates a red impulse that repels everything it touches with violent force, creating a massive shockwave.",
       "type": 2,
@@ -386,6 +434,7 @@
     },
     "49": {
       "id": 49,
+      "image": "/cursedTechnique/49.webp",
       "technique_name": "Hollow Purple",
       "description": "Combines Blue and Red to create a destructive purple blast that erases matter by merging attraction and repulsion.",
       "type": 2,
@@ -394,6 +443,7 @@
     },
     "50": {
       "id": 50,
+      "image": "/cursedTechnique/50.webp",
       "technique_name": "Cursed Speech",
       "description": "Imbues the user's words with cursed energy to issue irresistible commands, forcing actions like Stop or Sleep.",
       "type": 7,
@@ -402,6 +452,7 @@
     },
     "51": {
       "id": 51,
+      "image": "/cursedTechnique/51.webp",
       "technique_name": "Blood Manipulation",
       "description": "Manipulates and controls the user's own blood for attacks, defense, and physical enhancements.",
       "type": 7,
@@ -410,6 +461,7 @@
     },
     "52": {
       "id": 52,
+      "image": "/cursedTechnique/52.webp",
       "technique_name": "Convergence",
       "description": "Concentrates a large volume of blood to increase pressure and speed for a subsequent high-velocity attack.",
       "type": 2,
@@ -418,6 +470,7 @@
     },
     "53": {
       "id": 53,
+      "image": "/cursedTechnique/53.webp",
       "technique_name": "Flowing Red Scale",
       "description": "Boosts heart rate and accelerates cursed blood circulation throughout the body, increasing strength, speed, and perception.",
       "type": 2,
@@ -426,6 +479,7 @@
     },
     "54": {
       "id": 54,
+      "image": "/cursedTechnique/54.webp",
       "technique_name": "Flowing Red Scale: Spread",
       "description": "Evenly distributes the power boost of Flowing Red Scale body-wide for maximum strength, speed, and durability.",
       "type": 2,
@@ -434,6 +488,7 @@
     },
     "55": {
       "id": 55,
+      "image": "/cursedTechnique/55.webp",
       "technique_name": "Slicing Exorcism",
       "description": "Unleashes sharpened blood that rapidly flies through the air and slices through.",
       "type": 2,
@@ -442,6 +497,7 @@
     },
     "56": {
       "id": 56,
+      "image": "/cursedTechnique/56.webp",
       "technique_name": "Piercing Blood",
       "description": "Fires a high-pressure stream of hardened blood as a distant piercing attack that penetrates multiple targets.",
       "type": 2,
@@ -450,6 +506,7 @@
     },
     "57": {
       "id": 57,
+      "image": "/cursedTechnique/57.webp",
       "technique_name": "Supernova",
       "description": "Detonates multiple blood droplets around the enemy simultaneously, causing explosion-like projectile damage.",
       "type": 2,
@@ -458,6 +515,7 @@
     },
     "58": {
       "id": 58,
+      "image": "/cursedTechnique/58.webp",
       "technique_name": "Blood Edge",
       "description": "Shapes blood into a spinning serrated blade to slice through opponents in close combat.",
       "type": 2,
@@ -466,6 +524,7 @@
     },
     "59": {
       "id": 59,
+      "image": "/cursedTechnique/59.webp",
       "technique_name": "Ten Shadows Technique",
       "description": "Invokes and controls ten shadow shikigami with unique abilities, summoned sequentially from the user's shadow.",
       "type": 7,
@@ -474,6 +533,7 @@
     },
     "60": {
       "id": 60,
+      "image": "/cursedTechnique/60.webp",
       "technique_name": "Projection Sorcery",
       "description": "Divides a second into 24 frames, allowing the user to move at high speed and paralyze those who do not adjust.",
       "type": 7,
@@ -482,6 +542,7 @@
     },
     "61": {
       "id": 61,
+      "image": "/cursedTechnique/61.webp",
       "technique_name": "Straw Doll Technique",
       "description": "Uses a straw doll as a conduit to curse a target remotely by inserting a personal item and cursed nails into the doll.",
       "type": 1,
@@ -490,6 +551,7 @@
     },
     "62": {
       "id": 62,
+      "image": "/cursedTechnique/62.webp",
       "technique_name": "Resonance",
       "description": "Creates internal cursed energy resonance in a target when cursed nails are driven into a straw doll containing the target's remains, causing internal damage.",
       "type": 2,
@@ -498,6 +560,7 @@
     },
     "63": {
       "id": 63,
+      "image": "/cursedTechnique/63.webp",
       "technique_name": "Hairpin",
       "description": "Detonates multiple cursed nails embedded in the environment or target simultaneously, producing a cursed energy shockwave.",
       "type": 2,
@@ -506,6 +569,7 @@
     },
     "64": {
       "id": 64,
+      "image": "/cursedTechnique/64.webp",
       "technique_name": "Blood Meteorite",
       "description": "Hardens his blood, internally or externally, to create super-dense objects or reinforce his body, despite thrombosis risk.",
       "type": 2,
@@ -514,6 +578,7 @@
     },
     "65": {
       "id": 65,
+      "image": "/cursedTechnique/65.webp",
       "technique_name": "Slash That Cuts The World",
       "description": "Dismantle enhanced with binding vow broadening its target area to include space, existence, and the world themselves, transforming the regular slashes into 'slashes that cut the world'.",
       "type": 2,
@@ -522,6 +587,7 @@
     },
     "66": {
       "id": 66,
+      "image": "/cursedTechnique/66.webp",
       "technique_name": "Divine Flame",
       "description": "Allows him to create and manipulate flames for long-range attacks by forming them into the shape of an arrow before launching it.",
       "type": 1,
@@ -530,6 +596,7 @@
     },
     "67": {
       "id": 67,
+      "image": "/cursedTechnique/67.webp",
       "technique_name": "Domain Amplification",
       "description": "Creates an esoteric barrier zone that nullifies any cursed technique entering it, offering total defense against techniques.",
       "type": 5,
@@ -538,6 +605,7 @@
     },
     "68": {
       "id": 68,
+      "image": "/cursedTechnique/68.webp",
       "technique_name": "Simple Domain",
       "description": "Generates a small personal barrier that automatically neutralizes incoming cursed techniques within a fixed radius.",
       "type": 5,
@@ -546,6 +614,7 @@
     },
     "69": {
       "id": 69,
+      "image": "/cursedTechnique/69.webp",
       "technique_name": "Hollow Wicker Basket",
       "description": "Deploys a simple barrier that cancels out Domain Expansions in an immediate area.",
       "type": 5,
@@ -554,6 +623,7 @@
     },
     "70": {
       "id": 70,
+      "image": "/cursedTechnique/70.webp",
       "technique_name": "New Shadow Style",
       "description": "Combines Simple Domain with rapid sword drawing (Iaido) for coordinated defense and offense.",
       "type": 12,
@@ -562,6 +632,7 @@
     },
     "71": {
       "id": 71,
+      "image": "/cursedTechnique/71.webp",
       "technique_name": "Reverse Cursed Technique",
       "description": "Converts negative cursed energy into positive energy to produce healing effects and regenerate damaged tissue.",
       "type": 11,
@@ -570,6 +641,7 @@
     },
     "72": {
       "id": 72,
+      "image": "/cursedTechnique/72.webp",
       "technique_name": "Sukuna's Reverse Cursed Technique",
       "description": "Unique high-level RCT, enabling rapid regeneration and even reviving others.",
       "type": 11,
@@ -578,6 +650,7 @@
     },
     "73": {
       "id": 73,
+      "image": "/cursedTechnique/73.webp",
       "technique_name": "Heavenly Restriction",
       "description": "A rare congenital condition in which a sorcerer is born with either no cursed energy or drastically reduced cursed energy in exchange for superhuman physical abilities. Not a 'technique' in the classic sense but a biological binding that results in monstrous strength, agility, and durability, while being immune to certain curse-detection abilities.",
       "type": 10,
@@ -586,6 +659,7 @@
     },
     "74": {
       "id": 74,
+      "image": "/cursedTechnique/74.webp",
       "technique_name": "Solo Forbidden Area",
       "description": "It temporarily amplifies the cursed energy of any willing sorcerer within range, including herself.",
       "type": 1,
@@ -594,6 +668,7 @@
     },
     "75": {
       "id": 75,
+      "image": "/cursedTechnique/75.webp",
       "technique_name": "Spatial Transference",
       "description": "Allows the user to instantly transport themselves and others to a predetermined location by physical contact.",
       "type": 1,
@@ -602,6 +677,7 @@
     },
     "76": {
       "id": 76,
+      "image": "/cursedTechnique/76.webp",
       "technique_name": "Antigravity System",
       "description": "Allows the user to manipulate gravity to nullify its effects or create repulsion fields; enables floating, flight, and defensive barriers by altering gravitational forces in a localized area.",
       "type": 1,
@@ -610,6 +686,7 @@
     },
     "77": {
       "id": 77,
+      "image": "/cursedTechnique/77.webp",
       "technique_name": "Divergent Fist",
       "description": "Punching-based technique utilizing cursed energy manipulation.",
       "type": 9,
@@ -618,6 +695,7 @@
     },
     "78": {
       "id": 78,
+      "image": "/cursedTechnique/78.webp",
       "technique_name": "Black Flash",
       "description": "Phenomenon in jujutsu that greatly amplifies the user's physical strike when cursed energy is applied to it within one-millionth of a second.",
       "type": 9,
@@ -626,6 +704,7 @@
     },
     "79": {
       "id": 79,
+      "image": "/cursedTechnique/79.webp",
       "technique_name": "Dismantle",
       "description": "An invisible blade that can be thrown at close range or from a distance at high speed, cutting through anything. It can be used against inanimate objects, cursed spirits, and sorcerers.",
       "type": 2,
@@ -634,6 +713,7 @@
     },
     "80": {
       "id": 80,
+      "image": "/cursedTechnique/80.webp",
       "technique_name": "Cleave",
       "description": "A second slashing attack that adjusts its power based on the target's resistance and your cursed energy level to knock them down with a single blow. The cutting power depends on the cursed energy emitted by the user.",
       "type": 2,
@@ -642,6 +722,7 @@
     },
     "81": {
       "id": 81,
+      "image": "/cursedTechnique/81.webp",
       "technique_name": "Falling Blossom Emotion",
       "description": "The user manifests their own domain to nullify the guaranteed hit of a domain. It envelops the user in cursed energy that counterattacks the moment the domain comes into contact.",
       "type": 5,
@@ -650,6 +731,7 @@
     },
     "82": {
       "id": 82,
+      "image": "/cursedTechnique/82.webp",
       "technique_name": "Divine Dogs",
       "description": "Twin canine shikigami with powerful noses for tracking and lethal fangs and claws for devouring curses.",
       "type": 6,
@@ -658,6 +740,7 @@
     },
     "83": {
       "id": 83,
+      "image": "/cursedTechnique/83.webp",
       "technique_name": "Divine Dogs: Totality",
       "description": "Improved version of the black Divine Dog that incorporates the power of its fallen white twin.",
       "type": 6,
@@ -666,6 +749,7 @@
     },
     "84": {
       "id": 84,
+      "image": "/cursedTechnique/84.webp",
       "technique_name": "Nue",
       "description": "A winged shikigami armed with electro-shock wings that can carry people short distances.",
       "type": 6,
@@ -674,6 +758,7 @@
     },
     "85": {
       "id": 85,
+      "image": "/cursedTechnique/85.webp",
       "technique_name": "Great Serpent",
       "description": "A gigantic snake shikigami that was used to ensnare Megumi's targets.",
       "type": 6,
@@ -682,6 +767,7 @@
     },
     "86": {
       "id": 86,
+      "image": "/cursedTechnique/86.webp",
       "technique_name": "Toad",
       "description": "A large toad shikigami with a long and powerful tongue that can grab people and pull them through the air.",
       "type": 6,
@@ -690,6 +776,7 @@
     },
     "87": {
       "id": 87,
+      "image": "/cursedTechnique/87.webp",
       "technique_name": "The Well's Unknowns Abyss",
       "description": "An extension technique that combines Toad and Nue to summon numerous winged toads that support Megumi in battle.",
       "type": 6,
@@ -698,6 +785,7 @@
     },
     "88": {
       "id": 88,
+      "image": "/cursedTechnique/88.webp",
       "technique_name": "Max Elephant",
       "description": "Max Elephant has the ability to produce a massive volume of water from its trunk and its weight can be used offensively as well.",
       "type": 6,
@@ -706,6 +794,7 @@
     },
     "89": {
       "id": 89,
+      "image": "/cursedTechnique/89.webp",
       "technique_name": "Rabbit Scape",
       "description": "A swarm of rabbit shikigami that Megumi uses as a distraction or to help him figure out his enemies abilities.",
       "type": 6,
@@ -714,6 +803,7 @@
     },
     "90": {
       "id": 90,
+      "image": "/cursedTechnique/90.webp",
       "technique_name": "Eight Handled Sword Divergent Sila Divine General Mahoraga",
       "description": "The most powerful uncontrollable shikigami that the Ten Shadows Technique can produce.",
       "type": 6,
@@ -722,6 +812,7 @@
     },
     "91": {
       "id": 91,
+      "image": "/cursedTechnique/91.webp",
       "technique_name": "Round Deer",
       "description": "It can perform reverse cursed technique and output the positive energy to heal others or neutralize cursed energy.",
       "type": 6,
@@ -730,6 +821,7 @@
     },
     "92": {
       "id": 92,
+      "image": "/cursedTechnique/92.webp",
       "technique_name": "Piercing Ox",
       "description": "It deals damage by charging and ramming into enemies. While it can only move in a straight line.",
       "type": 6,
@@ -738,6 +830,7 @@
     },
     "93": {
       "id": 93,
+      "image": "/cursedTechnique/93.webp",
       "technique_name": "Tiger Funeral",
       "description": "A shikigami that Sukuna dominated after possessing Megumi. Its appearance and abilities are unknown.",
       "type": 6,
@@ -746,6 +839,7 @@
     },
     "94": {
       "id": 94,
+      "image": "/cursedTechnique/94.webp",
       "technique_name": "Nue: Totality - Merged Beast Agito",
       "description": "A fusion shikigami that combines Nue with Great Serpent, Round Deer, and Tiger Funeral. Can produce electricity from its fists and regenerate itself or heal others with reverse cursed technique.",
       "type": 6,
@@ -754,6 +848,7 @@
     },
     "95": {
       "id": 95,
+      "image": "/cursedTechnique/95.webp",
       "technique_name": "Shrine",
       "description": "Allows him to unleash invisible slashes, either at range or through physical contact, to cut down his enemies.",
       "type": 1,
@@ -762,6 +857,7 @@
     },
     "96": {
       "id": 96,
+      "image": "/cursedTechnique/96.webp",
       "technique_name": "Spiderweb",
       "description": "The user touches their target to create cutting lines along the surface and unleashes a powerful slash that follows along the pattern to cut down everything in range in one fell swoop.",
       "type": 2,
@@ -770,6 +866,7 @@
     },
     "97": {
       "id": 97,
+      "image": "/cursedTechnique/97.webp",
       "technique_name": "Rika",
       "description": "The cursed spirit of Rika Orimoto. She serves as the external storage for Yuta's copied cursed techniques and cursed tools.",
       "type": 3,
@@ -778,6 +875,7 @@
     },
     "98": {
       "id": 98,
+      "image": "/cursedTechnique/98.webp",
       "technique_name": "Technique Extinguishment",
       "description": "Nullifies or negates all jujutsu, barriers, seals; no exceptions.",
       "type": 1,
@@ -786,6 +884,7 @@
     },
     "99": {
       "id": 99,
+      "image": "/cursedTechnique/99.webp",
       "technique_name": "Maximum: Jacob's Ladder",
       "description": "Casts a pillar of light onto a target, extinguishing any cursed techniques under the light.",
       "type": 14,
@@ -794,6 +893,7 @@
     },
     "100": {
       "id": 100,
+      "image": "/cursedTechnique/100.webp",
       "technique_name": "G Warstaff",
       "description": "It grants him the ability to conjure a pen-like cursed tool capable of creating panels that allow him to peer into his target's future.",
       "type": 1,
@@ -802,6 +902,7 @@
     },
     "101": {
       "id": 101,
+      "image": "/cursedTechnique/101.webp",
       "technique_name": "Private Pure Love Train",
       "description": "Pachinko-themed cursed technique that, via Domain Expansion, manifests the Private Pure Love Train game and its effects.",
       "type": 1,
@@ -810,6 +911,7 @@
     },
     "102": {
       "id": 102,
+      "image": "/cursedTechnique/102.webp",
       "technique_name": "Batto Sword Drawing",
       "description": "A fast sword drawing technique that coats Kusakabe's blade in cursed energy and rotates it around the blade to increase its drawing speed dramatically.",
       "type": 12,
@@ -818,6 +920,7 @@
     },
     "103": {
       "id": 103,
+      "image": "/cursedTechnique/103.webp",
       "technique_name": "Evening Moon Sword Drawing",
       "description": "A thick single-edged cursed blade with engine vents that stores and ejects kinetic and cursed energy, massively boosting its cutting power.",
       "type": 12,
@@ -826,6 +929,7 @@
     },
     "104": {
       "id": 104,
+      "image": "/cursedTechnique/104.webp",
       "technique_name": "Hazy Moon",
       "description": "A New Shadow Style technique that recreates part of a broken blade with cursed energy.",
       "type": 12,
@@ -834,6 +938,7 @@
     },
     "105": {
       "id": 105,
+      "image": "/cursedTechnique/105.webp",
       "technique_name": "Simple Barrier",
       "description": "Barriers are used to conceal, contain, or deny entry to others within that space.",
       "type": 4,
@@ -842,6 +947,7 @@
     },
     "106": {
       "id": 106,
+      "image": "/cursedTechnique/106.webp",
       "technique_name": "Curtain",
       "description": "Create a barrier that surrounds a certain area to protect civilians from battlefield.",
       "type": 4,
@@ -850,6 +956,7 @@
     },
     "107": {
       "id": 107,
+      "image": "/cursedTechnique/107.webp",
       "technique_name": "Maximum: Uzumaki",
       "description": "The maximum technique of Cursed Spirit Manipulation combines a massive number of collected curses into one powerful attack.",
       "type": 14,
@@ -858,6 +965,7 @@
     },
     "108": {
       "id": 108,
+      "image": "/cursedTechnique/108.webp",
       "technique_name": "Garuda",
       "description": "Garuda gains virtual mass from Star Rage, becoming Yuki's cursed tool and fighting alongside her.",
       "type": 6,
@@ -866,6 +974,7 @@
     },
     "109": {
       "id": 109,
+      "image": "/cursedTechnique/109.webp",
       "technique_name": "Love Rendezvous",
       "description": "Cursed technique that marks targets with five 'stars' patterned after the Southern Cross, requiring approach in a set order or causing mutual attraction.",
       "type": 1,
@@ -874,6 +983,7 @@
     },
     "110": {
       "id": 110,
+      "image": "/cursedTechnique/110.webp",
       "technique_name": "Body Repel",
       "description": "A technique where Mahito amplifies a soul’s energy using Soul Multiplicity, then channels the immense output directly at the opponent for a powerful attack.",
       "type": 2,
@@ -882,6 +992,7 @@
     },
     "111": {
       "id": 111,
+      "image": "/cursedTechnique/111.webp",
       "technique_name": "Ember Insects",
       "description": "Summons flying curse insects from his head that sting and detonate into fiery explosions.",
       "type": 2,
@@ -890,6 +1001,7 @@
     },
     "112": {
       "id": 112,
+      "image": "/cursedTechnique/112.webp",
       "technique_name": "Maximum: Meteor",
       "description": "Hurls a massive flaming meteor capable of devastating wide areas on impact.",
       "type": 14,
@@ -898,6 +1010,7 @@
     },
     "113": {
       "id": 113,
+      "image": "/cursedTechnique/113.webp",
       "technique_name": "Disaster Tides",
       "description": "Generates and manipulates massive waves of water purely from cursed energy.",
       "type": 1,
@@ -906,6 +1019,7 @@
     },
     "114": {
       "id": 114,
+      "image": "/cursedTechnique/114.webp",
       "technique_name": "Death Swarm",
       "description": "Summons an endless swarm of shikigami.",
       "type": 6,
@@ -914,6 +1028,7 @@
     },
     "115": {
       "id": 115,
+      "image": "/cursedTechnique/115.webp",
       "technique_name": "Jujutsu High Barriers",
       "description": "Change building layouts daily to hide school locations; concealment-focused, not strong against infiltration.",
       "type": 4,
@@ -922,6 +1037,7 @@
     },
     "116": {
       "id": 116,
+      "image": "/cursedTechnique/116.webp",
       "technique_name": "Concealing Barriers",
       "description": "Thousands of shifting doors hide the Tombs entrance, cursed warehouse, and Tengen’s shrine; invite-only access.",
       "type": 4,
@@ -930,6 +1046,7 @@
     },
     "117": {
       "id": 117,
+      "image": "/cursedTechnique/117.webp",
       "technique_name": "Empty Barriers",
       "description": "Vacant barriers outlined by hexagonal shells, placed above the Tombs of the Star.",
       "type": 4,
@@ -938,6 +1055,7 @@
     },
     "118": {
       "id": 118,
+      "image": "/cursedTechnique/118.webp",
       "technique_name": "Pure Barriers",
       "description": "Superior barriers that enhance cursed spirit suppression and precision; guard key jujutsu sites.",
       "type": 4,
@@ -946,6 +1064,7 @@
     },
     "119": {
       "id": 119,
+      "image": "/cursedTechnique/119.webp",
       "technique_name": "Tool Manipulation",
       "description": "Telekinetically controls a broomstick for levitation or generating cursed-energy wind gusts.",
       "type": 1,
@@ -954,6 +1073,7 @@
     },
     "120": {
       "id": 120,
+      "image": "/cursedTechnique/120.webp",
       "technique_name": "Wind Scythe",
       "description": "Uses broom-ground friction to fire a fast, crescent-shaped cursed-energy wind blade with cutting power.",
       "type": 2,
@@ -962,6 +1082,7 @@
     },
     "121": {
       "id": 121,
+      "image": "/cursedTechnique/121.webp",
       "technique_name": "Ultimate Mechamaru",
       "description": "Kokichi’s mechanical cursed corpse used for combat, missions, and large-scale puppet piloting.",
       "type": 2,
@@ -970,6 +1091,7 @@
     },
     "122": {
       "id": 122,
+      "image": "/cursedTechnique/122.webp",
       "technique_name": "Sword Option",
       "description": "Extends forearm blades and spikes for close-range attacks.",
       "type": 2,
@@ -978,6 +1100,7 @@
     },
     "123": {
       "id": 123,
+      "image": "/cursedTechnique/123.webp",
       "technique_name": "Ultra Spin",
       "description": "Spins forearm to pierce targets.",
       "type": 2,
@@ -986,6 +1109,7 @@
     },
     "124": {
       "id": 124,
+      "image": "/cursedTechnique/124.webp",
       "technique_name": "Ultra Shield",
       "description": "Blocks incoming attacks with fortified forearm.",
       "type": 2,
@@ -994,6 +1118,7 @@
     },
     "125": {
       "id": 125,
+      "image": "/cursedTechnique/125.webp",
       "technique_name": "Boost On",
       "description": "Uses elbow-released cursed energy to boost attack speed.",
       "type": 2,
@@ -1002,6 +1127,7 @@
     },
     "126": {
       "id": 126,
+      "image": "/cursedTechnique/126.webp",
       "technique_name": "Ultra Cannon",
       "description": "Fires cursed energy blast from palm.",
       "type": 2,
@@ -1010,6 +1136,7 @@
     },
     "127": {
       "id": 127,
+      "image": "/cursedTechnique/127.webp",
       "technique_name": "Mode: Albatross",
       "description": "Adds mouth cannon for combined high-power blasts.",
       "type": 2,
@@ -1018,6 +1145,7 @@
     },
     "128": {
       "id": 128,
+      "image": "/cursedTechnique/128.webp",
       "technique_name": "Mode: Absolute",
       "description": "Large puppet capable of massive attacks with stored cursed energy.",
       "type": 2,
@@ -1026,6 +1154,7 @@
     },
     "129": {
       "id": 129,
+      "image": "/cursedTechnique/129.webp",
       "technique_name": "Miracle Cannon",
       "description": "Fires dual-hand blasts consuming two years’ stored cursed energy.",
       "type": 2,
@@ -1034,6 +1163,7 @@
     },
     "130": {
       "id": 130,
+      "image": "/cursedTechnique/130.webp",
       "technique_name": "Pigeon Viola",
       "description": "Five tracking cursed-energy blasts consuming five years’ stored energy.",
       "type": 2,
@@ -1042,6 +1172,7 @@
     },
     "131": {
       "id": 131,
+      "image": "/cursedTechnique/131.webp",
       "technique_name": "Mini-Mechamaru",
       "description": "Small posthumous communication puppets powered by Kokichi’s remaining cursed energy.",
       "type": 2,
@@ -1050,6 +1181,7 @@
     },
     "132": {
       "id": 132,
+      "image": "/cursedTechnique/132.webp",
       "technique_name": "Pain Killer",
       "description": "Stops existing wounds from worsening by halting bleeding and reducing pain, but can’t heal or prevent new injuries.",
       "type": 1,
@@ -1058,6 +1190,7 @@
     },
     "133": {
       "id": 133,
+      "image": "/cursedTechnique/133.webp",
       "technique_name": "Prayer Song",
       "description": "Enhances himself and weakens foes by dancing to a personal rhythm that expels curses without using a domain.",
       "type": 1,
@@ -1066,6 +1199,7 @@
     },
     "134": {
       "id": 134,
+      "image": "/cursedTechnique/134.webp",
       "technique_name": "Hanging Doll Technique",
       "description": "Uses a voodoo doll and noose to fatally hang targets or strike vital points, reflecting damage from the doll onto them.",
       "type": 1,
@@ -1074,6 +1208,7 @@
     },
     "135": {
       "id": 135,
+      "image": "/cursedTechnique/135.webp",
       "technique_name": "Cellphone Manipulation Technique",
       "description": "Allows her to manipulate and reposition any photographed subject, including herself, though it quickly exhausts her.",
       "type": 1,
@@ -1082,6 +1217,7 @@
     },
     "136": {
       "id": 136,
+      "image": "/cursedTechnique/136.webp",
       "technique_name": "Mythical Beast Amber",
       "description": "Transforms cursed energy into electricity by reconstructing his flesh, granting immense power but usable only once before his body collapses.",
       "type": 1,
@@ -1090,6 +1226,7 @@
     },
     "137": {
       "id": 137,
+      "image": "/cursedTechnique/137.webp",
       "technique_name": "Judgeman",
       "description": "A Lady-Justice-like figure that delivers 'blind justice' by weighing judgment over its targets.",
       "type": 6,
@@ -1098,6 +1235,7 @@
     },
     "138": {
       "id": 138,
+      "image": "/cursedTechnique/138.webp",
       "technique_name": "Airplane Hair",
       "description": "Changes her hair into the shape of a jet plane with fiery boosters strong enough to propel her through the air at high speed.",
       "type": 1,
@@ -1106,6 +1244,7 @@
     },
     "139": {
       "id": 139,
+      "image": "/cursedTechnique/139.webp",
       "technique_name": "Helicopter Hair",
       "description": "Change his hair into a propeller with four blades and can fly around or suspend himself in the air.",
       "type": 1,
@@ -1114,6 +1253,7 @@
     },
     "140": {
       "id": 140,
+      "image": "/cursedTechnique/140.webp",
       "technique_name": "Insect Wings",
       "description": "Constructs insect-like wings for high-speed flight.",
       "type": 2,
@@ -1122,6 +1262,7 @@
     },
     "141": {
       "id": 141,
+      "image": "/cursedTechnique/141.webp",
       "technique_name": "Liquid Metal",
       "description": "Semi-autonomous cursed metal shaped into versatile weapons.",
       "type": 2,
@@ -1130,6 +1271,7 @@
     },
     "142": {
       "id": 142,
+      "image": "/cursedTechnique/142.webp",
       "technique_name": "Insect Armor",
       "description": "Liquid metal carapace enhancing all physical stats and mid-range control.",
       "type": 2,
@@ -1138,6 +1280,7 @@
     },
     "143": {
       "id": 143,
+      "image": "/cursedTechnique/143.webp",
       "technique_name": "True Sphere",
       "description": "Perfect sphere of infinite pressure that becomes unavoidable in her domain.",
       "type": 2,
@@ -1146,6 +1289,7 @@
     },
     "144": {
       "id": 144,
+      "image": "/cursedTechnique/144.webp",
       "technique_name": "Contractual Re-Creation",
       "description": "Burns a written contract to instantly recreate the described object or service with temporary, commandable effects.",
       "type": 1,
@@ -1154,6 +1298,7 @@
     },
     "145": {
       "id": 145,
+      "image": "/cursedTechnique/145.webp",
       "technique_name": "Scorpion Hair",
       "description": "Manipulates her scorpion tail-like hair to strike foes, causing only mild irritation.",
       "type": 1,
@@ -1162,6 +1307,7 @@
     },
     "146": {
       "id": 146,
+      "image": "/cursedTechnique/146.webp",
       "technique_name": "Orbiting Shikigami",
       "description": "Summons grotesque rodent-like shikigami whose orbital tracks around him form an inviolable barrier, making close approach nearly impossible.",
       "type": 6,
@@ -1170,6 +1316,7 @@
     },
     "147": {
       "id": 147,
+      "image": "/cursedTechnique/147.webp",
       "technique_name": "Cursed Energy Discharge",
       "description": "Can fire concentrated blasts of cursed energy from his cannon-shaped pompadour, maintaining full power even without his technique activated.",
       "type": 1,
@@ -1178,6 +1325,7 @@
     },
     "148": {
       "id": 148,
+      "image": "/cursedTechnique/148.webp",
       "technique_name": "Granite Blast",
       "description": "Unleash a hyper-focused beam of cursed energy with enough destructive force to level multiple city blocks.",
       "type": 2,
@@ -1186,6 +1334,7 @@
     },
     "149": {
       "id": 149,
+      "image": "/cursedTechnique/149.webp",
       "technique_name": "Missile Fist",
       "description": "Conjure giant fists propelled by cursed energy like missiles.",
       "type": 1,
@@ -1194,6 +1343,7 @@
     },
     "150": {
       "id": 150,
+      "image": "/cursedTechnique/150.webp",
       "technique_name": "Paralize Gaze",
       "description": "Envelops anyone he gazes upon in an immobilizing aura.",
       "type": 1,
@@ -1202,6 +1352,7 @@
     },
     "151": {
       "id": 151,
+      "image": "/cursedTechnique/151.webp",
       "technique_name": "Earth Manipulation",
       "description": "Chojuro can shape terrain into giant stone constructs for mid-range restraint and offense.",
       "type": 1,
@@ -1210,6 +1361,7 @@
     },
     "152": {
       "id": 152,
+      "image": "/cursedTechnique/152.webp",
       "technique_name": "Dark Claws",
       "description": "Morphs fingers into dark claws for close-range slashing attacks, though effectiveness is unclear.",
       "type": 1,
@@ -1218,6 +1370,7 @@
     },
     "153": {
       "id": 153,
+      "image": "/cursedTechnique/153.webp",
       "technique_name": "Heart Catch",
       "description": "Creates a giant virtual hand that grabs, throws, or crushes targets from afar.",
       "type": 1,
@@ -1226,6 +1379,7 @@
     },
     "154": {
       "id": 154,
+      "image": "/cursedTechnique/154.webp",
       "technique_name": "Cutie Honey",
       "description": "Forces a previously 'Heart Caught' target to fixate on Larue, distracting them with heart-shaped pupils.",
       "type": 2,
@@ -1234,6 +1388,7 @@
     },
     "155": {
       "id": 155,
+      "image": "/cursedTechnique/155.webp",
       "technique_name": "Séance Technique",
       "description": "Can summon the body or soul information from a deceased person using their corpse. This allows her to shape-shift herself or a willing participant into that person.",
       "type": 1,
@@ -1242,6 +1397,7 @@
     },
     "156": {
       "id": 156,
+      "image": "/cursedTechnique/156.webp",
       "technique_name": "Obstacle Removal",
       "description": "Ganesha’s technique removes 'obstacles' by binding and displacing the conceptual target of its ability.",
       "type": 1,
@@ -1250,6 +1406,7 @@
     },
     "157": {
       "id": 157,
+      "image": "/cursedTechnique/157.webp",
       "technique_name": "Gravestone Technique",
       "description": "Traps the target in a coffin, crushes it with a gravestone, then triggers a lethal countdown.",
       "type": 1,
@@ -1258,6 +1415,7 @@
     },
     "158": {
       "id": 158,
+      "image": "/cursedTechnique/158.webp",
       "technique_name": "Cursed Cockroaches",
       "description": "Kurourushi commands swarms of man-eating cockroaches reinforced with cursed energy, capable of stripping flesh in seconds.",
       "type": 1,
@@ -1266,6 +1424,7 @@
     },
     "159": {
       "id": 159,
+      "image": "/cursedTechnique/159.webp",
       "technique_name": "Parthenogenesis",
       "description": "Devoured flesh triggers self-reproduction, allowing Kurourushi to spawn offspring and transfer its cursed energy upon death.",
       "type": 2,
@@ -1274,6 +1433,7 @@
     },
     "160": {
       "id": 160,
+      "image": "/cursedTechnique/160.webp",
       "technique_name": "Earthen Insect Trance",
       "description": "Summons flying insect curses carrying liquid sacs that burst to impair targets’ vision.",
       "type": 2,
@@ -1282,6 +1442,7 @@
     },
     "161": {
       "id": 161,
+      "image": "/cursedTechnique/161.webp",
       "technique_name": "Moon Dregs",
       "description": "A jellyfish-like shikigami that paralyzes with cursed energy poison from its tendrils, leaving burning black marks, and can also pierce flesh with spiked stingers.",
       "type": 1,
@@ -1290,6 +1451,7 @@
     },
     "162": {
       "id": 162,
+      "image": "/cursedTechnique/162.webp",
       "technique_name": "Grasshopper Physiology",
       "description": "Superior arms, jaws, and senses; adapts insect traits for combat.",
       "type": 13,
@@ -1298,6 +1460,7 @@
     },
     "163": {
       "id": 163,
+      "image": "/cursedTechnique/163.webp",
       "technique_name": "Enhanced Jumping & Biting",
       "description": "Super jumps and powerful bites, strong enough to cut metal.",
       "type": 13,
@@ -1306,6 +1469,7 @@
     },
     "164": {
       "id": 164,
+      "image": "/cursedTechnique/164.webp",
       "technique_name": "Black Mucus",
       "description": "Spits cursed mucus that spreads and corrodes like a plague.",
       "type": 13,
@@ -1314,6 +1478,7 @@
     },
     "165": {
       "id": 165,
+      "image": "/cursedTechnique/165.webp",
       "technique_name": "Expandable Abdomen",
       "description": "Extends abdomen tip up to 3× length to stab enemies.",
       "type": 13,
@@ -1322,6 +1487,7 @@
     },
     "166": {
       "id": 166,
+      "image": "/cursedTechnique/166.webp",
       "technique_name": "Unblockable Drumming Beat",
       "description": "The impact of the hit sends a shockwave through the user's guard, so they feel the damage even if they defend.",
       "type": 2,
@@ -1330,6 +1496,7 @@
     },
     "167": {
       "id": 167,
+      "image": "/cursedTechnique/167.webp",
       "technique_name": "Gorilla Mode",
       "description": "Panda can transform into a muscular gorilla, is much stronger and faster in this form but at the cost of rapidly draining his cursed energy.",
       "type": 2,
@@ -1338,6 +1505,7 @@
     },
     "168": {
       "id": 168,
+      "image": "/cursedTechnique/168.webp",
       "technique_name": "Triceratops Mode",
       "description": "Panda can transform into a bipedal Triceratops, but this form's abilities have not been displayed and its capabilities are unknown",
       "type": 2,
@@ -1346,6 +1514,7 @@
     },
     "169": {
       "id": 169,
+      "image": "/cursedTechnique/169.webp",
       "technique_name": "Boogie Woogie: Revised",
       "description": "Through a binding vote, Aoi changed the condition for activating Boogie Woogie after losing a hand, improving its technique to 50 exchanges per second and increasing its range and targets.",
       "type": 1,

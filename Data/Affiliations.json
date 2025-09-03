@@ -7,8 +7,9 @@
         "controlled_by": 9,
         "location": "Tokyo Prefecture",
         "location_data": "hidden mountain campus",
-        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters."
-    }, 
+        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters.",
+        "image": "/affiliations/1.webp"
+    },
     "2": {
         "id": 2,
         "name": "Kyoto Jujutsu High",
@@ -16,7 +17,8 @@
         "controlled_by": 38,
         "location": "Kyoto Prefecture",
         "location_data": "barrier-concealed campus",
-        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters."
+        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters.",
+        "image": "/affiliations/2.webp"
     },
     "3": {
         "id": 3,
@@ -25,8 +27,9 @@
         "controlled_by": 42,
         "location": "Tokyo",
         "location_data": "Clan estate location undisclosed",
-        "description": "A lineage of sorcerers known for their exclusive possession of the Ten Shadows Technique."
-    }, 
+        "description": "A lineage of sorcerers known for their exclusive possession of the Ten Shadows Technique.",
+        "image": "/affiliations/3.webp"
+    },
     "4": {
         "id": 4,
         "name": "Gojo Clan",
@@ -34,8 +37,9 @@
         "controlled_by": 4,
         "location": "Tokyo",
         "location_data": "Clan estate location undisclosed",
-        "description": "A lineage of descendants of Sugawara known for their exclusive possession of the Infinite Technique and Six Eyes."
-    }, 
+        "description": "A lineage of descendants of Sugawara known for their exclusive possession of the Infinite Technique and Six Eyes.",
+        "image": "/affiliations/4.webp"
+    },
     "5": {
         "id": 5,
         "name": "Kamo Clan",
@@ -43,8 +47,9 @@
         "controlled_by": 32,
         "location": "Kyoto",
         "location_data": "Traditional seat of the Kamo family",
-        "description": "A lineage of sorcerers known for their exclusive possession of the Blood Manipulation Technique."
-    }, 
+        "description": "A lineage of sorcerers known for their exclusive possession of the Blood Manipulation Technique.",
+        "image": "/affiliations/5.webp"
+    },
     "6": {
         "id": 6,
         "name": "Inumaki Clan",
@@ -52,8 +57,9 @@
         "controlled_by": null,
         "location": "Japan",
         "location_data": "Operates in secrecy, various hidden location",
-        "description": "A lineage of sorcerers from the Jujutsu Kaisen universe known for their exclusive possession of the Cursed Speech Technique."
-    }, 
+        "description": "A lineage of sorcerers from the Jujutsu Kaisen universe known for their exclusive possession of the Cursed Speech Technique.",
+        "image": "/affiliations/6.webp"
+    },
     "7": {
         "id": 7,
         "name": "Suguru Geto’s Group ",
@@ -61,8 +67,9 @@
         "controlled_by": 14,
         "location": "Various",
         "location_data": "Temple hideout in Tokyo; operations in Shinjuku & Kyoto",
-        "description": "His goal was to eradicate those who were not sorcerers, planning an assault on Tokyo, the pinnacle of the jujutsu world."
-    }, 
+        "description": "His goal was to eradicate those who were not sorcerers, planning an assault on Tokyo, the pinnacle of the jujutsu world.",
+        "image": "/affiliations/7.webp"
+    },
     "8": {
         "id": 8,
         "name": "Mahito’s Group",
@@ -70,8 +77,9 @@
         "controlled_by": 22,
         "location": "Various",
         "location_data": "Primarily Tokyo/Shibuya area",
-        "description": "Their ultimate goal is the eradication of humanity and  replacing the population with cursed spirits."
-    }, 
+        "description": "Their ultimate goal is the eradication of humanity and  replacing the population with cursed spirits.",
+        "image": "/affiliations/8.webp"
+    },
     "9": {
         "id": 9,
         "name": "Time Vessel Association ",
@@ -79,8 +87,9 @@
         "controlled_by": null,
         "location": "House of the Children of the Star",
         "location_data": "Secret location",
-        "description": "A non-sorcerer religious organization in the Jujutsu Kaisen world that worships the immortal sorcerer Master Tengen as their deity"
-    }, 
+        "description": "A non-sorcerer religious organization in the Jujutsu Kaisen world that worships the immortal sorcerer Master Tengen as their deity",
+        "image": "/affiliations/9.webp"
+    },
     "10": {
         "id": 10,
         "name": "Q",
@@ -88,8 +97,9 @@
         "controlled_by": null,
         "location": "Japan",
         "location_data": "covert operations, no fixed base",
-        "description": "An association with the goal of making Tengen lose all reason and thus reversing the current world of jujutsu."
-    }, 
+        "description": "An association with the goal of making Tengen lose all reason and thus reversing the current world of jujutsu.",
+        "image": "/affiliations/10.webp"
+    },
     "11": {
         "id": 11,
         "name": "Jujutsu Headquarters ",
@@ -97,8 +107,9 @@
         "controlled_by": null,
         "location": "Tokyo",
         "location_data": "No exact location",
-        "description": "The high council of sorcery in Japan, overseeing all jujutsu activities and schools."
-    }, 
+        "description": "The high council of sorcery in Japan, overseeing all jujutsu activities and schools.",
+        "image": "/affiliations/11.webp"
+    },
     "12": {
         "id": 12,
         "name": "Culling Games",
@@ -106,8 +117,9 @@
         "controlled_by": 199,
         "location": "Colony Locations",
         "location_data": "Tokyo (with Colonies No. 1 and No. 2), the Sendai Colony, and the Sakurajima Colony (in Kagoshima Prefecture).",
-        "description": "A macabre competition where sorcerers and non-sorcerers fight in a battle royale across Japan, with the goal of accumulating negative energy so that Kenjaku can transcend humanity."
-    }, 
+        "description": "A macabre competition where sorcerers and non-sorcerers fight in a battle royale across Japan, with the goal of accumulating negative energy so that Kenjaku can transcend humanity.",
+        "image": "/affiliations/12.webp"
+    },
     "13": {
         "id": 13,
         "name": "Independent",
@@ -115,8 +127,9 @@
         "controlled_by": null,
         "location": "No location",
         "location_data": "No location data",
-        "description": "Sorcerers, cursed users, or non-cursed users who work alone"
-    }, 
+        "description": "Sorcerers, cursed users, or non-cursed users who work alone",
+        "image": "/affiliations/13.webp"
+    },
     "14": {
         "id": 14,
         "name": "Sukuna's Followers",
@@ -124,8 +137,9 @@
         "controlled_by": 20,
         "location": "Japan",
         "location_data": "Exact location undisclosed",
-        "description": "They seek to restore Sukuna to its former glory and “golden age.”"
-    }, 
+        "description": "They seek to restore Sukuna to its former glory and “golden age.”",
+        "image": "/affiliations/14.webp"
+    },
     "15": {
         "id": 15,
         "name": "Gachinko Fight Club",
@@ -133,8 +147,9 @@
         "controlled_by": 18,
         "location": "Tochigi",
         "location_data": "Tochigi Prefecture, Exact location undisclosed",
-        "description": "It is a place where sorcerers can earn money through combat and betting."
-    }, 
+        "description": "It is a place where sorcerers can earn money through combat and betting.",
+        "image": "/affiliations/15.webp"
+    },
     "16": {
         "id": 16,
         "name": "Kenjaku's Group",
@@ -142,8 +157,9 @@
         "controlled_by": 21,
         "location": "Tokyo",
         "location_data": "Exact location undisclosed",
-        "description": "They seek to force the evolution of humanity through the optimization of cursed energy and fusion with Master Tengen."
-    }, 
+        "description": "They seek to force the evolution of humanity through the optimization of cursed energy and fusion with Master Tengen.",
+        "image": "/affiliations/16.webp"
+    },
     "17": {
         "id": 17,
         "name": "The Hei",
@@ -151,8 +167,9 @@
         "controlled_by": 43,
         "location": "Zenin family estate",
         "location_data": "Tokyo, exact location undisclosed",
-        "description": "Elite Zenin unit, semi–grade 1 or higher, strongest clan group."
-    }, 
+        "description": "Elite Zenin unit, semi–grade 1 or higher, strongest clan group.",
+        "image": "/affiliations/17.webp"
+    },
     "18": {
         "id": 18,
         "name": "Kukuru Unit",
@@ -160,8 +177,9 @@
         "controlled_by": 81,
         "location": "Zenin family estate",
         "location_data": "Tokyo, exact location undisclosed",
-        "description": "Zenin males without innate techniques, forced into harsh martial arts training."
-    }, 
+        "description": "Zenin males without innate techniques, forced into harsh martial arts training.",
+        "image": "/affiliations/18.webp"
+    },
     "19": {
         "id": 19,
         "name": "The Akashi",
@@ -169,8 +187,9 @@
         "controlled_by": null,
         "location": "Zenin family estate",
         "location_data": "Tokyo, exact location undisclosed",
-        "description": "Zenin sorcerers with techniques, but too weak to join the Hei."
-    }, 
+        "description": "Zenin sorcerers with techniques, but too weak to join the Hei.",
+        "image": "/affiliations/19.webp"
+    },
     "20": {
         "id": 20,
         "name": "Fukuoka Branch Campus",
@@ -178,8 +197,9 @@
         "controlled_by": 1005,
         "location": "Fukuoka Prefecture",
         "location_data": "Fukuoka Prefecture Jujutsu High School",
-        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters."
-    }, 
+        "description": "Educational institution in Japan dedicated to training the next generation of jujutsu masters.",
+        "image": "/affiliations/20.webp"
+    },
     "21": {
         "id": 21,
         "name": "Suguru Geto's Cursed Spirit Manipulation",
@@ -187,8 +207,9 @@
         "controlled_by": 14,
         "location": "No location",
         "location_data": "No location data",
-        "description": "The curses that form part of Geto's curse manipulation technique, ready to attack under his command whenever he wishes."
-    }, 
+        "description": "The curses that form part of Geto's curse manipulation technique, ready to attack under his command whenever he wishes.",
+        "image": "/affiliations/21.webp"
+    },
     "22": {
         "id": 22,
         "name": "Kenjaku's Cursed Spirit Manipulation",
@@ -196,7 +217,8 @@
         "controlled_by": 21,
         "location": "No Location",
         "location_data": "No location data",
-        "description": "The curses that form part of Kenjaku's curse manipulation technique, ready to attack under his command whenever he wishes."
+        "description": "The curses that form part of Kenjaku's curse manipulation technique, ready to attack under his command whenever he wishes.",
+        "image": "/affiliations/22.webp"
     },
     "23": {
         "id": 23,
@@ -205,7 +227,8 @@
         "controlled_by": null,
         "location": "No Location",
         "location_data": "No location data",
-        "description": "Was a prominent sorcerer family during the golden age of jujutsu."
+        "description": "Was a prominent sorcerer family during the golden age of jujutsu.",
+        "image": "/affiliations/23.webp"
     },
     "24": {
         "id": 24,
@@ -214,7 +237,8 @@
         "controlled_by": 64,
         "location": "No Location",
         "location_data": "No location data",
-        "description": "It was a team of assassins who lived in darkness and forsook their names."
+        "description": "It was a team of assassins who lived in darkness and forsook their names.",
+        "image": "/affiliations/24.webp"
     },
     "25": {
         "id": 25,
@@ -223,7 +247,8 @@
         "controlled_by": null,
         "location": "No Location",
         "location_data": "No location data",
-        "description": "Were another force directly serving the Fujiwara that equaled the Sun, Moon, and Stars Squad"
+        "description": "Were another force directly serving the Fujiwara that equaled the Sun, Moon, and Stars Squad",
+        "image": "/affiliations/25.webp"
     },
     "26": {
         "id": 26,
@@ -232,7 +257,8 @@
         "controlled_by": null,
         "location": "No Location",
         "location_data": "No location data",
-        "description": "Was a sorcerer family that existed during the Heian Era"
+        "description": "Was a sorcerer family that existed during the Heian Era",
+        "image": "/affiliations/26.webp"
     },
     "27": {
         "id": 27,
@@ -241,7 +267,8 @@
         "controlled_by": null,
         "location": "No Location",
         "location_data": "No location data",
-        "description": "A elite squadron of sorcerers composed of Angel and remnants of the Sugawara Clan"
+        "description": "A elite squadron of sorcerers composed of Angel and remnants of the Sugawara Clan",
+        "image": "/affiliations/27.webp"
     },
     "28": {
         "id": 28,
@@ -250,7 +277,8 @@
         "controlled_by": null,
         "location": "No Location",
         "location_data": "No location data",
-        "description": "Was a sorcerer family that existed during the golden age of jujutsu."
+        "description": "Was a sorcerer family that existed during the golden age of jujutsu.",
+        "image": "/affiliations/28.webp"
     }
   }
 }

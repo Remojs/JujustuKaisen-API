@@ -4,67 +4,78 @@
         "id": 1,
         "name": "Cursed Child Arc",
         "manga": "Ch0",
-        "anime": "Jujutsu Kaisen 0: The Movie"
+        "anime": "Jujutsu Kaisen 0: The Movie",
+        "image": "/arcs/1.webp"
     },
     "2": {
         "id": 2,
         "name": "Fearsome Womb Arc",
         "manga": "Ch1-18",
-        "anime": "Ep1-8"
+        "anime": "Ep1-8",
+        "image": "/arcs/2.webp"
     },
     "3": {
         "id": 3,
         "name": "Vs. Mahito Arc",
         "manga": "Ch19-31",
-        "anime": "Ep9-13"
+        "anime": "Ep9-13",
+        "image": "/arcs/3.webp"
     },
     "4": {
         "id": 4,
         "name": "Kyoto Goodwill Event Arc",
         "manga": "Ch32-54",
-        "anime": "Ep14-21"
+        "anime": "Ep14-21",
+        "image": "/arcs/4.webp"
     },
     "5": {
         "id": 5,
         "name": "Death Painting Arc",
         "manga": "Ch55-64",
-        "anime": "Ep22-24"
+        "anime": "Ep22-24",
+        "image": "/arcs/5.webp"
     },
     "6": {
         "id": 6,
         "name": "Gojo's Past Arc",
         "manga": "Ch65-79",
-        "anime": "Ep25-29"
+        "anime": "Ep25-29",
+        "image": "/arcs/6.webp"
     },
     "7": {
         "id": 7,
         "name": "Shibuya Incident Arc",
         "manga": "Ch79-136",
-        "anime": "Ep30-47"
+        "anime": "Ep30-47",
+        "image": "/arcs/7.webp"
     },
     "8": {
         "id": 8,
         "name": "Itadori's Extermination Arc",
         "manga": "Ch137-143",
-        "anime": "Ep47"
+        "anime": "Ep47",
+        "image": "/arcs/8.webp"
     },
     "9": {
         "id": 9,
         "name": "Perfect Preparation Arc",
         "manga": "Ch144-158",
-        "anime": null
+        "anime": null,
+        "image": "/arcs/9.webp"
     },
     "10": {
         "id": 10,
         "name": "Culling Game Arc",
         "manga": "Ch159-221",
-        "anime": null
+        "anime": null,
+        "image": "/arcs/10.webp"
     },
     "11": {
         "id": 11,
         "name": "Shinjuku Showdown Arc",
         "manga": "Ch222-271",
-        "anime": null
+        "anime": null,
+        "image": "/arcs/11.webp"
     }
   }
 }

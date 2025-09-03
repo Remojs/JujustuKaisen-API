@@ -9,7 +9,8 @@
         "mangachapters_adapted": "Ch0",
         "air_date": "December 24, 2021",
         "opening_theme": null,
-        "ending_theme": null
+        "ending_theme": null,
+        "image": "/animeEpisodes/1.webp"
     },
     "2": {
         "id": 2,
@@ -20,7 +21,8 @@
         "mangachapters_adapted": "Ch1 - Ch2",
         "air_date": "October 3, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": null
+        "ending_theme": null,
+        "image": "/animeEpisodes/2.webp"
     },
     "3": {
         "id": 3,
@@ -31,7 +33,8 @@
         "mangachapters_adapted": "Ch2 - Ch3",
         "air_date": "October 10, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/3.webp"
     },
     "4": {
         "id": 4,
@@ -42,7 +45,8 @@
         "mangachapters_adapted": "Ch4 - Ch5",
         "air_date": "October 17, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/4.webp"
     },
     "5": {
         "id": 5,
@@ -53,7 +57,8 @@
         "mangachapters_adapted": "Ch6 - Ch7 - Ch8",
         "air_date": "October 24, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/5.webp"
     },
     "6": {
         "id": 6,
@@ -64,7 +69,8 @@
         "mangachapters_adapted": "Ch8 - Ch9 - Ch10",
         "air_date": "October 31, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/6.webp"
     },
     "7": {
         "id": 7,
@@ -75,7 +81,8 @@
         "mangachapters_adapted": "Ch10 - Ch11 - Ch12 - Ch13",
         "air_date": "November 7, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/7.webp"
     },
     "8": {
         "id": 8,
@@ -86,7 +93,8 @@
         "mangachapters_adapted": "Ch13 - Ch14 - Ch15 - Ch16",
         "air_date": "November 14, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/8.webp"
     },
     "9": {
         "id": 9,
@@ -97,7 +105,8 @@
         "mangachapters_adapted": "Ch16 - Ch17 - Ch18",
         "air_date": "November 21, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/9.webp"
     },
     "10": {
         "id": 10,
@@ -108,7 +117,8 @@
         "mangachapters_adapted": "Ch19 - Ch20 - Ch21",
         "air_date": "November 28, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/10.webp"
     },
     "11": {
         "id": 11,
@@ -119,7 +129,8 @@
         "mangachapters_adapted": "Ch21 - Ch22 - Ch23",
         "air_date": "December 5, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/11.webp"
     },
     "12": {
         "id": 12,
@@ -130,7 +141,8 @@
         "mangachapters_adapted": "Ch23 - Ch24 - Ch25",
         "air_date": "December 12, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/12.webp"
     },
     "13": {
         "id": 13,
@@ -141,7 +153,8 @@
         "mangachapters_adapted": "Ch26 - Ch27 - Ch28 - Ch29",
         "air_date": "December 19, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/13.webp"
     },
     "14": {
         "id": 14,
@@ -152,7 +165,8 @@
         "mangachapters_adapted": "Ch29 - Ch30 - Ch31",
         "air_date": "December 26, 2020",
         "opening_theme": "Kaikai Kitan",
-        "ending_theme": "Lost in Paradise"
+        "ending_theme": "Lost in Paradise",
+        "image": "/animeEpisodes/14.webp"
     },
     "15": {
         "id": 15,
@@ -163,7 +177,8 @@
         "mangachapters_adapted": "Ch32 - Ch33",
         "air_date": "January 16, 2021",
         "opening_theme": "Vivid Vice",
-        "ending_theme": "Give it Back"
+        "ending_theme": "Give it Back",
+        "image": "/animeEpisodes/15.webp"
     },
     "16": {
         "id": 16,
@@ -174,7 +189,8 @@
         "mangachapters_adapted": "Ch34 - Ch35 - Ch36",
         "air_date": "January 23, 2021",
         "opening_theme": "Vivid Vice",
-        "ending_theme": "Give it Back"
+        "ending_theme": "Give it Back",
+        "image": "/animeEpisodes/16.webp"
     },
     "17": {
         "id": 17,
@@ -185,7 +201,8 @@
         "mangachapters_adapted": "Ch37 - Ch38 - Ch39",
         "air_date": "January 30, 2021",
         "opening_theme": "Vivid Vice",
-        "ending_theme": "Give it Back"
+        "ending_theme": "Give it Back",
+        "image": "/animeEpisodes/17.webp"
     },
     "18": {
         "id": 18,
@@ -196,7 +213,8 @@
         "mangachapters_adapted": "Ch40 - Ch41 - Ch42",
         "air_date": "February 6, 2021",
         "opening_theme": "Vivid Vice",
-        "ending_theme": "Give it Back"
+        "ending_theme": "Give it Back",
+        "image": "/animeEpisodes/18.webp"
     },
     "19": {
         "id": 19,
@@ -207,7 +225,8 @@
         "mangachapters_adapted": "Ch43 - Ch44 - Ch45 - Ch46",
         "air_date": "February 13, 2021",
         "opening_theme": "Vivid Vice",
-        "ending_theme": "Give it Back"
+        "ending_theme": "Give it Back",
+        "image": "/animeEpisodes/19.webp"
     },
     "20": {
       "id": 20,
@@ -218,7 +237,8 @@
       "mangachapters_adapted": "Ch46 - Ch47 - Ch48 - Ch49",
       "air_date": "February 20, 2021",
       "opening_theme": "Vivid Vice",
-      "ending_theme": "Give it Back"
+      "ending_theme": "Give it Back",
+      "image": "/animeEpisodes/20.webp"
     },
     "21": {
       "id": 21,
@@ -229,7 +249,8 @@
       "mangachapters_adapted": "Ch50 - Ch51 - Ch52",
       "air_date": "February 27, 2021",
       "opening_theme": "Vivid Vice",
-      "ending_theme": "Give it Back"
+      "ending_theme": "Give it Back",
+      "image": "/animeEpisodes/21.webp"
     },
     "22": {
       "id": 22,
@@ -240,7 +261,8 @@
       "mangachapters_adapted": "Ch53 - Ch54",
       "air_date": "March 6, 2021",
       "opening_theme": "Vivid Vice",
-      "ending_theme": "Give it Back"
+      "ending_theme": "Give it Back",
+      "image": "/animeEpisodes/22.webp"
     },
     "23": {
       "id": 23,
@@ -251,7 +273,8 @@
       "mangachapters_adapted": "Ch55 - Ch56",
       "air_date": "March 13, 2021",
       "opening_theme": "Vivid Vice",
-      "ending_theme": "Give it Back"
+      "ending_theme": "Give it Back",
+      "image": "/animeEpisodes/23.webp"
     },
     "24": {
       "id": 24,
@@ -262,7 +285,8 @@
       "mangachapters_adapted": "Ch57 - Ch58 - Ch59",
       "air_date": "March 20, 2021",
       "opening_theme": "Vivid Vice",
-      "ending_theme": "Give it Back"
+      "ending_theme": "Give it Back",
+      "image": "/animeEpisodes/24.webp"
     },
     "25": {
       "id": 25,
@@ -273,7 +297,8 @@
       "mangachapters_adapted": "Ch60 - Ch61 - Ch62 - Ch63",
       "air_date": "March 27, 2021",
       "opening_theme": "Vivid Vice",
-      "ending_theme": "Give it Back"
+      "ending_theme": "Give it Back",
+      "image": "/animeEpisodes/25.webp"
     },
     "26": {
       "id": 26,
@@ -284,7 +309,8 @@
       "mangachapters_adapted": "Ch65 - Ch66",
       "air_date": "July 6, 2023",
       "opening_theme": "Ao no Sumika",
-      "ending_theme": "Akari"
+      "ending_theme": "Akari",
+      "image": "/animeEpisodes/26.webp"
     },
     "27": {
       "id": 27,
@@ -295,7 +321,8 @@
       "mangachapters_adapted": "Ch67 - Ch68 - Ch69",
       "air_date": "July 13, 2023",
       "opening_theme": "Ao no Sumika",
-      "ending_theme": "Akari"
+      "ending_theme": "Akari",
+      "image": "/animeEpisodes/27.webp"
     },
     "28": {
       "id": 28,
@@ -306,7 +333,8 @@
       "mangachapters_adapted": "Ch70 - Ch71 - Ch72",
       "air_date": "July 20, 2023",
       "opening_theme": "Ao no Sumika",
-      "ending_theme": "Akari"
+      "ending_theme": "Akari",
+      "image": "/animeEpisodes/28.webp"
     },
     "29": {
       "id": 29,
@@ -317,7 +345,8 @@
       "mangachapters_adapted": "Ch73 - Ch74 - Ch75 - Ch76",
       "air_date": "July 27, 2023",
       "opening_theme": "Ao no Sumika",
-      "ending_theme": "Akari"
+      "ending_theme": "Akari",
+      "image": "/animeEpisodes/29.webp"
     },
     "30": {
       "id": 30,
@@ -328,7 +357,8 @@
       "mangachapters_adapted": "Ch76 - Ch77 - Ch78 - Ch79",
       "air_date": "August 3, 2023",
       "opening_theme": "Ao no Sumika",
-      "ending_theme": "Akari"
+      "ending_theme": "Akari",
+      "image": "/animeEpisodes/30.webp"
     },
     "31": {
       "id": 31,
@@ -339,7 +369,8 @@
       "mangachapters_adapted": "Ch79 - Ch80",
       "air_date": "August 31, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/31.webp"
     },
     "32": {
       "id": 32,
@@ -350,7 +381,8 @@
       "mangachapters_adapted": "Ch80 - Ch81 - Ch82 - Ch83",
       "air_date": "September 7, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/32.webp"
     },
     "33": {
       "id": 33,
@@ -361,7 +393,8 @@
       "mangachapters_adapted": "Ch83 - Ch84 - Ch85 - Ch86 - Ch87 - Ch88",
       "air_date": "September 14, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/33.webp"
     },
     "34": {
       "id": 34,
@@ -372,7 +405,8 @@
       "mangachapters_adapted": "Ch88 - Ch89 - Ch90 - Ch91",
       "air_date": "September 21, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/34.webp"
     },
     "35": {
       "id": 35,
@@ -383,7 +417,8 @@
       "mangachapters_adapted": "Ch90 - Ch91 - Ch92 - Ch93",
       "air_date": "September 28, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/35.webp"
     },
     "36": {
       "id": 36,
@@ -394,7 +429,8 @@
       "mangachapters_adapted": "Ch94 - Ch95 - Ch96 - Ch97",
       "air_date": "October 5, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/36.webp"
     },
     "37": {
       "id": 37,
@@ -405,7 +441,8 @@
       "mangachapters_adapted": "Ch98 - Ch99 - Ch100 - Ch101",
       "air_date": "October 12, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/37.webp"
     },
     "38": {
       "id": 38,
@@ -416,7 +453,8 @@
       "mangachapters_adapted": "Ch100 - Ch101 - Ch102 - Ch103 - Ch104 - Ch105 - Ch106",
       "air_date": "October 19, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/38.webp"
     },
     "39": {
       "id": 39,
@@ -427,7 +465,8 @@
       "mangachapters_adapted": "Ch106 - Ch107 - Ch108 - Ch109",
       "air_date": "October 26, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/39.webp"
     },
     "40": {
       "id": 40,
@@ -438,7 +477,8 @@
       "mangachapters_adapted": "Ch109 - Ch110 - Ch111 - Ch112",
       "air_date": "November 2, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/40.webp"
     },
     "41": {
       "id": 41,
@@ -449,7 +489,8 @@
       "mangachapters_adapted": "Ch113 - Ch114 - Ch115 - Ch116",
       "air_date": "November 9, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/41.webp"
     },
     "42": {
       "id": 42,
@@ -460,7 +501,8 @@
       "mangachapters_adapted": "Ch117 - Ch118 - Ch119 - Ch120",
       "air_date": "November 16, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/42.webp"
     },
     "43": {
       "id": 43,
@@ -471,7 +513,8 @@
       "mangachapters_adapted": "Ch120 - Ch121 - Ch122",
       "air_date": "November 23, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/43.webp"
     },
     "44": {
       "id": 44,
@@ -482,7 +525,8 @@
       "mangachapters_adapted": "Ch123 - Ch124 - Ch125",
       "air_date": "November 30, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/44.webp"
     },
     "45": {
       "id": 45,
@@ -493,7 +537,8 @@
       "mangachapters_adapted": "Ch126 - Ch127 - Ch128",
       "air_date": "December 7, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/45.webp"
     },
     "46": {
       "id": 46,
@@ -504,7 +549,8 @@
       "mangachapters_adapted": "Ch129 - Ch130 - Ch131 - Ch132",
       "air_date": "December 14, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/46.webp"
     },
     "47": {
       "id": 47,
@@ -515,7 +561,8 @@
       "mangachapters_adapted": "Ch133 - Ch134 - Ch135",
       "air_date": "December 21, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/47.webp"
     },
     "48": {
       "id": 48,
@@ -526,7 +573,8 @@
       "mangachapters_adapted": "Ch136 - Ch137 - Ch138",
       "air_date": "December 28, 2023",
       "opening_theme": "SpecialZ",
-      "ending_theme": "More Than Words"
+      "ending_theme": "More Than Words",
+      "image": "/animeEpisodes/48.webp"
     }
   }
 }
