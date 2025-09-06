@@ -152,6 +152,15 @@
             "range": "Enclosed barrier (surrounding area)",
             "Type": "Simple Domain",
             "description": "Forces a non-violence vow until her question is answered, after which she attacks with conjured scissors."
+        },
+        "18": {
+            "id": 18,
+            "image": "/domainExpansions/18.webp",
+            "name": "Miyo’s Simple Domain",
+            "user": 102,
+            "range": "Enclosed barrier (surrounding area)",
+            "Type": "Simple Domain",
+            "description": "Rokujushi's simple domain is conjured purely for the purpose of engaging in sumo wrestling and includes a barrier focused on nothing else."
         }
     }
 }
