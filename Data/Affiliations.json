@@ -2,7 +2,7 @@
   "affiliations": {
     "1": {
         "id": 1,
-        "name": "Tokyo Jujutsu High",
+        "affiliation_name": "Tokyo Jujutsu High",
         "type": "Jujutsu School",
         "controlled_by": 9,
         "location": "Tokyo Prefecture",
@@ -12,7 +12,7 @@
     },
     "2": {
         "id": 2,
-        "name": "Kyoto Jujutsu High",
+        "affiliation_name": "Kyoto Jujutsu High",
         "type": "Jujutsu School",
         "controlled_by": 38,
         "location": "Kyoto Prefecture",
@@ -22,7 +22,7 @@
     },
     "3": {
         "id": 3,
-        "name": "Zenin Clan",
+        "affiliation_name": "Zenin Clan",
         "type": "Sorcerer Clan (Big Three)",
         "controlled_by": 42,
         "location": "Tokyo",
@@ -32,7 +32,7 @@
     },
     "4": {
         "id": 4,
-        "name": "Gojo Clan",
+        "affiliation_name": "Gojo Clan",
         "type": "Sorcerer Clan (Big Three)",
         "controlled_by": 4,
         "location": "Tokyo",
@@ -42,7 +42,7 @@
     },
     "5": {
         "id": 5,
-        "name": "Kamo Clan",
+        "affiliation_name": "Kamo Clan",
         "type": "Sorcerer Clan (Big Three)",
         "controlled_by": 32,
         "location": "Kyoto",
@@ -52,7 +52,7 @@
     },
     "6": {
         "id": 6,
-        "name": "Inumaki Clan",
+        "affiliation_name": "Inumaki Clan",
         "type": "Sorcerer Clan",
         "controlled_by": null,
         "location": "Japan",
@@ -62,7 +62,7 @@
     },
     "7": {
         "id": 7,
-        "name": "Suguru Geto’s Group ",
+        "affiliation_name": "Suguru Geto’s Group ",
         "type": "Curse User Group",
         "controlled_by": 14,
         "location": "Various",
@@ -72,7 +72,7 @@
     },
     "8": {
         "id": 8,
-        "name": "Mahito’s Group",
+        "affiliation_name": "Mahito’s Group",
         "type": "Cursed Spirit Group",
         "controlled_by": 22,
         "location": "Various",
@@ -82,7 +82,7 @@
     },
     "9": {
         "id": 9,
-        "name": "Time Vessel Association ",
+        "affiliation_name": "Time Vessel Association ",
         "type": "Religious Cult",
         "controlled_by": null,
         "location": "House of the Children of the Star",
@@ -92,7 +92,7 @@
     },
     "10": {
         "id": 10,
-        "name": "Q",
+        "affiliation_name": "Q",
         "type": "Curse User Organization",
         "controlled_by": null,
         "location": "Japan",
@@ -102,7 +102,7 @@
     },
     "11": {
         "id": 11,
-        "name": "Jujutsu Headquarters ",
+        "affiliation_name": "Jujutsu Headquarters ",
         "type": "High Council",
         "controlled_by": null,
         "location": "Tokyo",
@@ -112,8 +112,8 @@
     },
     "12": {
         "id": 12,
-        "name": "Culling Games",
-        "type": "Tournament",
+        "affiliation_name": "Culling Games",
+        "type": "Touraffiliation_nament",
         "controlled_by": 199,
         "location": "Colony Locations",
         "location_data": "Tokyo (with Colonies No. 1 and No. 2), the Sendai Colony, and the Sakurajima Colony (in Kagoshima Prefecture).",
@@ -122,7 +122,7 @@
     },
     "13": {
         "id": 13,
-        "name": "Independent",
+        "affiliation_name": "Independent",
         "type": "No Affiliation",
         "controlled_by": null,
         "location": "No location",
@@ -132,7 +132,7 @@
     },
     "14": {
         "id": 14,
-        "name": "Sukuna's Followers",
+        "affiliation_name": "Sukuna's Followers",
         "type": "Cursed Spirit Group",
         "controlled_by": 20,
         "location": "Japan",
@@ -142,7 +142,7 @@
     },
     "15": {
         "id": 15,
-        "name": "Gachinko Fight Club",
+        "affiliation_name": "Gachinko Fight Club",
         "type": "Ilegal Club",
         "controlled_by": 18,
         "location": "Tochigi",
@@ -152,7 +152,7 @@
     },
     "16": {
         "id": 16,
-        "name": "Kenjaku's Group",
+        "affiliation_name": "Kenjaku's Group",
         "type": "Cursed Spirit Group",
         "controlled_by": 21,
         "location": "Tokyo",
@@ -162,7 +162,7 @@
     },
     "17": {
         "id": 17,
-        "name": "The Hei",
+        "affiliation_name": "The Hei",
         "type": "Zenin Clan Unit",
         "controlled_by": 43,
         "location": "Zenin family estate",
@@ -172,7 +172,7 @@
     },
     "18": {
         "id": 18,
-        "name": "Kukuru Unit",
+        "affiliation_name": "Kukuru Unit",
         "type": "Zenin Clan Unit",
         "controlled_by": 81,
         "location": "Zenin family estate",
@@ -182,7 +182,7 @@
     },
     "19": {
         "id": 19,
-        "name": "The Akashi",
+        "affiliation_name": "The Akashi",
         "type": "Zenin Clan Unit",
         "controlled_by": null,
         "location": "Zenin family estate",
@@ -192,7 +192,7 @@
     },
     "20": {
         "id": 20,
-        "name": "Fukuoka Branch Campus",
+        "affiliation_name": "Fukuoka Branch Campus",
         "type": "Jujutsu School",
         "controlled_by": 1005,
         "location": "Fukuoka Prefecture",
@@ -202,7 +202,7 @@
     },
     "21": {
         "id": 21,
-        "name": "Suguru Geto's Cursed Spirit Manipulation",
+        "affiliation_name": "Suguru Geto's Cursed Spirit Manipulation",
         "type": "Cursed Technique",
         "controlled_by": 14,
         "location": "No location",
@@ -212,7 +212,7 @@
     },
     "22": {
         "id": 22,
-        "name": "Kenjaku's Cursed Spirit Manipulation",
+        "affiliation_name": "Kenjaku's Cursed Spirit Manipulation",
         "type": "Cursed Technique",
         "controlled_by": 21,
         "location": "No Location",
@@ -222,7 +222,7 @@
     },
     "23": {
         "id": 23,
-        "name": "Fujiwara Clan",
+        "affiliation_name": "Fujiwara Clan",
         "type": "Ancient Sorcerer Clan",
         "controlled_by": null,
         "location": "No Location",
@@ -232,17 +232,17 @@
     },
     "24": {
         "id": 24,
-        "name": "Sun, Moon, and Stars Squad",
+        "affiliation_name": "Sun, Moon, and Stars Squad",
         "type": "Sorcerer Clan Unit",
         "controlled_by": 64,
         "location": "No Location",
         "location_data": "No location data",
-        "description": "It was a team of assassins who lived in darkness and forsook their names.",
+        "description": "It was a team of assassins who lived in darkness and forsook their affiliation_names.",
         "image": "/affiliations/24.webp"
     },
     "25": {
         "id": 25,
-        "name": "The Five Empty Generals",
+        "affiliation_name": "The Five Empty Generals",
         "type": "Sorcerer Clan Unit",
         "controlled_by": null,
         "location": "No Location",
@@ -252,7 +252,7 @@
     },
     "26": {
         "id": 26,
-        "name": "Abe Clan",
+        "affiliation_name": "Abe Clan",
         "type": "Ancient Sorcerer Clan",
         "controlled_by": null,
         "location": "No Location",
@@ -262,7 +262,7 @@
     },
     "27": {
         "id": 27,
-        "name": "Desshi Pacification Squad",
+        "affiliation_name": "Desshi Pacification Squad",
         "type": "Sorcerer Clan Unit",
         "controlled_by": null,
         "location": "No Location",
@@ -272,7 +272,7 @@
     },
     "28": {
         "id": 28,
-        "name": "Sugawara Clan",
+        "affiliation_name": "Sugawara Clan",
         "type": "Ancient Sorcerer Clan",
         "controlled_by": null,
         "location": "No Location",

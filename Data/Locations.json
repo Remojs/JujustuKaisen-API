@@ -399,6 +399,14 @@
             "description": "The airport in Okinawa used by Gojo’s group during the escort of Riko Amanai before returning to Tokyo.",
             "events":  null,
             "image": "/locations/50.webp"
+        },
+        "51": {
+            "id": 51, 
+            "location_name": "Suguru Geto's Family Temple",
+            "located_in": "Shinjuku",
+            "description": "The place where Geto and his group hid to plan the extinction of non-jujutsu humans",
+            "events":  null,
+            "image": "/locations/51.webp"
         }
     }
 }
