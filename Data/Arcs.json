@@ -4,56 +4,56 @@
         "id": 1,
         "name": "Cursed Child Arc",
         "manga": "Ch0",
-        "anime": "Jujutsu Kaisen 0: The Movie",
+        "anime": [1],
         "image": "/arcs/1.webp"
     },
     "2": {
         "id": 2,
         "name": "Fearsome Womb Arc",
         "manga": "Ch1-18",
-        "anime": "Ep1-8",
+        "anime": [2, 3, 4, 5, 6, 7, 8, 9],
         "image": "/arcs/2.webp"
     },
     "3": {
         "id": 3,
         "name": "Vs. Mahito Arc",
         "manga": "Ch19-31",
-        "anime": "Ep9-13",
+        "anime": [10, 11, 12, 13, 14],
         "image": "/arcs/3.webp"
     },
     "4": {
         "id": 4,
         "name": "Kyoto Goodwill Event Arc",
         "manga": "Ch32-54",
-        "anime": "Ep14-21",
+        "anime": [15, 16, 17, 18, 19, 20, 21, 22],
         "image": "/arcs/4.webp"
     },
     "5": {
         "id": 5,
         "name": "Death Painting Arc",
         "manga": "Ch55-64",
-        "anime": "Ep22-24",
+        "anime": [23, 24, 25],
         "image": "/arcs/5.webp"
     },
     "6": {
         "id": 6,
         "name": "Gojo's Past Arc",
         "manga": "Ch65-79",
-        "anime": "Ep25-29",
+        "anime": [26, 27, 28, 29, 30],
         "image": "/arcs/6.webp"
     },
     "7": {
         "id": 7,
         "name": "Shibuya Incident Arc",
         "manga": "Ch79-136",
-        "anime": "Ep30-47",
+        "anime": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47],
         "image": "/arcs/7.webp"
     },
     "8": {
         "id": 8,
         "name": "Itadori's Extermination Arc",
         "manga": "Ch137-143",
-        "anime": "Ep47",
+        "anime": [48],
         "image": "/arcs/8.webp"
     },
     "9": {
