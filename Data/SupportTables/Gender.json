@@ -1,7 +1,0 @@
-{
-  "gender": {
-    "1": {"id": 1,"gender": "Male"},
-    "2": {"id": 2,"gender": "Female"},
-    "3": {"id": 3,"gender": "Genderless"}
-  }
-}
