@@ -18,7 +18,7 @@ return new class extends Migration
             $table->string('season', 50)->nullable();
             $table->string('title', 255);
             $table->string('mangachapters_adapted', 100)->nullable();
-            $table->string('air_date', 50)->nullable();
+            $table->date('air_date')->nullable();
             $table->string('opening_theme', 255)->nullable();
             $table->string('ending_theme', 255)->nullable();
             $table->string('image')->nullable();

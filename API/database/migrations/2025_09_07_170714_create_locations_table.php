@@ -16,12 +16,14 @@ return new class extends Migration
             $table->string('location_name', 255);
             $table->string('located_in', 255)->nullable();
             $table->text('description')->nullable();
+            $table->foreignId('events')->nullable()->constrained('battles'); // ID del Battle
             $table->string('image')->nullable();
             $table->timestamps();
             
             // Index para búsquedas
             $table->index('location_name');
             $table->index('located_in');
+            $table->index('events');
         });
     }
 

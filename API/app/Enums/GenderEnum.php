@@ -6,14 +6,14 @@ enum GenderEnum: int
 {
     case MALE = 1;
     case FEMALE = 2;
-    case UNKNOWN = 3;
+    case GENDERLESS = 3;
 
     public function label(): string
     {
         return match($this) {
             self::MALE => 'Male',
             self::FEMALE => 'Female',
-            self::UNKNOWN => 'Unknown',
+            self::GENDERLESS => 'Genderless',
         };
     }
 
@@ -22,7 +22,7 @@ enum GenderEnum: int
         return match($value) {
             1 => self::MALE,
             2 => self::FEMALE,
-            3 => self::UNKNOWN,
+            3 => self::GENDERLESS,
             default => null,
         };
     }
@@ -32,7 +32,7 @@ enum GenderEnum: int
         return [
             self::MALE->value => self::MALE->label(),
             self::FEMALE->value => self::FEMALE->label(),
-            self::UNKNOWN->value => self::UNKNOWN->label(),
+            self::GENDERLESS->value => self::GENDERLESS->label(),
         ];
     }
 }

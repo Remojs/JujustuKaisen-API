@@ -13,15 +13,17 @@ return new class extends Migration
     {
         Schema::create('cursed_tools', function (Blueprint $table) {
             $table->id();
+            $table->string('image')->nullable();
             $table->string('name', 255);
             $table->string('type', 100);
+            $table->foreignId('owners')->nullable()->constrained('characters'); // ID del Character
             $table->text('description');
-            $table->string('image')->nullable();
             $table->timestamps();
             
             // Index para búsquedas
             $table->index('name');
             $table->index('type');
+            $table->index('owners');
         });
     }
 

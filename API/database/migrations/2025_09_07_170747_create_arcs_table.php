@@ -15,6 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('name', 255);
             $table->string('manga', 100)->nullable();
+            $table->json('anime')->nullable(); // Array de IDs de AnimeEpisode
             $table->string('image')->nullable();
             $table->timestamps();
             

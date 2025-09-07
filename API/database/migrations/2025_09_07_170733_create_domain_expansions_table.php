@@ -13,17 +13,18 @@ return new class extends Migration
     {
         Schema::create('domain_expansions', function (Blueprint $table) {
             $table->id();
-            $table->string('name', 255);
-            $table->unsignedBigInteger('user'); // FK a characters
-            $table->string('range', 255)->nullable();
-            $table->string('type', 100)->default('Domain Expansion');
-            $table->text('description');
             $table->string('image')->nullable();
+            $table->string('name', 255);
+            $table->foreignId('user')->constrained('characters'); // ID del Character
+            $table->string('range', 255)->nullable();
+            $table->string('type', 100);
+            $table->text('description');
             $table->timestamps();
             
             // Index para búsquedas
             $table->index('name');
             $table->index('user');
+            $table->index('type');
         });
     }
 

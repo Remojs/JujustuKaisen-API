@@ -14,16 +14,17 @@ return new class extends Migration
         Schema::create('manga_volumes', function (Blueprint $table) {
             $table->id();
             $table->string('volume_number', 10);
-            $table->string('title', 255);
-            $table->string('release_date', 50)->nullable();
-            $table->text('description')->nullable();
+            $table->string('volume_name', 255);
+            $table->date('release_date')->nullable();
+            $table->integer('pages');
             $table->string('chapters', 100)->nullable();
-            $table->string('image')->nullable();
+            $table->string('cover_character', 255)->nullable();
             $table->timestamps();
             
             // Index para búsquedas
             $table->index('volume_number');
-            $table->index('title');
+            $table->index('volume_name');
+            $table->index('cover_character');
         });
     }
 
