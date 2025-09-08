@@ -14,44 +14,38 @@ class Character extends Model
     use HasFactory;
 
     protected $fillable = [
-        'character_name',
-        'series',
-        'age',
+        'id',
+        'name',
+        'alias',
+        'speciesId',
         'birthday',
         'height',
-        'weight',
-        'species',
-        'speciesId',
-        'occupation',
-        'grade',
-        'clan',
-        'origin',
-        'affiliation',
-        'affiliationId',
+        'age',
         'gender',
+        'occupationId',
+        'affiliationId',
+        'animeDebut',
+        'mangaDebut',
+        'cursedTechniquesIds',
+        'gradeId',
+        'domainExpansionId',
+        'battlesId',
+        'cursedToolId',
         'status',
-        'abilities',
-        'domain_expansion',
-        'cursed_technique',
-        'cursed_energy_nature',
-        'personality',
-        'appearance',
-        'background',
         'relatives',
-        'first_appearance_manga',
-        'first_appearance_anime',
-        'voice_actors',
-        'quote',
         'image'
     ];
 
     protected $casts = [
-        'occupation' => 'array',
-        'abilities' => 'array',
+        'alias' => 'array',
+        'occupationId' => 'array',
+        'affiliationId' => 'array',
+        'cursedTechniquesIds' => 'array',
+        'battlesId' => 'array',
+        'cursedToolId' => 'array',
         'relatives' => 'array',
-        'voice_actors' => 'array',
-        'gender' => GenderEnum::class,
-        'status' => StatusEnum::class
+        'gender' => 'integer',
+        'status' => 'integer'
     ];
 
     // Relationship: speciesId -> Species
