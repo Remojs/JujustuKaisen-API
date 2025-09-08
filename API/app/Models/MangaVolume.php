@@ -9,51 +9,19 @@ class MangaVolume extends Model
 {
     use HasFactory;
 
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array<int, string>
-     */
     protected $fillable = [
-        'title',
         'volume_number',
-        'release_date',
+        'title',
         'chapters',
+        'arc',
         'cover_image',
-        'isbn',
-        'page_count',
-        'description',
+        'release_date'
     ];
 
-    /**
-     * The attributes that should be cast.
-     *
-     * @var array<string, string>
-     */
     protected $casts = [
-        'release_date' => 'date',
-        'chapters' => 'array',
-        'volume_number' => 'integer',
-        'page_count' => 'integer',
+        'chapters' => 'array'
     ];
-
-    /**
-     * Scope a query to search volumes by title or description.
-     */
-    public function scopeSearch($query, $search)
-    {
-        return $query->where('title', 'like', "%{$search}%")
-                    ->orWhere('description', 'like', "%{$search}%")
-                    ->orWhere('isbn', 'like', "%{$search}%");
-    }
-
-    /**
-     * Scope a query to order by volume number.
-     */
-    public function scopeInOrder($query)
-    {
-        return $query->orderBy('volume_number');
-    }
+}
 
     /**
      * Scope a query to filter by release date range.

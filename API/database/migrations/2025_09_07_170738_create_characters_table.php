@@ -14,28 +14,33 @@ return new class extends Migration
         Schema::create('characters', function (Blueprint $table) {
             $table->id();
             $table->string('name', 255);
-            $table->json('alias')->nullable(); // Array de aliases
-            $table->unsignedTinyInteger('species_id'); // Referencias SpeciesConstants
+            $table->json('alias')->nullable(); // Array de strings
+            $table->integer('speciesId'); // ID del constant de Specie
             $table->string('birthday', 50)->nullable();
-            $table->string('height', 50)->nullable();
-            $table->string('age', 10)->nullable();
-            $table->unsignedTinyInteger('gender')->nullable(); // Referencias GenderEnum
-            $table->string('anime_debut', 50)->nullable();
-            $table->string('manga_debut', 50)->nullable();
-            $table->unsignedTinyInteger('grade_id')->nullable(); // Referencias GradeConstants
-            $table->foreignId('domain_expansion_id')->nullable()->constrained('domain_expansions');
-            $table->unsignedTinyInteger('status')->nullable(); // Referencias StatusEnum
-            $table->json('relatives')->nullable(); // Array de familiares
+            $table->string('height', 20)->nullable();
+            $table->string('age', 20)->nullable();
+            $table->integer('gender'); // Enum de Gender
+            $table->json('occupationId')->nullable(); // Array de IDs de Occupation
+            $table->json('affiliationId')->nullable(); // Array de IDs de Affiliation
+            $table->string('animeDebut', 100)->nullable();
+            $table->string('mangaDebut', 100)->nullable();
+            $table->json('cursedTechniquesIds')->nullable(); // Array de IDs de CursedTechniques
+            $table->integer('gradeId')->nullable(); // ID del constant de Grade
+            $table->foreignId('domainExpansionId')->nullable()->constrained('domain_expansions');
+            $table->json('battlesId')->nullable(); // Array de IDs de Battles
+            $table->json('cursedToolId')->nullable(); // Array de IDs de CursedTool
+            $table->integer('status'); // Enum de Status
+            $table->json('relatives')->nullable(); // Array de strings
             $table->string('image')->nullable();
             $table->timestamps();
             
             // Indexes para búsquedas optimizadas
             $table->index('name');
-            $table->index('species_id');
+            $table->index('speciesId');
             $table->index('gender');
-            $table->index('grade_id');
+            $table->index('gradeId');
             $table->index('status');
-            $table->index(['species_id', 'grade_id']); // Composite index
+            $table->index(['speciesId', 'gradeId']); // Composite index
         });
     }
 

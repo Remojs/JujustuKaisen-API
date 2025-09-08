@@ -4,36 +4,25 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\BelongsToMany;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Affiliation extends Model
 {
     use HasFactory;
 
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array<int, string>
-     */
     protected $fillable = [
-        'name',
+        'affiliation_name',
+        'type',
+        'controlled_by',
+        'location',
+        'location_data',
         'description',
+        'image'
     ];
 
-    /**
-     * Get all characters with this affiliation.
-     */
-    public function characters(): BelongsToMany
+    // Relationship: controlled_by -> Character
+    public function controller(): BelongsTo
     {
-        return $this->belongsToMany(Character::class, 'character_affiliation');
-    }
-
-    /**
-     * Scope a query to search affiliations by name.
-     */
-    public function scopeSearch($query, $search)
-    {
-        return $query->where('name', 'like', "%{$search}%")
-                    ->orWhere('description', 'like', "%{$search}%");
+        return $this->belongsTo(Character::class, 'controlled_by');
     }
 }

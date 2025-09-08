@@ -16,15 +16,15 @@ return new class extends Migration
             $table->string('image')->nullable();
             $table->string('name', 255);
             $table->foreignId('user')->constrained('characters'); // ID del Character
-            $table->string('range', 255)->nullable();
-            $table->string('type', 100);
-            $table->text('description');
+            $table->string('range', 100)->nullable();
+            $table->string('Type', 100)->nullable(); // Note: mantiene la mayúscula como en dataStructure.md
+            $table->text('description')->nullable();
             $table->timestamps();
             
             // Index para búsquedas
             $table->index('name');
             $table->index('user');
-            $table->index('type');
+            $table->index('Type');
         });
     }
 

@@ -15,8 +15,8 @@ return new class extends Migration
             $table->id();
             $table->string('volume_number', 10);
             $table->string('volume_name', 255);
-            $table->date('release_date')->nullable();
-            $table->integer('pages');
+            $table->string('release_date', 50)->nullable();
+            $table->integer('pages')->nullable();
             $table->string('chapters', 100)->nullable();
             $table->string('cover_character', 255)->nullable();
             $table->timestamps();

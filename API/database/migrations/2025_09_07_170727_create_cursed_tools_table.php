@@ -16,8 +16,8 @@ return new class extends Migration
             $table->string('image')->nullable();
             $table->string('name', 255);
             $table->string('type', 100);
-            $table->foreignId('owners')->nullable()->constrained('characters'); // ID del Character
-            $table->text('description');
+            $table->foreignId('owners')->constrained('characters'); // ID del Character
+            $table->text('description')->nullable();
             $table->timestamps();
             
             // Index para búsquedas

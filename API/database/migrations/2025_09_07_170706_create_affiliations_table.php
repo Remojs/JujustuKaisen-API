@@ -15,9 +15,9 @@ return new class extends Migration
             $table->id();
             $table->string('affiliation_name', 255);
             $table->string('type', 100);
-            $table->unsignedBigInteger('controlled_by')->nullable();
+            $table->foreignId('controlled_by')->nullable()->constrained('characters');
             $table->string('location', 255)->nullable();
-            $table->text('location_data')->nullable();
+            $table->string('location_data', 255)->nullable();
             $table->text('description')->nullable();
             $table->string('image')->nullable();
             $table->timestamps();

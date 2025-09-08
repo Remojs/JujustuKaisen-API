@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('arcs', function (Blueprint $table) {
             $table->id();
             $table->string('name', 255);
-            $table->string('manga', 100)->nullable();
+            $table->string('manga', 255)->nullable();
             $table->json('anime')->nullable(); // Array de IDs de AnimeEpisode
             $table->string('image')->nullable();
             $table->timestamps();

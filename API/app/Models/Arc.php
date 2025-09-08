@@ -4,66 +4,30 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Arc extends Model
 {
     use HasFactory;
 
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array<int, string>
-     */
     protected $fillable = [
-        'name',
-        'description',
-        'manga_chapters',
-        'anime_episodes',
-        'order',
-        'status',
+        'arc_name',
+        'arctype',
+        'arc_number',
+        'arc_part',
+        'anime_season',
+        'image'
     ];
 
-    /**
-     * The attributes that should be cast.
-     *
-     * @var array<string, string>
-     */
-    protected $casts = [
-        'manga_chapters' => 'array',
-        'anime_episodes' => 'array',
-        'order' => 'integer',
-    ];
-
-    /**
-     * Get all battles in this arc.
-     */
-    public function battles()
+    // Relationship: arc -> AnimeEpisode
+    public function animeEpisodes(): HasMany
     {
-        return Battle::where('arc_name', $this->name);
+        return $this->hasMany(AnimeEpisode::class, 'arc');
     }
 
-    /**
-     * Scope a query to search arcs by name or description.
-     */
-    public function scopeSearch($query, $search)
+    // Relationship: arc -> MangaChapter
+    public function mangaChapters(): HasMany
     {
-        return $query->where('name', 'like', "%{$search}%")
-                    ->orWhere('description', 'like', "%{$search}%");
-    }
-
-    /**
-     * Scope a query to filter by status.
-     */
-    public function scopeByStatus($query, $status)
-    {
-        return $query->where('status', $status);
-    }
-
-    /**
-     * Scope a query to order by arc order.
-     */
-    public function scopeInOrder($query)
-    {
-        return $query->orderBy('order');
+        return $this->hasMany(MangaChapter::class, 'arc');
     }
 }
