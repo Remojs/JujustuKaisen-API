@@ -16,7 +16,7 @@ class ImportCharactersCommand extends Command
         $this->info('Starting character import...');
         
         // Read JSON file
-        $jsonPath = base_path('../Data/Characters.json');
+        $jsonPath = base_path('../Data/Data/Characters.json');
         if (!file_exists($jsonPath)) {
             $this->error('Characters.json not found at: ' . $jsonPath);
             return;
