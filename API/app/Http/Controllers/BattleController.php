@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Battle;
+use App\Http\Resources\BattleResource;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 
@@ -21,7 +22,8 @@ class BattleController extends Controller
             $query->where('arc', $request->arc);
         }
 
-        return response()->json($query->paginate($perPage));
+        $paginator = $query->paginate($perPage);
+        return response()->json(BattleResource::collection($paginator)->response()->getData(true));
     }
 
     public function getById($id): JsonResponse
@@ -30,12 +32,12 @@ class BattleController extends Controller
         if (!$battle) {
             return response()->json(['error' => 'Battle not found'], 404);
         }
-        return response()->json($battle);
+        return response()->json(new BattleResource($battle));
     }
 
     public function getByArc($arc): JsonResponse
     {
-        return response()->json(Battle::where('arc', $arc)->get());
+        return response()->json(BattleResource::collection(Battle::where('arc', $arc)->get()));
     }
 
     public function create(Request $request): JsonResponse

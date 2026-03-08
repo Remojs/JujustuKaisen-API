@@ -4,6 +4,8 @@ namespace App\Http\Resources;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
+use App\Models\Character;
+use App\Models\Location;
 
 class BattleResource extends JsonResource
 {
@@ -16,9 +18,11 @@ class BattleResource extends JsonResource
             'arc'                   => $this->arc,
             'date'                  => $this->date,
             'location'              => $this->location,
-            'location_data'         => $this->location_data,
-            'participants'          => $this->participants,
-            'nonDirectParticipants' => $this->nonDirectParticipants,
+            'location_data'         => $this->location_data
+                                        ? Location::find($this->location_data)
+                                        : null,
+            'participants'          => Character::whereIn('id', $this->participants ?? [])->get(['id', 'name', 'image']),
+            'nonDirectParticipants' => Character::whereIn('id', $this->nonDirectParticipants ?? [])->get(['id', 'name', 'image']),
             'image'                 => $this->image,
         ];
     }

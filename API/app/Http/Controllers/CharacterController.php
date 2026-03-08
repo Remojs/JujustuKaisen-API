@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Character;
+use App\Http\Resources\CharacterResource;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 
@@ -11,7 +12,8 @@ class CharacterController extends Controller
     public function getAll(Request $request): JsonResponse
     {
         $perPage = min($request->get('per_page', 20), 100);
-        return response()->json(Character::paginate($perPage));
+        $paginator = Character::paginate($perPage);
+        return response()->json(CharacterResource::collection($paginator)->response()->getData(true));
     }
 
     public function getById($id): JsonResponse
@@ -20,7 +22,7 @@ class CharacterController extends Controller
         if (!$character) {
             return response()->json(['error' => 'Character not found'], 404);
         }
-        return response()->json($character);
+        return response()->json(new CharacterResource($character));
     }
 
     public function create(Request $request): JsonResponse
@@ -60,56 +62,56 @@ class CharacterController extends Controller
     {
         $name = $request->get('q', '');
         $characters = Character::where('name', 'like', '%' . $name . '%')->get();
-        return response()->json($characters);
+        return response()->json(CharacterResource::collection($characters));
     }
 
     public function getByGender($gender): JsonResponse
     {
-        return response()->json(Character::where('gender', $gender)->get());
+        return response()->json(CharacterResource::collection(Character::where('gender', $gender)->get()));
     }
 
     public function getByStatus($status): JsonResponse
     {
-        return response()->json(Character::where('status', $status)->get());
+        return response()->json(CharacterResource::collection(Character::where('status', $status)->get()));
     }
 
     public function getBySpecies($speciesId): JsonResponse
     {
-        return response()->json(Character::where('speciesId', $speciesId)->get());
+        return response()->json(CharacterResource::collection(Character::where('speciesId', $speciesId)->get()));
     }
 
     public function getByAffiliation($affiliationId): JsonResponse
     {
         return response()->json(
-            Character::whereJsonContains('affiliationId', (int) $affiliationId)->get()
+            CharacterResource::collection(Character::whereJsonContains('affiliationId', (int) $affiliationId)->get())
         );
     }
 
     public function getByOccupation($occupationId): JsonResponse
     {
         return response()->json(
-            Character::whereJsonContains('occupationId', (int) $occupationId)->get()
+            CharacterResource::collection(Character::whereJsonContains('occupationId', (int) $occupationId)->get())
         );
     }
 
     public function getByGrade($gradeId): JsonResponse
     {
-        return response()->json(Character::where('gradeId', $gradeId)->get());
+        return response()->json(CharacterResource::collection(Character::where('gradeId', $gradeId)->get()));
     }
 
     public function getByAnimeDebut($episode): JsonResponse
     {
-        return response()->json(Character::where('animeDebut', $episode)->get());
+        return response()->json(CharacterResource::collection(Character::where('animeDebut', $episode)->get()));
     }
 
     public function getByMangaDebut($chapter): JsonResponse
     {
-        return response()->json(Character::where('mangaDebut', $chapter)->get());
+        return response()->json(CharacterResource::collection(Character::where('mangaDebut', $chapter)->get()));
     }
 
     public function getWithDomainExpansion(): JsonResponse
     {
-        return response()->json(Character::whereNotNull('domainExpansionId')->get());
+        return response()->json(CharacterResource::collection(Character::whereNotNull('domainExpansionId')->get()));
     }
 
     public function getFiltered(Request $request): JsonResponse
@@ -139,6 +141,7 @@ class CharacterController extends Controller
         }
 
         $perPage = min($request->get('per_page', 20), 100);
-        return response()->json($query->paginate($perPage));
+        $paginator = $query->paginate($perPage);
+        return response()->json(CharacterResource::collection($paginator)->response()->getData(true));
     }
 }

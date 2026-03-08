@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\DomainExpansion;
+use App\Http\Resources\DomainExpansionResource;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 
@@ -10,7 +11,7 @@ class DomainExpansionController extends Controller
 {
     public function getAll(): JsonResponse
     {
-        return response()->json(DomainExpansion::all());
+        return response()->json(DomainExpansionResource::collection(DomainExpansion::all()));
     }
 
     public function getById($id): JsonResponse
@@ -19,12 +20,12 @@ class DomainExpansionController extends Controller
         if (!$de) {
             return response()->json(['error' => 'Domain expansion not found'], 404);
         }
-        return response()->json($de);
+        return response()->json(new DomainExpansionResource($de));
     }
 
     public function getByUser($userId): JsonResponse
     {
-        return response()->json(DomainExpansion::where('user', $userId)->get());
+        return response()->json(DomainExpansionResource::collection(DomainExpansion::where('user', $userId)->get()));
     }
 
     public function create(Request $request): JsonResponse

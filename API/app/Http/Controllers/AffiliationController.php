@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Affiliation;
+use App\Http\Resources\AffiliationResource;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 
@@ -10,8 +11,7 @@ class AffiliationController extends Controller
 {
     public function getAll(): JsonResponse
     {
-        $affiliations = Affiliation::all();
-        return response()->json($affiliations);
+        return response()->json(AffiliationResource::collection(Affiliation::all()));
     }
 
     public function getById($id): JsonResponse
@@ -22,7 +22,7 @@ class AffiliationController extends Controller
             return response()->json(['error' => 'Affiliation not found'], 404);
         }
 
-        return response()->json($affiliation);
+        return response()->json(new AffiliationResource($affiliation));
     }
 
     public function create(Request $request): JsonResponse

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\CursedTechnique;
+use App\Http\Resources\CursedTechniqueResource;
 use App\Constants\TechniqueTypeConstants;
 use App\Constants\TechniqueRangeConstants;
 use Illuminate\Http\Request;
@@ -26,7 +27,8 @@ class CursedTechniqueController extends Controller
             $query->where('range', $request->range);
         }
 
-        return response()->json($query->paginate($perPage));
+        $paginator = $query->paginate($perPage);
+        return response()->json(CursedTechniqueResource::collection($paginator)->response()->getData(true));
     }
 
     public function getById($id): JsonResponse
@@ -35,12 +37,12 @@ class CursedTechniqueController extends Controller
         if (!$technique) {
             return response()->json(['error' => 'Cursed technique not found'], 404);
         }
-        return response()->json($technique);
+        return response()->json(new CursedTechniqueResource($technique));
     }
 
     public function getByType($type): JsonResponse
     {
-        return response()->json(CursedTechnique::where('type', $type)->get());
+        return response()->json(CursedTechniqueResource::collection(CursedTechnique::where('type', $type)->get()));
     }
 
     public function create(Request $request): JsonResponse

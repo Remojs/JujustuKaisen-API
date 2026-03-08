@@ -1,3 +1,303 @@
+# JJK API — Documentación
+
+API REST para el universo de **Jujutsu Kaisen**, construida con Laravel. Todos los endpoints devuelven los IDs de relaciones ya resueltos como objetos con su data completa.
+
+---
+
+## 🚀 Cómo correr el proyecto
+
+```bash
+cd Data/API
+composer install
+php artisan migrate --force
+php artisan db:seed --force
+php artisan serve
+```
+
+O con Docker desde la carpeta `Data/`:
+```bash
+docker build -t jjk-api .
+docker run -p 8000:8000 jjk-api
+```
+
+Base URL: `http://localhost:8000/api/v1/`
+
+---
+
+## 🛣️ Endpoints
+
+### Characters
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/characters` | Listado paginado |
+| GET | `/v1/characters/{id}` | Personaje por ID |
+| GET | `/v1/characters/search?q=` | Buscar por nombre |
+| GET | `/v1/characters/filter` | Filtrado múltiple |
+| GET | `/v1/characters/with-domain-expansion` | Solo los que tienen dominio |
+| GET | `/v1/characters/filter/gender/{id}` | Por género |
+| GET | `/v1/characters/filter/status/{id}` | Por status |
+| GET | `/v1/characters/filter/species/{id}` | Por especie |
+| GET | `/v1/characters/filter/grade/{id}` | Por grado |
+| GET | `/v1/characters/filter/affiliation/{id}` | Por afiliación |
+| GET | `/v1/characters/filter/occupation/{id}` | Por ocupación |
+| GET | `/v1/characters/filter/anime-debut/{ep}` | Por debut en anime |
+| GET | `/v1/characters/filter/manga-debut/{ch}` | Por debut en manga |
+| GET | `/v1/characters/{id}/species` | Character con especie |
+| GET | `/v1/characters/{id}/affiliations` | Character con afiliaciones |
+| GET | `/v1/characters/{id}/techniques` | Character con técnicas |
+| GET | `/v1/characters/{id}/battles` | Character con batallas |
+| GET | `/v1/characters/{id}/full-profile` | Perfil completo con todas las relaciones |
+| GET | `/v1/characters/{id}/stats` | Estadísticas del personaje |
+
+**Query params de paginación:** `?per_page=20` (max 100)
+
+**Query params de filtro (`/filter`):** `name`, `gender`, `status`, `speciesId`, `gradeId`, `affiliationId`, `occupationId`
+
+---
+
+### Cursed Techniques
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/cursed-techniques` | Listado paginado |
+| GET | `/v1/cursed-techniques/{id}` | Técnica por ID |
+| GET | `/v1/cursed-techniques/search?search=` | Buscar por nombre/desc |
+| GET | `/v1/cursed-techniques/filter/type/{id}` | Por tipo |
+
+**Query params de filtro:** `search`, `type`, `range`
+
+---
+
+### Domain Expansions
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/domain-expansions` | Listado completo |
+| GET | `/v1/domain-expansions/{id}` | Dominio por ID |
+| GET | `/v1/domain-expansions/user/{userId}` | Por usuario (Character ID) |
+
+---
+
+### Affiliations
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/affiliations` | Listado completo |
+| GET | `/v1/affiliations/{id}` | Afiliación por ID |
+
+---
+
+### Battles
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/battles` | Listado paginado |
+| GET | `/v1/battles/{id}` | Batalla por ID |
+| GET | `/v1/battles/filter/arc/{arc}` | Por arco |
+
+**Query params de filtro:** `search`, `arc`
+
+---
+
+### Locations
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/locations` | Listado completo |
+| GET | `/v1/locations/{id}` | Ubicación por ID |
+| GET | `/v1/locations/search?q=` | Buscar por nombre |
+
+---
+
+### Arcs
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/arcs` | Listado completo |
+| GET | `/v1/arcs/{id}` | Arco por ID |
+
+---
+
+### Anime Episodes
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/anime-episodes` | Listado paginado |
+| GET | `/v1/anime-episodes/{id}` | Episodio por ID |
+| GET | `/v1/anime-episodes/filter/season/{s}` | Por temporada |
+| GET | `/v1/anime-episodes/filter/arc/{id}` | Por arco |
+
+---
+
+### Manga Volumes
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/manga-volumes` | Listado completo |
+| GET | `/v1/manga-volumes/{id}` | Volumen por ID |
+
+---
+
+### Support / Occupations
+| Método | Endpoint | Descripción |
+|---|---|---|
+| GET | `/v1/occupations` | Listado de ocupaciones |
+| GET | `/v1/occupations/{id}` | Ocupación por ID |
+| GET | `/v1/species` | Listado de especies |
+| GET | `/v1/species/{id}` | Especie por ID |
+
+---
+
+## 📦 Respuestas de la API
+
+Todos los campos que antes eran IDs ahora se resuelven como objetos. A continuación se muestra la forma exacta de cada respuesta.
+
+### Character
+```json
+{
+  "id": 1,
+  "name": "Yuji Itadori",
+  "alias": ["Sukuna's Vessel", "Tiger of West Jr High"],
+  "species": { "id": 1, "species_name": "Human", "description": "..." },
+  "birthday": "March 20",
+  "height": "173 cm",
+  "age": "15",
+  "gender": { "id": 1, "name": "Male" },
+  "occupations": [
+    { "id": 1, "occupation_name": "First-Year Student" }
+  ],
+  "affiliations": [
+    { "id": 1, "affiliation_name": "Tokyo Jujutsu High", "type": "Jujutsu School", "image": "/Media/Affiliations/Tokyo_Jujutsu_High.webp" }
+  ],
+  "animeDebut": "Ep1",
+  "mangaDebut": "Ch1",
+  "cursedTechniques": [
+    {
+      "id": 51,
+      "technique_name": "Divergent Fist",
+      "description": "...",
+      "type": { "id": 1, "name": "Innate Technique" },
+      "range": { "id": 1, "name": "Short Range" },
+      "image": "/Media/CursedTechniques/51.webp"
+    }
+  ],
+  "grade": { "id": 4, "name": "Grade 2" },
+  "domainExpansion": {
+    "id": 13,
+    "name": "Horizon of the Captivating Skandha",
+    "description": "...",
+    "image": "/Media/DomainExpansions/13.webp"
+  },
+  "battles": [
+    { "id": 14, "event": "Yuji vs. Junpei", "result": "...", "arc": "Vs. Mahito Arc", "date": "...", "image": "..." }
+  ],
+  "cursedTools": [
+    { "id": 7, "name": "Slaughter Demon", "type": "Cursed Tool", "description": "...", "image": "..." }
+  ],
+  "status": { "id": 1, "name": "Alive" },
+  "relatives": ["Kaori Itadori (Mother)", "Jin Itadori (Father)", "Wasuke Itadori (Grandfather)"],
+  "image": "/Media/Characters/1.webp"
+}
+```
+
+### Cursed Technique
+```json
+{
+  "id": 1,
+  "technique_name": "Boogie Woogie",
+  "description": "Allows him to switch the positions of anything with cursed energy...",
+  "type": { "id": 1, "name": "Innate Technique" },
+  "range": { "id": 2, "name": "Medium Range" },
+  "users": [
+    { "id": 30, "name": "Aoi Todo", "image": "/Media/Characters/30.webp" }
+  ],
+  "image": "/Media/CursedTechniques/1.webp"
+}
+```
+
+### Domain Expansion
+```json
+{
+  "id": 1,
+  "name": "Unlimited Void",
+  "user": { "id": 4, "name": "Satoru Gojo", "image": "/Media/Characters/4.webp" },
+  "range": "Enclosed barrier (surrounding area)",
+  "Type": "Domain Expansion",
+  "description": "Traps targets in an infinite void space...",
+  "image": "/Media/DomainExpansions/1.webp"
+}
+```
+
+### Affiliation
+```json
+{
+  "id": 1,
+  "affiliation_name": "Tokyo Jujutsu High",
+  "type": "Jujutsu School",
+  "controlled_by": { "id": 9, "name": "Masamichi Yaga", "image": "/Media/Characters/9.webp" },
+  "location": "Tokyo Prefecture",
+  "location_data": {
+    "id": 1,
+    "location_name": "Tokyo Jujutsu High",
+    "located_in": "Tokyo",
+    "description": "...",
+    "image": "/Media/Locations/1.webp"
+  },
+  "description": "...",
+  "image": "/Media/Affiliations/Tokyo_Jujutsu_High.webp"
+}
+```
+
+### Battle
+```json
+{
+  "id": 1,
+  "event": "Satoru Gojo & Suguru Geto vs. Bayer & Kokun",
+  "result": "Gojo and Geto are victorious.",
+  "arc": "Gojo Past Arc",
+  "date": "August 2006",
+  "location": "Outside Riko Amanai's house",
+  "location_data": {
+    "id": 33,
+    "location_name": "...",
+    "located_in": "...",
+    "description": "...",
+    "image": "..."
+  },
+  "participants": [
+    { "id": 4, "name": "Satoru Gojo", "image": "/Media/Characters/4.webp" },
+    { "id": 14, "name": "Suguru Geto", "image": "/Media/Characters/14.webp" }
+  ],
+  "nonDirectParticipants": [
+    { "id": 71, "name": "Riko Amanai", "image": "/Media/Characters/71.webp" }
+  ],
+  "image": "/Media/Battles/1.webp"
+}
+```
+
+---
+
+## 📊 Valores de tablas de soporte
+
+Estos valores son estáticos y se usan para interpretar los IDs que devuelven los endpoints de filtrado:
+
+**Species** (`speciesId`):
+- 1: Human · 2: Cursed Spirit · 3: Shikigami · 4: Cursed Womb · 5: Cursed Corpse · 6: Transfigured Human · 7: Incarnate Body · 8: Vengeful Spirit · 9: Immortal
+
+**Gender** (`gender`):
+- 1: Male · 2: Female · 3: Genderless
+
+**Grades** (`gradeId`):
+- 1: Grade 4 · 2: Grade 3 · 3: Semi-Grade 2 · 4: Grade 2 · 5: Semi-Grade 1 · 6: Grade 1 · 7: Semi-Special Grade · 8: Special Grade
+
+**Status** (`status`):
+- 1: Alive · 2: Dead · 3: Unknown
+
+**Occupations** (`occupationId`):
+- 1: First-Year Student · 2: Second-Year Student · 3: Third-Year Student · 4: Jujutsu Sorcerer · 5: Cursed User · 6: Assistant · 7: Clan Leader · 8: Teacher · 9: Principal · 10: Doctor · 11: Driver · 12: Vessel · 13: Civilian · 14: High School Student · 15: Shikigami · 16: Ancient Sorcerer · 17: Sorcerer · 18: Non-Curse User
+
+**TechniqueTypes** (`type`):
+- 1: Innate Technique · 2: Extension Technique · 3: Cursed Spirit · 4: Barrier Techniques · 5: Anti-Domain Technique · 6: Shikigami Control · 7: Inherited Techniques · 8: Shikigami Ability · 9: Taijutsu · 10: Restriction · 11: Reverse Technique · 12: New Shadow Style Technique · 13: Cursed Spirit Ability
+
+**TechniqueRanges** (`range`):
+- 1: Short Range · 2: Medium Range · 3: Long Range · 4: Variable Range · 5: Self
+
+---
+
+## 🏗️ Arquitectura de Datos
+
 Esta API maneja un ecosistema complejo de datos del universo Jujutsu Kaisen con **CHARACTERS** como tabla central y múltiples relaciones hacia entidades secundarias y tablas de soporte estático.
 
 ## 🏗️ Arquitectura de Datos
