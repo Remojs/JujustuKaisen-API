@@ -31,7 +31,6 @@ Route::prefix('v1')->group(function () {
     Route::get('characters/filter/anime-debut/{episode}',       [CharacterController::class, 'getByAnimeDebut']);
     Route::get('characters/filter/manga-debut/{chapter}',       [CharacterController::class, 'getByMangaDebut']);
     Route::get('characters/{id}',                     [CharacterController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('characters',                         [CharacterController::class, 'create']);
 
     // Characters – relaciones expandidas
     Route::get('characters/{id}/species',        [CharacterRelationController::class, 'getWithSpecies'])->where('id', '[0-9]+');
@@ -44,64 +43,68 @@ Route::prefix('v1')->group(function () {
     // ─── AFFILIATIONS ─────────────────────────────────────────────────────────
     Route::get('affiliations',        [AffiliationController::class, 'getAll']);
     Route::get('affiliations/{id}',   [AffiliationController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('affiliations',       [AffiliationController::class, 'create']);
 
     // ─── CURSED TECHNIQUES ───────────────────────────────────────────────────
     Route::get('cursed-techniques',                   [CursedTechniqueController::class, 'getAll']);
     Route::get('cursed-techniques/search',            [CursedTechniqueController::class, 'getAll']);
     Route::get('cursed-techniques/filter/type/{type}',[CursedTechniqueController::class, 'getByType']);
     Route::get('cursed-techniques/{id}',              [CursedTechniqueController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('cursed-techniques',                  [CursedTechniqueController::class, 'create']);
 
     // ─── CURSED TOOLS ─────────────────────────────────────────────────────────
     Route::get('cursed-tools',                        [CursedToolController::class, 'getAll']);
     Route::get('cursed-tools/filter/type/{type}',     [CursedToolController::class, 'getByType']);
     Route::get('cursed-tools/{id}',                   [CursedToolController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('cursed-tools',                       [CursedToolController::class, 'create']);
 
     // ─── DOMAIN EXPANSIONS ───────────────────────────────────────────────────
     Route::get('domain-expansions',                          [DomainExpansionController::class, 'getAll']);
     Route::get('domain-expansions/user/{userId}',            [DomainExpansionController::class, 'getByUser'])->where('userId', '[0-9]+');
     Route::get('domain-expansions/{id}',                     [DomainExpansionController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('domain-expansions',                         [DomainExpansionController::class, 'create']);
 
     // ─── BATTLES ─────────────────────────────────────────────────────────────
     Route::get('battles',                        [BattleController::class, 'getAll']);
     Route::get('battles/filter/arc/{arc}',       [BattleController::class, 'getByArc']);
     Route::get('battles/{id}',                   [BattleController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('battles',                       [BattleController::class, 'create']);
 
     // ─── LOCATIONS ───────────────────────────────────────────────────────────
     Route::get('locations',          [LocationController::class, 'getAll']);
     Route::get('locations/search',   [LocationController::class, 'search']);
     Route::get('locations/{id}',     [LocationController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('locations',         [LocationController::class, 'create']);
 
     // ─── ARCS ─────────────────────────────────────────────────────────────────
     Route::get('arcs',          [ArcController::class, 'getAll']);
     Route::get('arcs/{id}',     [ArcController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('arcs',         [ArcController::class, 'create']);
 
     // ─── ANIME EPISODES ──────────────────────────────────────────────────────
     Route::get('anime-episodes',                        [AnimeEpisodeController::class, 'getAll']);
     Route::get('anime-episodes/filter/season/{season}', [AnimeEpisodeController::class, 'getBySeason']);
     Route::get('anime-episodes/filter/arc/{arcId}',     [AnimeEpisodeController::class, 'getByArc'])->where('arcId', '[0-9]+');
     Route::get('anime-episodes/{id}',                   [AnimeEpisodeController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('anime-episodes',                       [AnimeEpisodeController::class, 'create']);
 
     // ─── MANGA VOLUMES ───────────────────────────────────────────────────────
     Route::get('manga-volumes',       [MangaVolumeController::class, 'getAll']);
     Route::get('manga-volumes/{id}',  [MangaVolumeController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('manga-volumes',      [MangaVolumeController::class, 'create']);
 
     // ─── SPECIES ─────────────────────────────────────────────────────────────
     Route::get('species',      [SpeciesController::class, 'getAll']);
     Route::get('species/{id}', [SpeciesController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('species',     [SpeciesController::class, 'create']);
 
     // ─── OCCUPATIONS ─────────────────────────────────────────────────────────
     Route::get('occupations',      [OccupationController::class, 'getAll']);
     Route::get('occupations/{id}', [OccupationController::class, 'getById'])->where('id', '[0-9]+');
-    Route::post('occupations',     [OccupationController::class, 'create']);
 
+    // ─── WRITE ROUTES (localhost only) ────────────────────────────────────────
+    Route::middleware('localhost.only')->group(function () {
+        Route::post('characters',        [CharacterController::class, 'create']);
+        Route::post('affiliations',      [AffiliationController::class, 'create']);
+        Route::post('cursed-techniques', [CursedTechniqueController::class, 'create']);
+        Route::post('cursed-tools',      [CursedToolController::class, 'create']);
+        Route::post('domain-expansions', [DomainExpansionController::class, 'create']);
+        Route::post('battles',           [BattleController::class, 'create']);
+        Route::post('locations',         [LocationController::class, 'create']);
+        Route::post('arcs',              [ArcController::class, 'create']);
+        Route::post('anime-episodes',    [AnimeEpisodeController::class, 'create']);
+        Route::post('manga-volumes',     [MangaVolumeController::class, 'create']);
+        Route::post('species',           [SpeciesController::class, 'create']);
+        Route::post('occupations',       [OccupationController::class, 'create']);
+    });
 });
