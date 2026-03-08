@@ -96,7 +96,7 @@
         "Kotsuso (Older Half-Brother)",
         "Shoso (Older Half-Brother)"
       ],
-      "image": "/characters/1.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/1.webp"
     },
     "2": {
       "id": 2,
@@ -178,7 +178,7 @@
         "Ogi Zenin (Grand Uncle)",
         "Naobito Zenin (Grand Uncle)"
       ],
-      "image": "/characters/2.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/2.webp"
     },
     "3": {
       "id": 3,
@@ -234,7 +234,7 @@
         "Unnamed Grandmother",
         "Unnamed Mother"
       ],
-      "image": "/characters/3.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/3.webp"
     },
     "4": {
       "id": 4,
@@ -295,7 +295,7 @@
         "Yuta Okkotsu (Distant Relative)",
         "Michizane Sugawara (Ancestor)"
       ],
-      "image": "/characters/4.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/4.webp"
     },
     "5": {
       "id": 5,
@@ -358,7 +358,7 @@
         "Satoru Gojo (Distant Relative)",
         "Michizane Sugawara (Ancestor)"
       ],
-      "image": "/characters/5.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/5.webp"
     },
     "6": {
       "id": 6,
@@ -432,7 +432,7 @@
         "Toji Fushiguro (Cousin)",
         "Megumi Fushiguro (Second Nephew)"
       ],
-      "image": "/characters/6.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/6.webp"
     },
     "7": {
       "id": 7,
@@ -469,7 +469,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/7.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/7.webp"
     },
     "8": {
       "id": 8,
@@ -518,7 +518,7 @@
       "relatives": [
         "Masamichi Yaga (Creator/Father)"
       ],
-      "image": "/characters/8.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/8.webp"
     },
     "9": {
       "id": 9,
@@ -550,7 +550,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/9.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/9.webp"
     },
     "10": {
       "id": 10,
@@ -594,7 +594,7 @@
         "Unnamed Younger Sister",
         "Takeru (Nephew)"
       ],
-      "image": "/characters/10.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/10.webp"
     },
     "11": {
       "id": 11,
@@ -627,7 +627,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/11.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/11.webp"
     },
     "12": {
       "id": 12,
@@ -655,7 +655,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/12.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/12.webp"
     },
     "13": {
       "id": 13,
@@ -685,7 +685,7 @@
       "relatives": [
         "Arata Nitta (Younger brother)"
       ],
-      "image": "/characters/13.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/13.webp"
     },
     "14": {
       "id": 14,
@@ -728,7 +728,7 @@
       ],
       "status": 2,
       "relatives": null,
-      "image": "/characters/14.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/14.webp"
     },
     "15": {
       "id": 15,
@@ -771,7 +771,7 @@
       ],
       "status": 2,
       "relatives": null,
-      "image": "/characters/15.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/15.webp"
     },
     "16": {
       "id": 16,
@@ -805,7 +805,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/16.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/16.webp"
     },
     "17": {
       "id": 17,
@@ -845,7 +845,7 @@
       "relatives": [
         "Ui Ui (Younger Brother)"
       ],
-      "image": "/characters/17.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/17.webp"
     },
     "18": {
       "id": 18,
@@ -882,7 +882,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/18.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/18.webp"
     },
     "19": {
       "id": 19,
@@ -912,7 +912,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/19.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/19.webp"
     },
     "20": {
       "id": 20,
@@ -959,7 +959,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/20.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/20.webp"
     },
     "21": {
       "id": 21,
@@ -1008,7 +1008,7 @@
       ],
       "status": 2,
       "relatives": null,
-      "image": "/characters/21.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/21.webp"
     },
     "22": {
       "id": 22,
@@ -1053,7 +1053,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/22.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/22.webp"
     },
     "23": {
       "id": 23,
@@ -1092,7 +1092,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/23.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/23.webp"
     },
     "24": {
       "id": 24,
@@ -1130,7 +1130,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/24.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/24.webp"
     },
     "25": {
       "id": 25,
@@ -1164,7 +1164,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/25.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/25.webp"
     },
     "26": {
       "id": 26,
@@ -1198,7 +1198,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/26.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/26.webp"
     },
     "27": {
       "id": 27,
@@ -1261,7 +1261,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Younger Half-Brother)"
       ],
-      "image": "/characters/27.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/27.webp"
     },
     "28": {
       "id": 28,
@@ -1319,7 +1319,7 @@
         "Maki Zenin (Cousin)",
         "Mai Zenin (Cousin)"
       ],
-      "image": "/characters/28.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/28.webp"
     },
     "29": {
       "id": 29,
@@ -1355,7 +1355,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/29.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/29.webp"
     },
     "30": {
       "id": 30,
@@ -1404,7 +1404,7 @@
       ],
       "status": 1,
       "relatives": null,
-      "image": "/characters/30.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/30.webp"
     },
     "31": {
       "id": 31,
@@ -1453,7 +1453,7 @@
         "Toji Fushiguro (Cousin)",
         "Megumi Fushiguro (Second Nephew)"
       ],
-      "image": "/characters/31.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/31.webp"
     },
     "32": {
       "id": 32,
@@ -1503,7 +1503,7 @@
         "Unnamed Father",
         "Unnamed Half Brother"
       ],
-      "image": "/characters/32.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/32.webp"
     },
     "33": {
       "id": 33,
@@ -1541,7 +1541,7 @@
       ],
       "status": 1,
       "relatives": null,
-      "image": "/characters/33.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/33.webp"
     },
     "34": {
       "id": 34,
@@ -1583,7 +1583,7 @@
         "Unnamed Mother",
         "Two Unnamed Younger Brothers"
       ],
-      "image": "/characters/34.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/34.webp"
     },
     "35": {
       "id": 35,
@@ -1621,7 +1621,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/35.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/35.webp"
     },
     "36": {
       "id": 36,
@@ -1667,7 +1667,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/36.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/36.webp"
     },
     "37": {
       "id": 37,
@@ -1702,7 +1702,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/37.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/37.webp"
     },
     "38": {
       "id": 38,
@@ -1742,7 +1742,7 @@
       ],
       "status": 1,
       "relatives": null,
-      "image": "/characters/38.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/38.webp"
     },
     "39": {
       "id": 39,
@@ -1774,7 +1774,7 @@
       "relatives": [
         "Akari Nitta (Older Sister)"
       ],
-      "image": "/characters/39.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/39.webp"
     },
     "40": {
       "id": 40,
@@ -1817,7 +1817,7 @@
       "relatives": [
         "Mei Mei (Older Sister)"
       ],
-      "image": "/characters/40.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/40.webp"
     },
     "41": {
       "id": 41,
@@ -1854,7 +1854,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/41.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/41.webp"
     },
     "42": {
       "id": 42,
@@ -1896,7 +1896,7 @@
         "Maki Zenin (Niece)",
         "Megumi Fushiguro (Grandnephew)"
       ],
-      "image": "/characters/42.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/42.webp"
     },
     "43": {
       "id": 43,
@@ -1942,7 +1942,7 @@
         "Toji Fushiguro (Cousin)",
         "Megumi Fushiguro (Second Nephew)"
       ],
-      "image": "/characters/43.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/43.webp"
     },
     "44": {
       "id": 44,
@@ -1973,7 +1973,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/44.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/44.webp"
     },
     "45": {
       "id": 45,
@@ -2009,7 +2009,7 @@
       ],
       "status": 2,
       "relatives": null,
-      "image": "/characters/45.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/45.webp"
     },
     "46": {
       "id": 46,
@@ -2044,7 +2044,7 @@
       ],
       "status": 1,
       "relatives": null,
-      "image": "/characters/46.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/46.webp"
     },
     "47": {
       "id": 47,
@@ -2080,7 +2080,7 @@
         "Nanako Hasaba (Twin Sister)",
         "Unnamed Parents (Deceased)"
       ],
-      "image": "/characters/47.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/47.webp"
     },
     "48": {
       "id": 48,
@@ -2116,7 +2116,7 @@
         "Mimiko Hasaba (Twin Sister)",
         "Unnamed Parents (Deceased)"
       ],
-      "image": "/characters/48.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/48.webp"
     },
     "49": {
       "id": 49,
@@ -2159,7 +2159,7 @@
       ],
       "status": 1,
       "relatives": null,
-      "image": "/characters/49.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/49.webp"
     },
     "50": {
       "id": 50,
@@ -2196,7 +2196,7 @@
       ],
       "status": 2,
       "relatives": null,
-      "image": "/characters/50.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/50.webp"
     },
     "51": {
       "id": 51,
@@ -2224,7 +2224,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/51.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/51.webp"
     },
     "52": {
       "id": 52,
@@ -2257,7 +2257,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/52.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/52.webp"
     },
     "53": {
       "id": 53,
@@ -2294,7 +2294,7 @@
       ],
       "status": 3,
       "relatives": null,
-      "image": "/characters/53.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/53.webp"
     },
     "54": {
       "id": 54,
@@ -2326,7 +2326,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/54.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/54.webp"
     },
     "55": {
       "id": 55,
@@ -2354,7 +2354,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/55.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/55.webp"
     },
     "56": {
       "id": 56,
@@ -2384,7 +2384,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/56.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/56.webp"
     },
     "57": {
       "id": 57,
@@ -2415,7 +2415,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/57.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/57.webp"
     },
     "58": {
       "id": 58,
@@ -2449,7 +2449,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/58.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/58.webp"
     },
     "59": {
       "id": 59,
@@ -2481,7 +2481,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/59.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/59.webp"
     },
     "60": {
       "id": 60,
@@ -2511,7 +2511,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/60.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/60.webp"
     },
     "61": {
       "id": 61,
@@ -2544,7 +2544,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/61.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/61.webp"
     },
     "62": {
       "id": 62,
@@ -2574,7 +2574,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/62.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/62.webp"
     },
     "63": {
       "id": 63,
@@ -2607,7 +2607,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/63.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/63.webp"
     },
     "64": {
       "id": 64,
@@ -2641,7 +2641,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/64.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/64.webp"
     },
     "65": {
       "id": 65,
@@ -2671,7 +2671,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/65.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/65.webp"
     },
     "66": {
       "id": 66,
@@ -2702,7 +2702,7 @@
       ],
       "status": 1,
       "relatives": null,
-      "image": "/characters/66.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/66.webp"
     },
     "67": {
       "id": 67,
@@ -2733,7 +2733,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/67.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/67.webp"
     },
     "68": {
       "id": 68,
@@ -2793,7 +2793,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/68.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/68.webp"
     },
     "69": {
       "id": 69,
@@ -2849,7 +2849,7 @@
       ],
       "status": 2,
       "relatives": null,
-      "image": "/characters/69.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/69.webp"
     },
     "70": {
       "id": 70,
@@ -2891,7 +2891,7 @@
         "Satoru Gojo (Distant Relative)",
         "Michizane Sugawara (Ancestor)"
       ],
-      "image": "/characters/70.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/70.webp"
     },
     "71": {
       "id": 71,
@@ -2922,7 +2922,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/71.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/71.webp"
     },
     "72": {
       "id": 72,
@@ -2951,7 +2951,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/72.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/72.webp"
     },
     "73": {
       "id": 73,
@@ -2981,7 +2981,7 @@
         "Toji Fushiguro (Step-Father)",
         "Unnamed Mother"
       ],
-      "image": "/characters/73.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/73.webp"
     },
     "74": {
       "id": 74,
@@ -3007,7 +3007,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/74.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/74.webp"
     },
     "75": {
       "id": 75,
@@ -3034,7 +3034,7 @@
         "Jin Itadori (Son)",
         "Yuji Itadori (Grandson)"
       ],
-      "image": "/characters/75.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/75.webp"
     },
     "76": {
       "id": 76,
@@ -3063,7 +3063,7 @@
         "Jin Itadori (Husband)",
         "Yuji Itadori (Son)"
       ],
-      "image": "/characters/76.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/76.webp"
     },
     "77": {
       "id": 77,
@@ -3090,7 +3090,7 @@
         "Jin Itadori (Father)",
         "Yuji Itadori (Son)"
       ],
-      "image": "/characters/77.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/77.webp"
     },
     "78": {
       "id": 78,
@@ -3130,7 +3130,7 @@
         "Megumi Fushiguro (Nephew)",
         "Tsumiki Fushiguro (Step-Niece)"
       ],
-      "image": "/characters/78.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/78.webp"
     },
     "79": {
       "id": 79,
@@ -3173,7 +3173,7 @@
         "Toji Fushiguro (Nephew)",
         "Megumi Fushiguro (Grandnephew)"
       ],
-      "image": "/characters/79.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/79.webp"
     },
     "80": {
       "id": 80,
@@ -3206,7 +3206,7 @@
       "relatives": [
         "Zenin Clan"
       ],
-      "image": "/characters/80.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/80.webp"
     },
     "81": {
       "id": 81,
@@ -3238,7 +3238,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/81.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/81.webp"
     },
     "82": {
       "id": 82,
@@ -3269,7 +3269,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/82.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/82.webp"
     },
     "83": {
       "id": 83,
@@ -3310,7 +3310,7 @@
         "Noritoshi Kamo's Dad (Descendant)",
         "Shino Kamo (Descendant)"
       ],
-      "image": "/characters/83.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/83.webp"
     },
     "84": {
       "id": 84,
@@ -3338,7 +3338,7 @@
       "relatives": [
         "Unnamed Younger Sister"
       ],
-      "image": "/characters/84.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/84.webp"
     },
     "85": {
       "id": 85,
@@ -3368,7 +3368,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/85.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/85.webp"
     },
     "86": {
       "id": 86,
@@ -3412,7 +3412,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Younger Half-Brother)"
       ],
-      "image": "/characters/86.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/86.webp"
     },
     "87": {
       "id": 87,
@@ -3455,7 +3455,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Younger Half-Brother)"
       ],
-      "image": "/characters/87.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/87.webp"
     },
     "88": {
       "id": 88,
@@ -3487,7 +3487,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/88.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/88.webp"
     },
     "89": {
       "id": 89,
@@ -3519,7 +3519,7 @@
       ],
       "status": 2,
       "relatives": "Ogami's Grandson (Grandson)",
-      "image": "/characters/89.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/89.webp"
     },
     "90": {
       "id": 90,
@@ -3547,7 +3547,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": "Ogami (Grandma)",
-      "image": "/characters/90.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/90.webp"
     },
     "91": {
       "id": 91,
@@ -3579,7 +3579,7 @@
       ],
       "status": 3,
       "relatives": null,
-      "image": "/characters/91.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/91.webp"
     },
     "92": {
       "id": 92,
@@ -3613,7 +3613,7 @@
       ],
       "status": 1,
       "relatives": null,
-      "image": "/characters/92.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/92.webp"
     },
     "93": {
       "id": 93,
@@ -3637,7 +3637,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/93.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/93.webp"
     },
     "94": {
       "id": 94,
@@ -3661,7 +3661,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/94.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/94.webp"
     },
     "95": {
       "id": 95,
@@ -3687,7 +3687,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/95.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/95.webp"
     },
     "96": {
       "id": 96,
@@ -3713,7 +3713,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/96.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/96.webp"
     },
     "97": {
       "id": 97,
@@ -3739,7 +3739,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/97.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/97.webp"
     },
     "98": {
       "id": 98,
@@ -3763,7 +3763,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/98.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/98.webp"
     },
     "99": {
       "id": 99,
@@ -3799,7 +3799,7 @@
       ],
       "status": 3,
       "relatives": null,
-      "image": "/characters/99.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/99.webp"
     },
     "100": {
       "id": 100,
@@ -3838,7 +3838,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/100.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/100.webp"
     },
     "101": {
       "id": 101,
@@ -3869,7 +3869,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/101.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/101.webp"
     },
     "102": {
       "id": 102,
@@ -3897,7 +3897,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/102.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/102.webp"
     },
     "103": {
       "id": 103,
@@ -3930,7 +3930,7 @@
       ],
       "status": 2,
       "relatives": null,
-      "image": "/characters/103.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/103.webp"
     },
     "104": {
       "id": 104,
@@ -3959,7 +3959,7 @@
       "relatives": [
         "Yuji Itadori (Son)"
       ],
-      "image": "/characters/104.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/104.webp"
     },
     "105": {
       "id": 105,
@@ -4006,7 +4006,7 @@
         "Kotsuso (Cursed Womb - Son)",
         "Shoso (Cursed Womb - Son)"
       ],
-      "image": "/characters/105.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/105.webp"
     },
     "106": {
       "id": 106,
@@ -4030,7 +4030,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/106.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/106.webp"
     },
     "107": {
       "id": 107,
@@ -4064,7 +4064,7 @@
         "Nagi Yoshino (Mother)",
         "Unnamed Father"
       ],
-      "image": "/characters/107.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/107.webp"
     },
     "108": {
       "id": 108,
@@ -4092,7 +4092,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/108.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/108.webp"
     },
     "109": {
       "id": 109,
@@ -4120,7 +4120,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/109.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/109.webp"
     },
     "110": {
       "id": 110,
@@ -4148,7 +4148,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/110.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/110.webp"
     },
     "111": {
       "id": 111,
@@ -4176,7 +4176,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/111.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/111.webp"
     },
     "112": {
       "id": 112,
@@ -4204,7 +4204,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/112.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/112.webp"
     },
     "113": {
       "id": 113,
@@ -4228,7 +4228,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/113.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/113.webp"
     },
     "114": {
       "id": 114,
@@ -4254,7 +4254,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/114.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/114.webp"
     },
     "115": {
       "id": 115,
@@ -4278,7 +4278,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/115.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/115.webp"
     },
     "116": {
       "id": 116,
@@ -4302,7 +4302,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/116.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/116.webp"
     },
     "117": {
       "id": 117,
@@ -4328,7 +4328,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/117.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/117.webp"
     },
     "118": {
       "id": 118,
@@ -4358,7 +4358,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/118.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/118.webp"
     },
     "119": {
       "id": 119,
@@ -4388,7 +4388,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/119.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/119.webp"
     },
     "120": {
       "id": 120,
@@ -4418,7 +4418,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/120.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/120.webp"
     },
     "121": {
       "id": 121,
@@ -4442,7 +4442,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/121.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/121.webp"
     },
     "122": {
       "id": 122,
@@ -4466,7 +4466,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/122.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/122.webp"
     },
     "123": {
       "id": 123,
@@ -4492,7 +4492,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/123.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/123.webp"
     },
     "124": {
       "id": 124,
@@ -4516,7 +4516,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/124.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/124.webp"
     },
     "125": {
       "id": 125,
@@ -4540,7 +4540,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/125.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/125.webp"
     },
     "126": {
       "id": 126,
@@ -4564,7 +4564,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/126.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/126.webp"
     },
     "127": {
       "id": 127,
@@ -4588,7 +4588,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/127.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/127.webp"
     },
     "128": {
       "id": 128,
@@ -4612,7 +4612,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/128.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/128.webp"
     },
     "129": {
       "id": 129,
@@ -4638,7 +4638,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/129.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/129.webp"
     },
     "130": {
       "id": 130,
@@ -4666,7 +4666,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/130.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/130.webp"
     },
     "131": {
       "id": 131,
@@ -4699,7 +4699,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/131.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/131.webp"
     },
     "132": {
       "id": 132,
@@ -4725,7 +4725,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/132.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/132.webp"
     },
     "133": {
       "id": 133,
@@ -4751,7 +4751,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/133.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/133.webp"
     },
     "134": {
       "id": 134,
@@ -4782,7 +4782,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/134.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/134.webp"
     },
     "135": {
       "id": 135,
@@ -4810,7 +4810,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/135.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/135.webp"
     },
     "136": {
       "id": 136,
@@ -4844,7 +4844,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/136.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/136.webp"
     },
     "137": {
       "id": 137,
@@ -4874,7 +4874,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/137.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/137.webp"
     },
     "138": {
       "id": 138,
@@ -4902,7 +4902,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/138.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/138.webp"
     },
     "139": {
       "id": 139,
@@ -4930,7 +4930,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/139.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/139.webp"
     },
     "140": {
       "id": 140,
@@ -4956,7 +4956,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/140.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/140.webp"
     },
     "141": {
       "id": 141,
@@ -4984,7 +4984,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/141.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/141.webp"
     },
     "142": {
       "id": 142,
@@ -5012,7 +5012,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/142.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/142.webp"
     },
     "143": {
       "id": 143,
@@ -5040,7 +5040,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/143.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/143.webp"
     },
     "144": {
       "id": 144,
@@ -5066,7 +5066,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/144.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/144.webp"
     },
     "145": {
       "id": 145,
@@ -5092,7 +5092,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/145.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/145.webp"
     },
     "146": {
       "id": 146,
@@ -5118,7 +5118,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/146.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/146.webp"
     },
     "147": {
       "id": 147,
@@ -5144,7 +5144,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/147.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/147.webp"
     },
     "148": {
       "id": 148,
@@ -5173,7 +5173,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/148.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/148.webp"
     },
     "149": {
       "id": 149,
@@ -5201,7 +5201,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/149.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/149.webp"
     },
     "150": {
       "id": 150,
@@ -5227,7 +5227,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/150.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/150.webp"
     },
     "151": {
       "id": 151,
@@ -5255,7 +5255,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/151.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/151.webp"
     },
     "152": {
       "id": 152,
@@ -5281,7 +5281,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/152.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/152.webp"
     },
     "153": {
       "id": 153,
@@ -5309,7 +5309,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/153.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/153.webp"
     },
     "154": {
       "id": 154,
@@ -5337,7 +5337,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/154.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/154.webp"
     },
     "155": {
       "id": 155,
@@ -5363,7 +5363,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/155.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/155.webp"
     },
     "156": {
       "id": 156,
@@ -5389,7 +5389,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/156.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/156.webp"
     },
     "157": {
       "id": 157,
@@ -5417,7 +5417,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/157.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/157.webp"
     },
     "158": {
       "id": 158,
@@ -5445,7 +5445,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/158.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/158.webp"
     },
     "159": {
       "id": 159,
@@ -5471,7 +5471,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/159.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/159.webp"
     },
     "160": {
       "id": 160,
@@ -5497,7 +5497,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/160.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/160.webp"
     },
     "161": {
       "id": 161,
@@ -5525,7 +5525,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/161.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/161.webp"
     },
     "162": {
       "id": 162,
@@ -5553,7 +5553,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/162.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/162.webp"
     },
     "163": {
       "id": 163,
@@ -5581,7 +5581,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/163.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/163.webp"
     },
     "164": {
       "id": 164,
@@ -5609,7 +5609,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/164.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/164.webp"
     },
     "165": {
       "id": 165,
@@ -5637,7 +5637,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/165.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/165.webp"
     },
     "166": {
       "id": 166,
@@ -5665,7 +5665,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/166.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/166.webp"
     },
     "167": {
       "id": 167,
@@ -5693,7 +5693,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/167.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/167.webp"
     },
     "168": {
       "id": 168,
@@ -5717,7 +5717,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/168.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/168.webp"
     },
     "169": {
       "id": 169,
@@ -5745,7 +5745,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/169.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/169.webp"
     },
     "170": {
       "id": 170,
@@ -5773,7 +5773,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/170.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/170.webp"
     },
     "171": {
       "id": 171,
@@ -5801,7 +5801,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/171.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/171.webp"
     },
     "172": {
       "id": 172,
@@ -5827,7 +5827,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/172.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/172.webp"
     },
     "173": {
       "id": 173,
@@ -5853,7 +5853,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/173.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/173.webp"
     },
     "174": {
       "id": 174,
@@ -5879,7 +5879,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/174.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/174.webp"
     },
     "175": {
       "id": 175,
@@ -5905,7 +5905,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/175.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/175.webp"
     },
     "176": {
       "id": 176,
@@ -5933,7 +5933,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/176.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/176.webp"
     },
     "177": {
       "id": 177,
@@ -5959,7 +5959,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/177.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/177.webp"
     },
     "178": {
       "id": 178,
@@ -5983,7 +5983,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/178.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/178.webp"
     },
     "179": {
       "id": 179,
@@ -6007,7 +6007,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/179.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/179.webp"
     },
     "180": {
       "id": 180,
@@ -6031,7 +6031,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/180.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/180.webp"
     },
     "181": {
       "id": 181,
@@ -6059,7 +6059,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/181.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/181.webp"
     },
     "182": {
       "id": 182,
@@ -6087,7 +6087,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/182.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/182.webp"
     },
     "183": {
       "id": 183,
@@ -6115,7 +6115,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/183.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/183.webp"
     },
     "184": {
       "id": 184,
@@ -6143,7 +6143,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/184.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/184.webp"
     },
     "185": {
       "id": 185,
@@ -6174,7 +6174,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/185.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/185.webp"
     },
     "186": {
       "id": 186,
@@ -6200,7 +6200,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/186.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/186.webp"
     },
     "187": {
       "id": 187,
@@ -6226,7 +6226,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/187.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/187.webp"
     },
     "188": {
       "id": 188,
@@ -6250,7 +6250,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/188.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/188.webp"
     },
     "189": {
       "id": 189,
@@ -6276,7 +6276,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/189.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/189.webp"
     },
     "190": {
       "id": 190,
@@ -6302,7 +6302,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/190.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/190.webp"
     },
     "191": {
       "id": 191,
@@ -6326,7 +6326,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/191.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/191.webp"
     },
     "192": {
       "id": 192,
@@ -6350,7 +6350,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/192.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/192.webp"
     },
     "193": {
       "id": 193,
@@ -6374,7 +6374,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/193.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/193.webp"
     },
     "194": {
       "id": 194,
@@ -6398,7 +6398,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/194.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/194.webp"
     },
     "195": {
       "id": 195,
@@ -6422,7 +6422,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/195.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/195.webp"
     },
     "196": {
       "id": 196,
@@ -6446,7 +6446,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/196.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/196.webp"
     },
     "197": {
       "id": 197,
@@ -6470,7 +6470,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/197.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/197.webp"
     },
     "198": {
       "id": 198,
@@ -6496,7 +6496,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/198.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/198.webp"
     },
     "199": {
       "id": 199,
@@ -6522,7 +6522,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/199.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/199.webp"
     },
     "200": {
       "id": 200,
@@ -6548,7 +6548,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/200.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/200.webp"
     },
     "201": {
       "id": 201,
@@ -6575,7 +6575,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/201.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/201.webp"
     },
     "202": {
       "id": 202,
@@ -6602,7 +6602,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/202.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/202.webp"
     },
     "203": {
       "id": 203,
@@ -6628,7 +6628,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/203.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/203.webp"
     },
     "204": {
       "id": 204,
@@ -6654,7 +6654,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/204.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/204.webp"
     },
     "205": {
       "id": 205,
@@ -6684,7 +6684,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/205.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/205.webp"
     },
     "206": {
       "id": 206,
@@ -6714,7 +6714,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/206.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/206.webp"
     },
     "207": {
       "id": 207,
@@ -6746,7 +6746,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/207.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/207.webp"
     },
     "208": {
       "id": 208,
@@ -6779,7 +6779,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/208.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/208.webp"
     },
     "209": {
       "id": 209,
@@ -6808,7 +6808,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/209.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/209.webp"
     },
     "210": {
       "id": 210,
@@ -6838,7 +6838,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/210.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/210.webp"
     },
     "211": {
       "id": 211,
@@ -6869,7 +6869,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/211.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/211.webp"
     },
     "212": {
       "id": 212,
@@ -6901,7 +6901,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/212.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/212.webp"
     },
     "213": {
       "id": 213,
@@ -6930,7 +6930,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/213.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/213.webp"
     },
     "214": {
       "id": 214,
@@ -6959,7 +6959,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/214.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/214.webp"
     },
     "215": {
       "id": 215,
@@ -6988,7 +6988,7 @@
         "Megumi Fushiguro (Cursed Technique User)",
         "Sukuna (Megumi's Body) (Cursed Technique User)"
       ],
-      "image": "/characters/215.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/215.webp"
     },
     "216": {
       "id": 216,
@@ -7012,7 +7012,7 @@
       "relatives": [
         "Masamichi Yaga (Creator/Father)"
       ],
-      "image": "/characters/216.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/216.webp"
     },
     "217": {
       "id": 217,
@@ -7036,7 +7036,7 @@
       "relatives": [
         "Masamichi Yaga (Creator/Father)"
       ],
-      "image": "/characters/217.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/217.webp"
     },
     "218": {
       "id": 218,
@@ -7062,7 +7062,7 @@
         "Kusakabe's sister (Mother)",
         "Atsuya Kusakabe (Uncle)"
       ],
-      "image": "/characters/218.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/218.webp"
     },
     "219": {
       "id": 219,
@@ -7102,7 +7102,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Half-Brother)"
       ],
-      "image": "/characters/219.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/219.webp"
     },
     "220": {
       "id": 220,
@@ -7142,7 +7142,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Half-Brother)"
       ],
-      "image": "/characters/220.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/220.webp"
     },
     "221": {
       "id": 221,
@@ -7182,7 +7182,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Half-Brother)"
       ],
-      "image": "/characters/221.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/221.webp"
     },
     "222": {
       "id": 222,
@@ -7222,7 +7222,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Half-Brother)"
       ],
-      "image": "/characters/222.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/222.webp"
     },
     "223": {
       "id": 223,
@@ -7262,7 +7262,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Half-Brother)"
       ],
-      "image": "/characters/223.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/223.webp"
     },
     "224": {
       "id": 224,
@@ -7302,7 +7302,7 @@
         "Unnamed Mother",
         "Yuji Itadori (Half-Brother)"
       ],
-      "image": "/characters/224.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/224.webp"
     },
     "225": {
       "id": 225,
@@ -7326,7 +7326,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/225.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/225.webp"
     },
     "226": {
       "id": 226,
@@ -7350,7 +7350,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/226.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/226.webp"
     },
     "227": {
       "id": 227,
@@ -7374,7 +7374,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/227.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/227.webp"
     },
     "228": {
       "id": 228,
@@ -7398,7 +7398,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/228.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/228.webp"
     },
     "229": {
       "id": 229,
@@ -7422,7 +7422,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/229.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/229.webp"
     },
     "230": {
       "id": 230,
@@ -7446,7 +7446,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/230.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/230.webp"
     },
     "231": {
       "id": 231,
@@ -7470,7 +7470,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/231.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/231.webp"
     },
     "232": {
       "id": 232,
@@ -7494,7 +7494,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/232.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/232.webp"
     },
     "233": {
       "id": 233,
@@ -7518,7 +7518,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/233.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/233.webp"
     },
     "234": {
       "id": 234,
@@ -7542,7 +7542,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/234.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/234.webp"
     },
     "235": {
       "id": 235,
@@ -7566,7 +7566,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/235.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/235.webp"
     },
     "236": {
       "id": 236,
@@ -7590,7 +7590,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/236.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/236.webp"
     },
     "237": {
       "id": 237,
@@ -7619,7 +7619,7 @@
         "Noritoshi Kamo (Son)",
         "Noritoshi Kamo's Dad (Husband)"
       ],
-      "image": "/characters/237.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/237.webp"
     },
     "238": {
       "id": 238,
@@ -7643,7 +7643,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/238.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/238.webp"
     },
     "239": {
       "id": 239,
@@ -7669,7 +7669,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/239.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/239.webp"
     },
     "240": {
       "id": 240,
@@ -7695,7 +7695,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/240.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/240.webp"
     },
     "241": {
       "id": 241,
@@ -7721,7 +7721,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/241.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/241.webp"
     },
     "242": {
       "id": 242,
@@ -7747,7 +7747,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/242.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/242.webp"
     },
     "243": {
       "id": 243,
@@ -7775,7 +7775,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/243.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/243.webp"
     },
     "244": {
       "id": 244,
@@ -7799,7 +7799,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/244.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/244.webp"
     },
     "245": {
       "id": 245,
@@ -7825,7 +7825,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/245.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/245.webp"
     },
     "246": {
       "id": 246,
@@ -7851,7 +7851,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/246.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/246.webp"
     },
     "247": {
       "id": 247,
@@ -7879,7 +7879,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/247.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/247.webp"
     },
     "248": {
       "id": 248,
@@ -7903,7 +7903,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/248.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/248.webp"
     },
     "249": {
       "id": 249,
@@ -7927,7 +7927,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/249.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/249.webp"
     },
     "250": {
       "id": 250,
@@ -7951,7 +7951,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/250.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/250.webp"
     },
     "251": {
       "id": 251,
@@ -7975,7 +7975,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/251.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/251.webp"
     },
     "252": {
       "id": 252,
@@ -7999,7 +7999,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/252.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/252.webp"
     },
     "253": {
       "id": 253,
@@ -8023,7 +8023,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/253.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/253.webp"
     },
     "254": {
       "id": 254,
@@ -8050,7 +8050,7 @@
         "Masamichi Yaga (Creator/Father)",
         "Panda (Younger Brother)"
       ],
-      "image": "/characters/254.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/254.webp"
     },
     "255": {
       "id": 255,
@@ -8077,7 +8077,7 @@
         "Masamichi Yaga (Creator/Father)",
         "Panda (Younger Brother)"
       ],
-      "image": "/characters/255.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/255.webp"
     },
     "256": {
       "id": 256,
@@ -8104,7 +8104,7 @@
         "Atsuya Kusakabe (Brother)",
         "Takeru (Son)"
       ],
-      "image": "/characters/256.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/256.webp"
     },
     "257": {
       "id": 257,
@@ -8130,7 +8130,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/257.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/257.webp"
     },
     "258": {
       "id": 258,
@@ -8156,7 +8156,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/258.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/258.webp"
     },
     "259": {
       "id": 259,
@@ -8180,7 +8180,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/259.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/259.webp"
     },
     "260": {
       "id": 260,
@@ -8204,7 +8204,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/260.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/260.webp"
     },
     "261": {
       "id": 261,
@@ -8228,7 +8228,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/261.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/261.webp"
     },
     "262": {
       "id": 262,
@@ -8252,7 +8252,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/262.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/262.webp"
     },
     "263": {
       "id": 263,
@@ -8276,7 +8276,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/263.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/263.webp"
     },
     "264": {
       "id": 264,
@@ -8300,7 +8300,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/264.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/264.webp"
     },
     "265": {
       "id": 265,
@@ -8324,7 +8324,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/265.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/265.webp"
     },
     "266": {
       "id": 266,
@@ -8348,7 +8348,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/266.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/266.webp"
     },
     "267": {
       "id": 267,
@@ -8372,7 +8372,7 @@
       "cursedToolId": null,
       "status": 3,
       "relatives": null,
-      "image": "/characters/267.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/267.webp"
     },
     "268": {
       "id": 268,
@@ -8396,7 +8396,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/268.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/268.webp"
     },
     "269": {
       "id": 269,
@@ -8420,7 +8420,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/269.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/269.webp"
     },
     "270": {
       "id": 270,
@@ -8444,7 +8444,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/270.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/270.webp"
     },
     "271": {
       "id": 271,
@@ -8468,7 +8468,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/271.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/271.webp"
     },
     "272": {
       "id": 272,
@@ -8492,7 +8492,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/272.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/272.webp"
     },
     "273": {
       "id": 273,
@@ -8516,7 +8516,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/273.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/273.webp"
     },
     "274": {
       "id": 274,
@@ -8540,7 +8540,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/274.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/274.webp"
     },
     "275": {
       "id": 275,
@@ -8564,7 +8564,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/275.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/275.webp"
     },
     "276": {
       "id": 276,
@@ -8588,7 +8588,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/276.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/276.webp"
     },
     "277": {
       "id": 277,
@@ -8612,7 +8612,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/277.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/277.webp"
     },
     "278": {
       "id": 278,
@@ -8636,7 +8636,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/278.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/278.webp"
     },
     "279": {
       "id": 279,
@@ -8660,7 +8660,7 @@
       "cursedToolId": null,
       "status": 2,
       "relatives": null,
-      "image": "/characters/279.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/279.webp"
     },
     "280": {
       "id": 280,
@@ -8684,7 +8684,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/280.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/280.webp"
     },
     "281": {
       "id": 281,
@@ -8708,7 +8708,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/281.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/281.webp"
     },
     "282": {
       "id": 282,
@@ -8732,7 +8732,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/282.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/282.webp"
     },
     "283": {
       "id": 283,
@@ -8756,7 +8756,7 @@
       "cursedToolId": null,
       "status": 1,
       "relatives": null,
-      "image": "/characters/283.webp"
+      "image": "https://raw.githubusercontent.com/Remojs/JJK-API-Images/refs/heads/master/Characters/283.webp"
     }
   }
 }
