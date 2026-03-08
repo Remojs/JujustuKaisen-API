@@ -15,21 +15,21 @@ return new class extends Migration
             $table->id();
             $table->string('name', 255);
             $table->json('alias')->nullable(); // Array de strings
-            $table->integer('speciesId'); // ID del constant de Specie
+            $table->integer('speciesId')->nullable(); // ID del constant de Specie
             $table->string('birthday', 50)->nullable();
             $table->string('height', 20)->nullable();
             $table->string('age', 20)->nullable();
-            $table->integer('gender'); // Enum de Gender
+            $table->integer('gender')->nullable(); // Enum de Gender
             $table->json('occupationId')->nullable(); // Array de IDs de Occupation
             $table->json('affiliationId')->nullable(); // Array de IDs de Affiliation
             $table->string('animeDebut', 100)->nullable();
             $table->string('mangaDebut', 100)->nullable();
             $table->json('cursedTechniquesIds')->nullable(); // Array de IDs de CursedTechniques
             $table->integer('gradeId')->nullable(); // ID del constant de Grade
-            $table->foreignId('domainExpansionId')->nullable()->constrained('domain_expansions');
+            $table->unsignedBigInteger('domainExpansionId')->nullable(); // ID del DomainExpansion
             $table->json('battlesId')->nullable(); // Array de IDs de Battles
             $table->json('cursedToolId')->nullable(); // Array de IDs de CursedTool
-            $table->integer('status'); // Enum de Status
+            $table->integer('status')->nullable(); // Enum de Status
             $table->json('relatives')->nullable(); // Array de strings
             $table->string('image')->nullable();
             $table->timestamps();

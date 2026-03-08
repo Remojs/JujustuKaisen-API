@@ -15,15 +15,14 @@ return new class extends Migration
             $table->id();
             $table->string('image')->nullable();
             $table->string('name', 255);
-            $table->string('type', 100);
-            $table->foreignId('owners')->constrained('characters'); // ID del Character
+            $table->string('type', 100)->nullable();
+            $table->json('owners')->nullable(); // Array de IDs de Characters
             $table->text('description')->nullable();
             $table->timestamps();
             
             // Index para búsquedas
             $table->index('name');
             $table->index('type');
-            $table->index('owners');
         });
     }
 

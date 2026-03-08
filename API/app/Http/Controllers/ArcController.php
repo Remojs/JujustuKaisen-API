@@ -2,47 +2,34 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Arc;
 use Illuminate\Http\Request;
+use Illuminate\Http\JsonResponse;
 
 class ArcController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     */
-    public function index()
+    public function getAll(): JsonResponse
     {
-        //
+        return response()->json(Arc::all());
     }
 
-    /**
-     * Store a newly created resource in storage.
-     */
-    public function store(Request $request)
+    public function getById($id): JsonResponse
     {
-        //
+        $arc = Arc::find($id);
+        if (!$arc) {
+            return response()->json(['error' => 'Arc not found'], 404);
+        }
+        return response()->json($arc);
     }
 
-    /**
-     * Display the specified resource.
-     */
-    public function show(string $id)
+    public function create(Request $request): JsonResponse
     {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, string $id)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     */
-    public function destroy(string $id)
-    {
-        //
+        $validated = $request->validate([
+            'name'  => 'required|string|max:255',
+            'manga' => 'nullable|string',
+            'anime' => 'nullable|array',
+            'image' => 'nullable|string',
+        ]);
+        return response()->json(Arc::create($validated), 201);
     }
 }

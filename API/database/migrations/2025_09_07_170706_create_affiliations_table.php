@@ -14,8 +14,8 @@ return new class extends Migration
         Schema::create('affiliations', function (Blueprint $table) {
             $table->id();
             $table->string('affiliation_name', 255);
-            $table->string('type', 100);
-            $table->foreignId('controlled_by')->nullable()->constrained('characters');
+            $table->string('type', 100)->nullable();
+            $table->unsignedBigInteger('controlled_by')->nullable(); // ID del Character (sin FK para sembrar antes que personajes)
             $table->string('location', 255)->nullable();
             $table->string('location_data', 255)->nullable();
             $table->text('description')->nullable();

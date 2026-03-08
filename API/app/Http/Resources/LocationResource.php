@@ -7,24 +7,15 @@ use Illuminate\Http\Resources\Json\JsonResource;
 
 class LocationResource extends JsonResource
 {
-    /**
-     * Transform the resource into an array.
-     *
-     * @return array<string, mixed>
-     */
     public function toArray(Request $request): array
     {
         return [
-            'id' => $this->id,
-            'name' => $this->name,
-            'description' => $this->description,
-            'type' => $this->type,
-            'prefecture' => $this->prefecture,
-            'country' => $this->country,
-            'characters_count' => $this->whenCounted('characters'),
-            'battles_count' => $this->whenCounted('battles'),
-            'created_at' => $this->created_at,
-            'updated_at' => $this->updated_at,
+            'id'            => $this->id,
+            'location_name' => $this->location_name,
+            'located_in'    => $this->located_in,
+            'description'   => $this->description,
+            'events'        => $this->events,
+            'image'         => $this->image,
         ];
     }
 }

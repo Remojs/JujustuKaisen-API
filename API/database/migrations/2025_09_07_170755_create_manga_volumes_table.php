@@ -19,6 +19,7 @@ return new class extends Migration
             $table->integer('pages')->nullable();
             $table->string('chapters', 100)->nullable();
             $table->string('cover_character', 255)->nullable();
+            $table->string('image')->nullable();
             $table->timestamps();
             
             // Index para búsquedas

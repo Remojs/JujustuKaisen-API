@@ -11,14 +11,11 @@ class MangaVolume extends Model
 
     protected $fillable = [
         'volume_number',
-        'title',
+        'volume_name',
+        'release_date',
+        'pages',
         'chapters',
-        'arc',
-        'cover_image',
-        'release_date'
-    ];
-
-    protected $casts = [
-        'chapters' => 'array'
+        'cover_character',
+        'image',
     ];
 }

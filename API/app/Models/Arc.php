@@ -11,23 +11,18 @@ class Arc extends Model
     use HasFactory;
 
     protected $fillable = [
-        'arc_name',
-        'arctype',
-        'arc_number',
-        'arc_part',
-        'anime_season',
-        'image'
+        'name',
+        'manga',
+        'anime',
+        'image',
     ];
 
-    // Relationship: arc -> AnimeEpisode
+    protected $casts = [
+        'anime' => 'array',
+    ];
+
     public function animeEpisodes(): HasMany
     {
         return $this->hasMany(AnimeEpisode::class, 'arc');
-    }
-
-    // Relationship: arc -> MangaChapter
-    public function mangaChapters(): HasMany
-    {
-        return $this->hasMany(MangaChapter::class, 'arc');
     }
 }

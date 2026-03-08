@@ -7,40 +7,29 @@ use Illuminate\Http\Resources\Json\JsonResource;
 
 class CharacterResource extends JsonResource
 {
-    /**
-     * Transform the resource into an array.
-     *
-     * @return array<string, mixed>
-     */
     public function toArray(Request $request): array
     {
         return [
-            'id' => $this->id,
-            'name' => $this->name,
-            'description' => $this->description,
-            'image' => $this->image,
-            'gender' => $this->gender?->label(),
-            'age' => $this->age,
-            'birthday' => $this->birthday?->format('Y-m-d'),
-            'height' => $this->height,
-            'weight' => $this->weight,
-            'hair_color' => $this->hair_color,
-            'eye_color' => $this->eye_color,
-            'status' => $this->status?->label(),
-            'species' => $this->species_name,
-            'grade' => $this->grade_name,
-            'location' => new LocationResource($this->whenLoaded('location')),
-            'abilities' => $this->abilities,
-            'first_appearance_manga' => $this->first_appearance_manga,
-            'first_appearance_anime' => $this->first_appearance_anime,
-            'occupations' => OccupationResource::collection($this->whenLoaded('occupations')),
-            'affiliations' => AffiliationResource::collection($this->whenLoaded('affiliations')),
-            'cursed_techniques' => CursedTechniqueResource::collection($this->whenLoaded('cursedTechniques')),
-            'cursed_tools' => CursedToolResource::collection($this->whenLoaded('cursedTools')),
-            'battles' => BattleResource::collection($this->whenLoaded('battles')),
-            'non_direct_battles' => BattleResource::collection($this->whenLoaded('nonDirectBattles')),
-            'created_at' => $this->created_at,
-            'updated_at' => $this->updated_at,
+            'id'                  => $this->id,
+            'name'                => $this->name,
+            'alias'               => $this->alias,
+            'speciesId'           => $this->speciesId,
+            'birthday'            => $this->birthday,
+            'height'              => $this->height,
+            'age'                 => $this->age,
+            'gender'              => $this->gender,
+            'occupationId'        => $this->occupationId,
+            'affiliationId'       => $this->affiliationId,
+            'animeDebut'          => $this->animeDebut,
+            'mangaDebut'          => $this->mangaDebut,
+            'cursedTechniquesIds' => $this->cursedTechniquesIds,
+            'gradeId'             => $this->gradeId,
+            'domainExpansionId'   => $this->domainExpansionId,
+            'battlesId'           => $this->battlesId,
+            'cursedToolId'        => $this->cursedToolId,
+            'status'              => $this->status,
+            'relatives'           => $this->relatives,
+            'image'               => $this->image,
         ];
     }
 }

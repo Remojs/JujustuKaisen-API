@@ -12,15 +12,13 @@ class CursedTechnique extends Model
     protected $fillable = [
         'technique_name',
         'description',
-        'category',
+        'type',
+        'range',
         'users',
-        'hand_signs',
-        'effects'
+        'image',
     ];
 
     protected $casts = [
         'users' => 'array',
-        'hand_signs' => 'array',
-        'effects' => 'array'
     ];
 }

@@ -4,7 +4,6 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Location extends Model
 {
@@ -12,22 +11,13 @@ class Location extends Model
 
     protected $fillable = [
         'location_name',
-        'locationType',
-        'characterId',
-        'details',
+        'located_in',
+        'description',
         'events',
-        'associated_chapters',
-        'image'
+        'image',
     ];
 
     protected $casts = [
         'events' => 'array',
-        'associated_chapters' => 'array'
     ];
-
-    // Relationship: characterId -> Character
-    public function character(): BelongsTo
-    {
-        return $this->belongsTo(Character::class, 'characterId');
-    }
 }

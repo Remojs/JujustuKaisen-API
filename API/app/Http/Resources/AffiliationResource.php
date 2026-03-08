@@ -7,20 +7,17 @@ use Illuminate\Http\Resources\Json\JsonResource;
 
 class AffiliationResource extends JsonResource
 {
-    /**
-     * Transform the resource into an array.
-     *
-     * @return array<string, mixed>
-     */
     public function toArray(Request $request): array
     {
         return [
-            'id' => $this->id,
-            'name' => $this->name,
-            'description' => $this->description,
-            'characters_count' => $this->whenCounted('characters'),
-            'created_at' => $this->created_at,
-            'updated_at' => $this->updated_at,
+            'id'               => $this->id,
+            'affiliation_name' => $this->affiliation_name,
+            'type'             => $this->type,
+            'controlled_by'    => $this->controlled_by,
+            'location'         => $this->location,
+            'location_data'    => $this->location_data,
+            'description'      => $this->description,
+            'image'            => $this->image,
         ];
     }
 }

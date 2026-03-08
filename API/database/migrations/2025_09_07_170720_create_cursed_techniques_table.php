@@ -16,16 +16,15 @@ return new class extends Migration
             $table->string('image')->nullable();
             $table->string('technique_name', 255);
             $table->text('description')->nullable();
-            $table->integer('type'); // ID del constant de TechniqueType
-            $table->integer('range'); // ID del constant de TechniqueRange
-            $table->foreignId('users')->constrained('characters'); // ID de Characters
+            $table->integer('type')->nullable(); // ID del constant de TechniqueType
+            $table->integer('range')->nullable(); // ID del constant de TechniqueRange
+            $table->json('users')->nullable(); // Array de IDs de Characters
             $table->timestamps();
             
             // Index para búsquedas
             $table->index('technique_name');
             $table->index('type');
             $table->index('range');
-            $table->index('users');
         });
     }
 

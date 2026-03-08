@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('image')->nullable();
             $table->string('name', 255);
-            $table->foreignId('user')->constrained('characters'); // ID del Character
+            $table->unsignedBigInteger('user')->nullable(); // ID del Character (sin FK para evitar dependencia circular)
             $table->string('range', 100)->nullable();
             $table->string('Type', 100)->nullable(); // Note: mantiene la mayúscula como en dataStructure.md
             $table->text('description')->nullable();

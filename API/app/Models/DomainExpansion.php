@@ -10,17 +10,11 @@ class DomainExpansion extends Model
     use HasFactory;
 
     protected $fillable = [
-        'domain_name',
+        'name',
         'user',
+        'range',
+        'Type',
         'description',
-        'sure_hit_effect',
-        'capabilities',
-        'weaknesses',
-        'image'
-    ];
-
-    protected $casts = [
-        'capabilities' => 'array',
-        'weaknesses' => 'array'
+        'image',
     ];
 }

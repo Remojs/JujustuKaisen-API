@@ -2,47 +2,50 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\AnimeEpisode;
 use Illuminate\Http\Request;
+use Illuminate\Http\JsonResponse;
 
 class AnimeEpisodeController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     */
-    public function index()
+    public function getAll(Request $request): JsonResponse
     {
-        //
+        $perPage = min($request->get('per_page', 20), 100);
+        return response()->json(AnimeEpisode::paginate($perPage));
     }
 
-    /**
-     * Store a newly created resource in storage.
-     */
-    public function store(Request $request)
+    public function getById($id): JsonResponse
     {
-        //
+        $ep = AnimeEpisode::find($id);
+        if (!$ep) {
+            return response()->json(['error' => 'Episode not found'], 404);
+        }
+        return response()->json($ep);
     }
 
-    /**
-     * Display the specified resource.
-     */
-    public function show(string $id)
+    public function getBySeason($season): JsonResponse
     {
-        //
+        return response()->json(AnimeEpisode::where('season', $season)->get());
     }
 
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, string $id)
+    public function getByArc($arcId): JsonResponse
     {
-        //
+        return response()->json(AnimeEpisode::where('arc', $arcId)->get());
     }
 
-    /**
-     * Remove the specified resource from storage.
-     */
-    public function destroy(string $id)
+    public function create(Request $request): JsonResponse
     {
-        //
+        $validated = $request->validate([
+            'episode_number'        => 'required|string',
+            'arc'                   => 'required|integer|exists:arcs,id',
+            'season'                => 'nullable|string',
+            'title'                 => 'required|string|max:255',
+            'mangachapters_adapted' => 'nullable|string',
+            'air_date'              => 'nullable|string',
+            'opening_theme'         => 'nullable|string',
+            'ending_theme'          => 'nullable|string',
+            'image'                 => 'nullable|string',
+        ]);
+        return response()->json(AnimeEpisode::create($validated), 201);
     }
 }

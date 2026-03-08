@@ -5,9 +5,6 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
-use Illuminate\Database\Eloquent\Relations\HasMany;
-use App\Enums\GenderEnum;
-use App\Enums\StatusEnum;
 
 class Character extends Model
 {
@@ -33,42 +30,30 @@ class Character extends Model
         'cursedToolId',
         'status',
         'relatives',
-        'image'
+        'image',
     ];
 
     protected $casts = [
-        'alias' => 'array',
-        'occupationId' => 'array',
-        'affiliationId' => 'array',
+        'alias'               => 'array',
+        'occupationId'        => 'array',
+        'affiliationId'       => 'array',
         'cursedTechniquesIds' => 'array',
-        'battlesId' => 'array',
-        'cursedToolId' => 'array',
-        'relatives' => 'array',
-        'gender' => 'integer',
-        'status' => 'integer'
+        'battlesId'           => 'array',
+        'cursedToolId'        => 'array',
+        'relatives'           => 'array',
+        'gender'              => 'integer',
+        'status'              => 'integer',
     ];
 
-    // Relationship: speciesId -> Species
-    public function speciesData(): BelongsTo
+    // Relación con Species (especieId -> species.id)
+    public function species(): BelongsTo
     {
         return $this->belongsTo(Species::class, 'speciesId');
     }
 
-    // Relationship: affiliationId -> Affiliation
-    public function affiliationData(): BelongsTo
+    // Relación con DomainExpansion (domainExpansionId -> domain_expansions.id)
+    public function domainExpansion(): BelongsTo
     {
-        return $this->belongsTo(Affiliation::class, 'affiliationId');
-    }
-
-    // Relationship: has many Techniques
-    public function techniques(): HasMany
-    {
-        return $this->hasMany(Technique::class, 'characterId');
-    }
-
-    // Relationship: has many Locations
-    public function locations(): HasMany
-    {
-        return $this->hasMany(Location::class, 'characterId');
+        return $this->belongsTo(DomainExpansion::class, 'domainExpansionId');
     }
 }

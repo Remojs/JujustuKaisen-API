@@ -10,18 +10,14 @@ class CursedTool extends Model
     use HasFactory;
 
     protected $fillable = [
-        'tool_name',
+        'name',
+        'type',
+        'owners',
         'description',
-        'tooltype',
-        'grade',
-        'abilities',
-        'current_owner',
-        'previous_owners',
-        'image'
+        'image',
     ];
 
     protected $casts = [
-        'abilities' => 'array',
-        'previous_owners' => 'array'
+        'owners' => 'array',
     ];
 }
