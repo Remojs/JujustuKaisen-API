@@ -1,0 +1,9 @@
+{
+  "technique_range": {
+    "1": {"id": 1,"technique_type": "Short Range"},
+    "2": {"id": 2,"technique_type": "Medium Range"},
+    "3": {"id": 3,"technique_type": "Long Range"},
+    "4": {"id": 4,"technique_type": "Variable Range"},
+    "5": {"id": 5,"technique_type": "Self"}
+  }
+}
