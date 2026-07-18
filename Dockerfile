@@ -20,7 +20,5 @@ RUN composer install --no-dev --optimize-autoloader
 EXPOSE 8000
 
 CMD touch database/database.sqlite && \
-    php artisan config:cache && \
-    php artisan route:clear && \
     php artisan migrate:fresh --seed --force && \
-    php artisan serve --host=0.0.0.0 --port=8000
+    php -S 0.0.0.0:8000 -t public vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php
