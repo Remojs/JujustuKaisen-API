@@ -15,12 +15,12 @@ WORKDIR /app/API
 COPY API/ .
 COPY Data/ /app/Data/
 
-RUN composer install --no-dev --optimize-autoloader
+RUN composer install --no-dev --optimize-autoloader && \
+    touch database/database.sqlite && \
+    touch .env && \
+    php artisan key:generate --force && \
+    php artisan migrate:fresh --seed --force
 
 EXPOSE 8000
 
-CMD touch database/database.sqlite && \
-    touch .env && \
-    php artisan key:generate --force && \
-    php artisan migrate:fresh --seed --force && \
-    php artisan serve --host=0.0.0.0 --port=8000
+CMD php artisan serve --host=0.0.0.0 --port=8000
