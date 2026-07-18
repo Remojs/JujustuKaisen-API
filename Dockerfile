@@ -19,7 +19,8 @@ RUN composer install --no-dev --optimize-autoloader
 
 EXPOSE 8000
 
-CMD php artisan config:cache && \
+CMD touch database/database.sqlite && \
+    php artisan config:cache && \
     php artisan route:clear && \
     php artisan migrate:fresh --seed --force && \
     php artisan serve --host=0.0.0.0 --port=8000
