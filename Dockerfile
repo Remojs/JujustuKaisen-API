@@ -20,6 +20,7 @@ RUN composer install --no-dev --optimize-autoloader
 EXPOSE 8000
 
 CMD touch database/database.sqlite && \
+    touch .env && \
     php artisan key:generate --force && \
     php artisan migrate:fresh --seed --force && \
     php artisan serve --host=0.0.0.0 --port=8000
